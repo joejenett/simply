@@ -27,7 +27,7 @@ twitter_username: joejenett
 github_username:  joejenett
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
