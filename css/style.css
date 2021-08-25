@@ -1,8 +1,17 @@
-body {
-width: 600px;
-margin:auto;
-}
+html {
 
+font-size: 16px;
+}
+body {
+
+}
+header.site-header {
+border-top:none;
+border-bottom:none;
+}
+div.wrapper {
+max-width:600px;
+}
 a.site-title {
 font-size: 2.5em;
 font-weight: 600;
