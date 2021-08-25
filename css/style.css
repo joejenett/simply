@@ -1,12 +1,4 @@
-
-#thumbs {
-	padding-top:24px;
+a.site-title {
+font-size:1.5em;
+font-weight:600;
 }
-#thumbs img {
-	position: relative;
-	float: left;
-	margin: 1px;
-	width:100px;
-
-}
-
