@@ -29,7 +29,16 @@ github_username:  joejenett
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+ - jekyll-feed
+ - kramdown
+feed:
+  posts_limit: 10
+  
+  markdown: kramdown
+            
+show_excerpts: true
+
+excerpt_separator: <!-- excerpt-end -->
 
 # Exclude from processing.
 # The following items will not be processed, by default.
