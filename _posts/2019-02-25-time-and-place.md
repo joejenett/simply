@@ -39,3 +39,25 @@ Saying more about that now just adds to the noise, so let’s move on. My mind s
 From Colorado to Delaware to Florida to Illinois to Michigan. All the stops in one’s journey define who they are and going back to where one started is just a visit to another new, though familiar place.
 
 Some stops in the journey border on unbearable but a new world is always just around the corner and when we’re lucky, it’s a better place.
+
+<h2 id="comments-title">One thought on “<span>time and place</span>”		</h2>
+
+
+<ol class="commentlist">
+<li class="comment even thread-even depth-1 h-cite h-entry p-comment" id="li-comment-53">
+<article id="comment-53" class="comment _mPS2id-t mPS2id-target" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<footer>
+<address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<img alt="" src="/wp-content/plugins/semantic-linkbacks/img/mm.jpg" srcset="/wp-content/plugins/semantic-linkbacks/img/mm.jpg 2x" class="avatar avatar-50 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name">Anne</cite> <span class="says">says:</span>					</address>
+<!-- .comment-author .vcard -->
+
+<div class="comment-meta commentmetadata">
+<a href="/time-and-place/#comment-53" class="__mPS2id _mPS2id-h mPS2id-highlight"><time class="updated published dt-updated dt-published" datetime="2019-02-27T14:11:42-05:00" itemprop="datePublished dateModified dateCreated">
+February 27, 2019 at 2:11 pm						</time></a>
+</div>
+<!-- .comment-meta .commentmetadata -->
+</footer>
+
+<div class="comment-content e-content p-summary p-name" itemprop="text name description">
+<p>I was just watching Cohen and the hearing, listening to republican members do their best mini-trump spewing and distracting. To think i’d live long enough to watch elected officials deliberately, happily support the destruction of democracy in America, is heartbreaking. It’s happened before in small ways here and there, but never before so publicly and in such unimaginable ways.</p>
+<p>Yes, unbearable. But also yes, there are better moments, better places. Thank you.</p></div></article></li></ol>

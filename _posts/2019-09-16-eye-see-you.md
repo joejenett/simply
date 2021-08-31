@@ -36,3 +36,14 @@ The timing of all this was lucky - that guy who came in late at night and took c
 ## and the bottom line
 
 Did somebody say normal? There is no normal. What’s normal exists within each of our souls and experience. And if there’s a point to be made about normal and surviving terrible things, it’s that life goes on. Thankfully, life goes on.
+
+<h2 id="comments-title">One thought on “<span>eye see you</span>”		</h2>
+
+
+<ol class="commentlist">
+</ol>
+<div class="likes">
+<h3>Likes</h3>
+<ul class="mention-list linkback-like"><li class="webmention even thread-even depth-1 linkback-like-single u-like h-cite h-entry p-comment comment" id="comment-147">
+<span class="p-author h-card"><a class="u-url" title="Brad Enslen liked this article on twitter.com." href="https://twitter.com/bradenslen"><img alt="" src="https://pbs.twimg.com/profile_images/84617460/mo128.gif" srcset="https://pbs.twimg.com/profile_images/84617460/mo128.gif 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Brad Enslen</span></span><a class="u-url __mPS2id" href="https://twitter.com/joejenett/status/1173559534356500481#favorited-by-22272829"></a>
+</li></ul></div>

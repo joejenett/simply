@@ -24,3 +24,23 @@ kind:
 <div class="entry-content e-content" itemprop="description articleBody">
 <p>I totally agree. Is my subscribing to your newsletter (or blog) so important to you that you need to aggressively annoy me like that (especially when you already have my attention)? </p>
 <p>Nothing more effectively drives me away from a site than sleazy overlays and slide-ins that block content and require action on my part to continue.</p></div>
+
+<h2 id="comments-title">2 thoughts on “<span>your content isn’t that important</span>”		</h2>
+
+
+<ol class="commentlist">
+</ol>
+<div class="likes">
+<h3>Likes</h3>
+<ul class="mention-list linkback-like"><li class="webmention even thread-even depth-1 linkback-like-single u-like h-cite h-entry p-comment comment" id="comment-79">
+<span class="p-author h-card"><a class="u-url" title="Brad Enslen liked this quote on twitter.com." href="https://twitter.com/bradenslen"><img alt="" src="https://pbs.twimg.com/profile_images/84617460/mo128.gif" srcset="https://pbs.twimg.com/profile_images/84617460/mo128.gif 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Brad Enslen</span></span><a class="u-url __mPS2id" href="https://twitter.com/joejenett/status/1110518402341371907#favorited-by-22272829"></a>
+</li></ul>
+</div>
+
+
+
+<div class="reposts">
+	<h3>Reposts</h3>
+	<ul class="mention-list linkback-repost"><li class="webmention odd alt thread-odd thread-alt depth-1 linkback-repost-single u-repost h-cite h-entry p-comment comment" id="comment-80">
+<span class="p-author h-card"><a class="u-url" title="Brad Enslen reposted this quote on twitter.com." href="https://twitter.com/bradenslen"><img alt="" src="https://pbs.twimg.com/profile_images/84617460/mo128.gif" srcset="https://pbs.twimg.com/profile_images/84617460/mo128.gif 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Brad Enslen</span></span><a class="u-url" href="https://twitter.com/bradenslen/status/1110535094622740480"></a>
+</li></ul></div>

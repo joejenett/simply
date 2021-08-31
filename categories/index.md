@@ -26,3 +26,4 @@ title: Categories
   </div>
 {% endfor %}
 </div>
+<p style="margin-top:48px;" class="rss-subscribe">subscribe <a href="{{ "/feed.atom" | relative_url }}">via RSS</a></p>

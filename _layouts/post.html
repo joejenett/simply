@@ -1,7 +1,18 @@
 ---
 layout: default
 ---
-
+<div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="width:50%;">
+    {% if page.previous.url %}
+    <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+    {% endif %}
+  </div>
+  <div style="width:50%;text-align:right;">
+    {% if page.next.url %}
+    <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+    {% endif %}
+  </div>
+</div> 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 <header class="post-header">
 <h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>

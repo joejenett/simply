@@ -29,3 +29,15 @@ kind:
   - Article
 ---
 <audio controls><source src="../wp-content/uploads/2021/01/Simple-Man.mp3" type="audio/mp3"></audio>
+
+<h2 id="comments-title">One thought on “<span>simple man</span>”		</h2>
+
+
+<ol class="commentlist">
+</ol>
+
+<div class="mentions">
+<h3>Mentions</h3>
+<ul class="mention-list linkback-mention"><li class="webmention even thread-even depth-1 linkback-mention-single u-mention h-cite h-entry p-comment comment" id="comment-317">
+<span class="p-author h-card"><a class="u-url" title="" href="https://twitter.com/iwebthings"><img alt="" src="https://pbs.twimg.com/profile_images/1072273291186987010/MGloHRRZ.jpg" srcset="https://pbs.twimg.com/profile_images/1072273291186987010/MGloHRRZ.jpg 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">i.webthings</span></span><a class="u-url" href="https://twitter.com/iwebthings/status/1346574599660707840"></a>
+</li></ul></div>
