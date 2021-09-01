@@ -57,7 +57,7 @@ body {
 
 #byline {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 1.2em;
+font-size: 1.1em;
 font-weight:300;
 font-style:italic;
 padding:4px 0 0 24px;
@@ -514,7 +514,7 @@ font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 #slugger {
 	position:relative;
 	float: right;
-	margin: 7px 7px 0 0;
+	margin: 5px 7px 0 0;
 }
 .site-header {
   border-top: 5px solid #424242;
@@ -523,14 +523,14 @@ font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   position: relative; }
 
 .site-title {
-  font-size: 26px;
+  font-size: 2em;
   font-weight: 300;
   line-height: 54px;
-  letter-spacing: -1px;
+  letter-spacing: .3em;
   margin-bottom: 0;
   float: left; }
   
-  .site-title, .site-title:visited {
+  .site-title, .site-title a:visited {
     color: #424242; }
 
 #site-title a {
@@ -540,15 +540,19 @@ font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	top: -4px;
 }
 #site-title {
-	font-size: 2.5em;
-	font-weight: 600;
-	letter-spacing: -1px;
+	font-size: 2em;
+	line-height:1.8em;
+	position:relative;
+	top:3px;
+	font-weight: 300;
+	text-transform:uppercase;
+	letter-spacing: .3em;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	position: relative;
 	padding-left: 12px;
 }
 h1#site-title.p-name a.u-url.url {
-font-weight:600;
+font-weight:300;
 }
 .site-nav {
   float: right;
