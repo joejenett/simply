@@ -16,22 +16,49 @@ layout: default
     {% assign count = 0 %}
       {%- for post in site.posts -%}
       {% assign count = count | plus:1 %}
-      <li style="margin-bottom:36px;border-bottom:1px solid #ddd;">
+    <div style="position:relative;top:-36px;display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <div style="width:50%;">
+        {% if post.previous.url %}
+        <a href="{{ site.baseurl }}{{post.previous.url}}">&larr; previous</a>
+        {% endif %}
+      </div>
+      <div style="width:50%;text-align:right;">
+        {% if post.next.url %}
+        <a href="{{ site.baseurl }}{{post.next.url}}">next &rarr;</a>
+        {% endif %}
+      </div>
+    </div> 
+        <li style="margin-bottom:36px;border-bottom:1px solid #ddd;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <h3>
+        <h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }} <span class="post-meta">({{ post.date | date: date_format }})</span>
-          </a> 
-        </h3>
+            {{ post.title | escape }}</a> 
+                  </h3>
+                  <div style="position:relative;top:-4px;margin-bottom:24px;">
+                  <span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+                  • <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
+<span class="post-meta p-author h-card" itemprop="name">joe jenett
+</span>
+                  <span class="post-meta post-categories">• posted in:
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+<a href="{{ site.url }}{{ site.baseurl }}/categories/#{{category|slugize}}">{{category}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+</span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+</div>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-
-        {% if post.excerpt != post.content %}
-          <p><a href="{{ site.baseurl }}{{ post.url }}">(read more...)</a></p>
-        {% endif %}
+        <div style="text-align:right;margin-right:24px;">
+        <a title="permalink" href="{{ post.url | relative_url }}">#</a>
+        </div>  
 </li>
-      {% if count == 5 %}{% break %}
+      {% if count == 1 %}{% break %}
           {% endif %}
       {%- endfor -%}
            {%- endif -%}
