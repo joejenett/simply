@@ -2,7 +2,7 @@
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title type="text" xml:lang="en">simply. personal.</title>
+  <title type="text" xml:lang="en">simply.</title>
   <link type="application/atom+xml" href="https://simply.jenett.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://simply.jenett.org/" rel="alternate"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
