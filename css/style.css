@@ -769,9 +769,9 @@ blockquote {
 ul.post-list li h3 {
 line-height:1.2em;
 }
-/*header {
-border-bottom: 1px solid #ddd;
-}*/
+header.post-header {
+border:none;;
+}
 /**
  * Syntax highlighting styles
  */
