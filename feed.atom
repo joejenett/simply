@@ -17,7 +17,7 @@
     <title>{{ post.title }}</title>
     <link href="https://simply.jenett.org{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>https://simply.jenett.org/{{ page.slug }}</id>
+    <id>https://simply.jenett.org/{{ page.url }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
