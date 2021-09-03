@@ -15,7 +15,12 @@ layout: default
 </div> 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 <header class="post-header">
+{% if page.title != "" %}
 <h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
+{% endif %}
+{% if page.title == "" %}
+<h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.content |  strip_html | truncatewords:5 }}</h1>
+{% endif %}
 <p class="post-meta">
 <a href="{{ site.baseurl }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

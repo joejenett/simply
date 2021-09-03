@@ -16,10 +16,18 @@ layout: default
 
     <ul>
     {%- for item in yearitem.items -%}
+    {% if item.title != "" %}
       <li style="list-style:none;text-indent:-22px;">
         <span><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></span>
         <date><small>({{ item.date | date:'%b %-d, %Y'}})</small></date>
       </li>
+      {% endif %}
+      {% if item.title == "" %}
+      <li style="list-style:none;text-indent:-22px;">
+        <span><a href="{{ site.baseurl }}{{ item.url }}">{{ item.content | strip_html | truncatewords:5 }}</a></span>
+        <date><small>({{ item.date | date:'%b %-d, %Y'}})</small></date>
+      </li>
+      {% endif %}
     {% endfor %}
     </ul>
   </yearlist>

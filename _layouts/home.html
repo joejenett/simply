@@ -30,10 +30,18 @@ layout: default
     </div> 
         <li style="margin-bottom:36px;border-bottom:1px solid #ddd;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {% if post.title != "" %}
         <h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}</a> 
                   </h3>
+        {% endif %}
+        {% if post.title == "" %}
+        <h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.content | strip_html | truncatewords:5 }}</a> 
+                  </h3>
+        {% endif %}
                   <div style="position:relative;top:-4px;margin-bottom:24px;">
                   <span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
                   • <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
