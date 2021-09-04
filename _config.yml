@@ -46,7 +46,11 @@ defaults:
       type: "posts"
     values:
       title: ""
-
+ - 
+    scope:
+      type: "feed"
+    values:
+      title: ""
      
 # Exclude from processing.
 # The following items will not be processed, by default.
