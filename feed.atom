@@ -14,10 +14,10 @@
 
   {% for post in site.posts limit:7 %}
   <entry>
-    <title>{{ post.title }}</title>
+    <title>{{ post.url }}</title>
     <link href="https://simply.jenett.org{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ page.title }}</id>
+    <id>https://simply.jenett.org{{ post.url }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
