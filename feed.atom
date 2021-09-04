@@ -14,10 +14,10 @@
 
   {% for post in site.posts limit:7 %}
   <entry>
-    {%- if post.category == "micro" -%}
+    {%- if post.categories == "micro" -%}
     <title></title>
     {% endif %}
-    {%- if post.category != "micro" -%}
+    {%- if post.categories != "micro" -%}
     <title>{{ post.url }}</title>
     {% endif %}
     <link href="https://simply.jenett.org{{ post.url }}"/>
