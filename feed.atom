@@ -14,7 +14,8 @@
 
   {% for post in site.posts limit:7 %}
   <entry>
-    <title>{{ post.url }}</title>
+  
+    <title>{% if item.title != "" %}{{ post.url }}{% endif %}</title>
     <link href="https://simply.jenett.org{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>https://simply.jenett.org{{ post.url }}</id>
