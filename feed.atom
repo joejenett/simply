@@ -14,8 +14,7 @@
 
   {% for post in site.posts limit:7 %}
   <entry>
-  
-    <title>{% if post.title != "" %}{{ post.url }}{% endif %}</title>
+    <title>{% if post.categpry != "micro" %}{{ post.url }}{% endif %}</title>
     <link href="https://simply.jenett.org{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>https://simply.jenett.org{{ post.url }}</id>
