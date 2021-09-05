@@ -5,7 +5,7 @@ date: 2021-06-23T17:01:26-04:00
 author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=3928
-permalink: '🍺 heres-to-the-oases/'
+permalink: '/🍺 heres-to-the-oases/'
 inline_featured_image:
   - "0"
 classic-editor-remember:
@@ -17,8 +17,8 @@ complete_open_graph:
 mf2_syndication:
   - 'a:1:{i:0;s:56:"https://twitter.com/joejenett/status/1407805543624937475";}'
   - 'a:1:{i:0;s:56:"https://twitter.com/joejenett/status/1407805543624937475";}'
-categories:
-  - micro
+category:
+  - personal
 kind:
   - Article
 ---
