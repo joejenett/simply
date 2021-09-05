@@ -36,7 +36,7 @@ layout: default
 {% assign categories = page.categories %}
 {% endif %}
 {% for category in categories %}
-<a href="{{ site.url }}{{ site.baseurl }}/categories/#{{category|slugize}}">{{category}}</a>
+<a href="{{ site.baseurl }}{{ site.baseurl }}/categories/#{{category|slugize}}">{{category}}</a>
 {% unless forloop.last %}&nbsp;{% endunless %}
 {% endfor %}
 </span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
@@ -64,7 +64,7 @@ layout: default
 {% assign categories = page.categories %}
 {% endif %}
 {% for category in categories %}
-<a href="{{ site.url }}{{ site.baseurl }}/categories/#{{category|slugize}}">{{category}}</a>
+<a href="{{ site.baseurl }}{{ site.baseurl }}/categories/#{{category|slugize}}">{{category}}</a>
 {% unless forloop.last %}&nbsp;{% endunless %}
 {% endfor %}
 </span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
