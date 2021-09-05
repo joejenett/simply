@@ -2,26 +2,21 @@
 layout: default
 ---
 <div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-  <div style="width:50%;">
-    {% if page.previous.url %}
-    <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
-    {% endif %}
-  </div>
-  <div style="width:50%;text-align:right;">
-    {% if page.next.url %}
-    <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
-    {% endif %}
-  </div>
+<div style="width:50%;">
+{% if page.previous.url %}
+<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+{% endif %}
+</div>
+<div style="width:50%;text-align:right;">
+{% if page.next.url %}
+<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+{% endif %}
+</div>
 </div> 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-<header class="post-header">
 {% if page.title != "" %}
+<article class="post h-entry" style="margin-top:24px;" itemscope itemtype="http://schema.org/BlogPosting">
+<header class="post-header">
 <h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
-{% endif %}
-{% if page.title == "" %}
-<h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.content |  strip_html | truncatewords:5 }}</h1>
-{% endif %}
 <p class="post-meta">
 <a href="{{ site.baseurl }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -48,44 +43,78 @@ layout: default
 <div class="post-content e-content" itemprop="articleBody">
 {{ content }}
 </div>
+{% endif %}
+
+
+{% if page.title == "" %}
+<article class="post h-entry" style="margin-top:36px;" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post-content e-content" style="margin-bottom:15px;" itemprop="articleBody">
+{{ content }}
+</div>
+<footer class="post-footer">
+<p class="post-meta">
+<a href="{{ site.baseurl }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{{ page.date | date: date_format }}
+</time></a>
+{%- if page.author -%}• <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
+<span class="p-author h-card" itemprop="name">{{ page.author }}
+</span>
+</span>
+{%- endif -%}
+<span class="post-categories">• posted in:
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+<a href="{{ site.url }}{{ site.baseurl }}/categories/#{{category|slugize}}">{{category}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+</span>
+</p>
+</footer>
+{% endif %}
+
 <div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-  <div style="width:50%;">
-    {% if page.previous.url %}
-    <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
-    {% endif %}
-  </div>
-  <div style="width:50%;text-align:right;">
-    {% if page.next.url %}
-    <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
-    {% endif %}
-  </div>
-</div> 
+<div style="width:50%;">
+{% if page.previous.url %}
+<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+{% endif %}
+</div>
+<div style="width:50%;text-align:right;">
+{% if page.next.url %}
+<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+{% endif %}
+</div>
+</div>  
 <script type="text/javascript">
-	$().ready(function(){
-		$.getJSON( "https://webmention.io/api/mentions?token=LwcEKlppPl7YfzUjG6LWDQ",
-		function( mydata ) {
-			console.log(mydata);
-			var output = '';
-			$.each(mydata.links, function(i, v) {
-				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-				output = 'Mentions: <br />';
-			}
-			});
-        		$.each(mydata.links, function(i, v) {
-        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-               		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
-               	}
-    	});
-    		output += ' ';
-    		$('#result').html(output);
-		});	
-	});
+$().ready(function(){
+$.getJSON( "https://webmention.io/api/mentions?token=LwcEKlppPl7YfzUjG6LWDQ",
+function( mydata ) {
+console.log(mydata);
+var output = '';
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output = 'Mentions: <br />';
+}
+});
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
+}
+});
+output += ' ';
+$('#result').html(output);
+});	
+});
 </script>
 <div id="result"></div>
 <div id="comments" style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
 <script src="https://utteranc.es/client.js"
 repo="joejenett/simply.personal"
-issue-term="title"
+issue-term="permalink"
 theme="github-light"
 crossorigin="anonymous"
 async>

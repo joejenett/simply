@@ -3,40 +3,33 @@ layout: default
 ---
 <div class="home">
 <!--
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-  -->
+{%- if page.title -%}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+-->
 <div style="margin-top:36px;">
-  {{ content }}
+{{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <!-- h2 class="post-list-heading">{{ page.list_title | default: "archive" }}</h2 -->
-    <ul class="post-list" style="margin-bottom:48px;">
-    {% assign count = 0 %}
-      {%- for post in site.posts -%}
-      {% assign count = count | plus:1 %}
-    {%- include postnav.html -%}
-        <li style="margin-bottom:36px;border-bottom:1px solid #ddd;">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {% if post.title != "" %}
-        <h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}</a> 
-                  </h3>
-        {% endif %}
-        {% if post.title == "" %}
-        <h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.content | strip_html | truncatewords:5 }}</a> 
-                  </h3>
-        {% endif %}
-                  <div style="position:relative;top:-4px;margin-bottom:24px;">
-                  <span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
-                  • <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
+<ul class="post-list" style="margin-bottom:48px;">
+{% assign count = 0 %}
+{%- for post in site.posts -%}
+{% assign count = count | plus:1 %}
+{% if count == 1 %}
+{%- include postnav.html -%}
+{% endif %}
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{% if post.title != "" %}
+<li style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
+<h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
+<a class="post-link" href="{{ post.url | relative_url }}">
+{{ post.title | escape }}</a> 
+</h3>
+<div style="position:relative;top:-4px;margin-bottom:24px;">
+<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+• <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
 <span class="post-meta p-author h-card" itemprop="name">joe jenett
 </span>
-                  <span class="post-meta post-categories">• posted in:
+<span class="post-meta post-categories">• posted in:
 {% if post %}
 {% assign categories = post.categories %}
 {% else %}
@@ -48,41 +41,67 @@ layout: default
 {% endfor %}
 </span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
 </div>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-        <div style="text-align:right;margin-right:24px;">
-        <a title="permalink" href="{{ post.url | relative_url }}">#</a>
-        </div>  
+{%- if site.show_excerpts -%}
+{{ post.excerpt }}
+{%- endif -%}
 </li>
-      {% if count == 1 %}{% break %}
-          {% endif %}
-      {%- endfor -%}
-           {%- endif -%}
-    </ul>
-    <p style="margin:0 30px;" class="rss-subscribe">subscribe <a href="{{ "/feed.atom" | relative_url }}">via RSS</a></p>
+{% endif %}
 
-  <!--
-  <script type="text/javascript">
-	$().ready(function(){
-		$.getJSON( "https://webmention.io/api/mentions?token=LwcEKlppPl7YfzUjG6LWDQ",
-		function( mydata ) {
-			console.log(mydata);
-			var output = '';
-			$.each(mydata.links, function(i, v) {
-				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-				output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Mentions: ';
-			}
-			});
-        		$.each(mydata.links, function(i, v) {
-        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-               		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
-               	}
-    	});
-    		output += '<div>';
-    		$('#result').html(output);
-		});	
-	});
+{% if post.title == "" %}
+<li style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
+{%- if site.show_excerpts -%}
+{{ post.excerpt }}
+{%- endif -%}
+<div style="position:relative;top:-4px;">
+<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+• <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
+<span class="post-meta p-author h-card" itemprop="name">joe jenett
+</span>
+<span class="post-meta post-categories">• posted in:
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+<a href="{{ site.url }}{{ site.baseurl }}/categories/#{{category|slugize}}">{{category}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+</span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+</div>
+</li>
+{% endif %}
+
+
+
+{% if count == 4 %}{% break %}
+{% endif %}
+
+{%- endfor -%}
+</ul>
+<p style="margin:0 30px;" class="rss-subscribe">subscribe <a href="{{ "/feed.atom" | relative_url }}">via RSS</a></p>
+
+<!--
+<script type="text/javascript">
+$().ready(function(){
+$.getJSON( "https://webmention.io/api/mentions?token=LwcEKlppPl7YfzUjG6LWDQ",
+function( mydata ) {
+console.log(mydata);
+var output = '';
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Mentions: ';
+}
+});
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
+}
+});
+output += '<div>';
+$('#result').html(output);
+});	
+});
 </script>
 <div id="result"></div>
 -->
