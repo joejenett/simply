@@ -26,7 +26,7 @@ title: Categories
     {% endif %}
         {% if post.title == "" %}
     <article class="archive-item">
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.content | strip_html | truncatewords:5 }}</a> <span><small>({{ post.date | date:'%b %-d, %Y'}})</small></span> &nbsp; </li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.content | strip_html | truncatewords:6 }}</a> <span><small>({{ post.date | date:'%b %-d, %Y'}})</small></span> &nbsp; </li>
     </article>
     {% endif %}
     {% endfor %}
