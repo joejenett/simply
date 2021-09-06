@@ -5,7 +5,7 @@ date: 2020-07-18T07:32:39-04:00
 author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1420
-permalink: '/%f0%9f%98%8e-thanks-for-saying-that/'
+permalink: '/😎-thanks-for-saying-that/'
 inline_featured_image:
   - "0"
 classic-editor-remember:
