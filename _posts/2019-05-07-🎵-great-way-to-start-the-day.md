@@ -15,7 +15,7 @@ excerpt: |
   Here's the <a href="https://simply.personal.jenett.org/%f0%9f%8e%b5-great-way-to-start-the-day/">song</a> by Tinsley Ellis via <a href="http://southernshelter.com/2011/02/tinsley-ellis-smiths-olde-bar-11201/">Southern Shelter</a>:
 layout: post
 guid: https://simply.personal.jenett.org/?p=860
-permalink: '/%f0%9f%8e%b5-great-way-to-start-the-day/'
+permalink: '/🎵-great-way-to-start-the-day/'
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:
