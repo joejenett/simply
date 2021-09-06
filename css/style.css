@@ -134,7 +134,7 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
  width:98%;
  padding:6px;
  border: 1px solid #a3b8cc;
- border-radius:8px;
+ /*border-radius:8px;*/
  background-color: #fbffff;
  margin-bottom:1px;
  font-size:1em;
