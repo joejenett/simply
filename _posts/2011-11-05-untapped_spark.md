@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/05/untapped-spark/
 permalink: /untapped_spark/
+slug: untapped_spark
 categories:
   - personal
 ---

@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/27/connecting-the-dots/
 permalink: /connecting_the_dots/
+slug: connecting_the_dots
 categories:
   - personal
 ---

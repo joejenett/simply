@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/29/i-got-yer-cloud-right-here-buddy/
 permalink: /i_got_yer_cloud_right_here_buddy/
+slug: i_got_yer_cloud_right_here_buddy
 categories:
   - personal
 ---

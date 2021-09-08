@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/18/no-problem-gotcha-covered/
 permalink: /no_problem_gotcha_covered/
+slug: no_problem_gotcha_covered
 categories:
   - personal
 ---

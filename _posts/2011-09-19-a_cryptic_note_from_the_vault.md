@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/19/a-cryptic-note-from-the-vault/
 permalink: /a_cryptic_note_from_the_vault/
+slug: a_cryptic_note_from_the_vault
 categories:
   - personal
 ---

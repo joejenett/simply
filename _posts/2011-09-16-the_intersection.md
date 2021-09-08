@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/16/the-intersection/
 permalink: /the_intersection/
+slug: the_intersection
 categories:
   - personal
 ---

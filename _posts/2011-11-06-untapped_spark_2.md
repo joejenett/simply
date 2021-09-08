@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/06/untapped-spark-2/
 permalink: /untapped_spark_2/
+slug: untapped_spark_2
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

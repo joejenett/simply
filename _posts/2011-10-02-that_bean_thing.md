@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/10/02/that-bean-thing/
 permalink: /that_bean_thing/
+slug: that_bean_thing
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

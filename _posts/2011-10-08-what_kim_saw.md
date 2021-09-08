@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/10/08/what-kim-saw/
 permalink: /what_kim_saw/
+slug: what_kim_saw
 categories:
   - personal
 ---

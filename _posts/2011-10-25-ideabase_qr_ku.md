@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/10/25/ideabase-qr-ku/
 permalink: /ideabase_qr_ku/
+slug: ideabase_qr_ku
 categories:
   - personal
 ---
