@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1286
 permalink: /a-quick-note-from-joe/
+slug: a-quick-note-from-joe
 inline_featured_image:
   - "0"
 classic-editor-remember:

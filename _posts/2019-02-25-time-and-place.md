@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=757
 permalink: /time-and-place/
+slug: time-and-place
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:
