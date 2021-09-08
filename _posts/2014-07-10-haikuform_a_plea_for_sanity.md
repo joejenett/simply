@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/07/10/haikuform-a-plea-for-sanity/
 permalink: /haikuform_a_plea_for_sanity/
+slug: haikuform_a_plea_for_sanity
 categories:
   - personal
 ---

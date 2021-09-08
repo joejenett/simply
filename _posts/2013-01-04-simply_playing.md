@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/01/04/simply-playing/
 permalink: /simply_playing/
+slug: simply_playing
 categories:
   - personal
 ---

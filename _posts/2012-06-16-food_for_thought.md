@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/06/16/food-for-thought/
 permalink: /food_for_thought/
+slug: food_for_thought
 classic-editor-remember:
   - classic-editor
 categories:

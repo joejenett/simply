@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/06/29/lifeblood/
 permalink: /lifeblood/
+slug: lifeblood
 categories:
   - personal
 ---

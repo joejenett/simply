@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/11/29/home-stretch/
 permalink: /home_stretch/
+slug: home_stretch
 categories:
   - personal
 ---

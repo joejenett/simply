@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/13/sidetracked/
 permalink: /sidetracked/
+slug: sidetracked
 categories:
   - personal
 ---

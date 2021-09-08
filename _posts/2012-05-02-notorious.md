@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/05/02/notorious/
 permalink: /notorious/
+slug: notorious
 categories:
   - personal
 ---

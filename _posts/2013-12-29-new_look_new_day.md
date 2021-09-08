@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/12/29/new-look-new-day/
 permalink: /new_look_new_day/
+slug: new_look_new_day
 categories:
   - personal
 ---

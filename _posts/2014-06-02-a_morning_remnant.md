@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/06/02/a-morning-remnant/
 permalink: /a_morning_remnant/
+slug: a_morning_remnant
 categories:
   - personal
 ---

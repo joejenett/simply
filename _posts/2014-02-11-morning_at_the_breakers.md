@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/02/11/morning-at-the-breakers/
 permalink: /morning_at_the_breakers/
+slug: morning_at_the_breakers
 categories:
   - personal
 ---

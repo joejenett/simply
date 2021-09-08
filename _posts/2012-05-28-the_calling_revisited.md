@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/05/28/the-calling-revisited/
 permalink: /the_calling_revisited/
+slug: the_calling_revisited
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

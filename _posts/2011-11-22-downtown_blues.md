@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/22/downtown-blues/
 permalink: /downtown_blues/
+slug: downtown_blues
 categories:
   - personal
 ---

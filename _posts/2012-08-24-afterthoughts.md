@@ -32,6 +32,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/08/24/afterthoughts/
 permalink: /afterthoughts/
+slug: afterthoughts
 categories:
   - personal
 ---

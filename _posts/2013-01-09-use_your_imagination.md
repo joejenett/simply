@@ -15,6 +15,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/01/09/use-your-imagination/
 permalink: /use_your_imagination/
+slug: use_your_imagination
 categories:
   - personal
 ---

@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/12/11/joes-wish-list/
 permalink: /joes_wish_list/
+slug: joes_wish_list
 categories:
   - personal
 ---

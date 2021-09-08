@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/10/30/here-on-the-other-side/
 permalink: /here_on_the_other_side/
+slug: here_on_the_other_side
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

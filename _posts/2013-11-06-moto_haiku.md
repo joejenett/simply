@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/11/06/moto-haiku/
 permalink: /moto_haiku/
+slug: moto_haiku
 categories:
   - personal
 ---

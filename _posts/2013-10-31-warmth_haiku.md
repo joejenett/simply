@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/10/31/warmth-haiku/
 permalink: /warmth_haiku/
+slug: warmth_haiku
 categories:
   - personal
 ---

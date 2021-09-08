@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2014/07/25/an-original-glimpstory/
 permalink: /an_original_glimpstory/
+slug: an_original_glimpstory
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

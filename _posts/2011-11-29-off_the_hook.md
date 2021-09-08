@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/29/off-the-hook/
 permalink: /off_the_hook/
+slug: off_the_hook
 categories:
   - personal
 ---

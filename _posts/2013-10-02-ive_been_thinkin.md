@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/10/02/ive-been-thinkin/
 permalink: /ive_been_thinkin/
+slug: ive_been_thinkin
 categories:
   - personal
 ---

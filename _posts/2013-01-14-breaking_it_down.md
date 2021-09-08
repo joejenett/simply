@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/01/14/breaking-it-down/
 permalink: /breaking_it_down/
+slug: breaking_it_down
 categories:
   - personal
 ---

@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/05/14/chicagostyle-2/
 permalink: /chicagostyle_2/
+slug: chicagostyle_2
 categories:
   - personal
 ---

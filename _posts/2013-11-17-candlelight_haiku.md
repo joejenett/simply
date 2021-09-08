@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/11/17/candlelight-haiku/
 permalink: /candlelight_haiku/
+slug: candlelight_haiku
 categories:
   - personal
 ---

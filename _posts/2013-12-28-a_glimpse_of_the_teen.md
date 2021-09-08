@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/12/28/a-glimpse-of-the-teen/
 permalink: /a_glimpse_of_the_teen/
+slug: a_glimpse_of_the_teen
 categories:
   - personal
 ---

@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/09/03/the-ultimate-filler/
 permalink: /the_ultimate_filler/
+slug: the_ultimate_filler
 categories:
   - personal
 ---

@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/09/would-you-have-clicked/
 permalink: /would_you_have_clicked/
+slug: would_you_have_clicked
 categories:
   - personal
 ---

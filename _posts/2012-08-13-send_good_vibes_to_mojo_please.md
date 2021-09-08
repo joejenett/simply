@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/08/13/send-good-vibes-to-mojo-please/
 permalink: /send_good_vibes_to_mojo_please/
+slug: send_good_vibes_to_mojo_please
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

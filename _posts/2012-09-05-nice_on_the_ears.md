@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/09/05/nice-on-the-ears/
 permalink: /nice_on_the_ears/
+slug: nice_on_the_ears
 categories:
   - personal
 ---

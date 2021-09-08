@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/11/11/behind-red-doors/
 permalink: /behind_red_doors/
+slug: behind_red_doors
 categories:
   - personal
 ---

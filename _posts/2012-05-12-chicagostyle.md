@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/05/12/chicagostyle/
 permalink: /chicagostyle/
+slug: chicagostyle
 categories:
   - personal
 ---

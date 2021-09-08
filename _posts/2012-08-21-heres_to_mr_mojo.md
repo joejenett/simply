@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/08/21/heres-to-mr-mojo/
 permalink: /heres_to_mr_mojo/
+slug: heres_to_mr_mojo
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

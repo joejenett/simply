@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/05/03/playing-with-the-bean/
 permalink: /playing_with_the_bean/
+slug: playing_with_the_bean
 categories:
   - personal
 ---

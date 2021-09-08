@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/03/28/down-in-the-under-2/
 permalink: /down_in_the_under_2/
+slug: down_in_the_under_2
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

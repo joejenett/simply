@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/06/02/the-getaway-3/
 permalink: /the_getaway_3/
+slug: the_getaway_3
 categories:
   - personal
 ---

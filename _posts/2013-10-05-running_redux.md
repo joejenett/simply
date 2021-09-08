@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/10/05/running-redux/
 permalink: /running_redux/
+slug: running_redux
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

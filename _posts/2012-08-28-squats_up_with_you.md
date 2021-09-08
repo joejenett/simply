@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/08/28/squats-up-with-you/
 permalink: /squats_up_with_you/
+slug: squats_up_with_you
 categories:
   - personal
 ---

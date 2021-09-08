@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/06/23/heres-lookin-at-you/
 permalink: /heres_lookin_at_you/
+slug: heres_lookin_at_you
 categories:
   - personal
 ---

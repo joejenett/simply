@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/11/15/on-the-air-haiku/
 permalink: /on_the_air_haiku/
+slug: on_the_air_haiku
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

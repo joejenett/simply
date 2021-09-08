@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/10/15/on-the-streets-of-beijing/
 permalink: /on_the_streets_of_beijing/
+slug: on_the_streets_of_beijing
 categories:
   - personal
 ---

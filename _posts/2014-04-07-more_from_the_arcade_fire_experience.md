@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/04/07/more-from-the-arcade-fire-experience/
 permalink: /more_from_the_arcade_fire_experience/
+slug: more_from_the_arcade_fire_experience
 categories:
   - personal
 ---

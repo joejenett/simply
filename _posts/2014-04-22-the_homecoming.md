@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/04/22/the-homecoming/
 permalink: /the_homecoming/
+slug: the_homecoming
 categories:
   - personal
 ---

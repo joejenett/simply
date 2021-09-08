@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/03/12/watching-you/
 permalink: /watching_you/
+slug: watching_you
 categories:
   - personal
 ---

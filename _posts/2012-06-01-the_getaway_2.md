@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/06/01/the-getaway-2/
 permalink: /the_getaway_2/
+slug: the_getaway_2
 categories:
   - personal
 ---
