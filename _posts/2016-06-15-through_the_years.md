@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2016/06/15/through-the-years/
 permalink: /through_the_years/
+slug: through_the_years
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

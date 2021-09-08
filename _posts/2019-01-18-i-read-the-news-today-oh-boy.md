@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=483
 permalink: /i-read-the-news-today-oh-boy/
+slug: i-read-the-news-today-oh-boy
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

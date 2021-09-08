@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2016/04/24/embrace-our-differences-we-are-one/
 permalink: /embrace_our_differences_we_are_one/
+slug: embrace_our_differences_we_are_one
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/11/01/just-a-thought-2/
 permalink: /just_a_thought_2/
+slug: just_a_thought_2
 categories:
   - personal
 ---

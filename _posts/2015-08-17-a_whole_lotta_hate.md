@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/08/17/a-whole-lotta-hate/
 permalink: /a_whole_lotta_hate/
+slug: a_whole_lotta_hate
 categories:
   - personal
 ---

@@ -7,6 +7,7 @@ excerpt: '<a href="../wp-content/uploads/2019/06/tinybeaches.jpg"><img class="al
 layout: post
 guid: https://simply.personal.jenett.org/?p=1002
 permalink: /tiny-beaches/
+slug: tiny-beaches
 inline_featured_image:
   - "0"
 classic-editor-remember:

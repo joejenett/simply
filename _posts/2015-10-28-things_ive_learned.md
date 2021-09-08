@@ -16,6 +16,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/10/28/things-ive-learned/
 permalink: /things_ive_learned/
+slug: things_ive_learned
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
