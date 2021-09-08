@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/07/12/the-beauty-of-age/
 permalink: /the_beauty_of_age/
+slug: the_beauty_of_age
 categories:
   - personal
 ---

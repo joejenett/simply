@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/01/09/pondering/
 permalink: /pondering/
+slug: pondering
 categories:
   - personal
 ---

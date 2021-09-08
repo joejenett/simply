@@ -15,6 +15,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/06/i-believe-in-sharing/
 permalink: /i_believe_in_sharing/
+slug: i_believe_in_sharing
 categories:
   - personal
 ---

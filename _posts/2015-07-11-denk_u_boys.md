@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/07/11/denk-u-boys/
 permalink: /denk_u_boys/
+slug: denk_u_boys
 categories:
   - personal
 ---

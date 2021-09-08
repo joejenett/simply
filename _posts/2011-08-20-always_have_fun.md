@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/08/20/always-have-fun/
 permalink: /always_have_fun/
+slug: always_have_fun
 classic-editor-remember:
   - classic-editor
 categories:

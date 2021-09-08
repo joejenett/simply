@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/05/26/a-perfect-retreat/
 permalink: /a_perfect_retreat/
+slug: a_perfect_retreat
 classic-editor-remember:
   - classic-editor
 categories:

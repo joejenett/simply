@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/02/29/signage-break/
 permalink: /signage_break/
+slug: signage_break
 categories:
   - personal
 ---

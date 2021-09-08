@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/24/donuts-and-balloons/
 permalink: /donuts_and_balloons/
+slug: donuts_and_balloons
 categories:
   - personal
 ---

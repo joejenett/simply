@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/07/28/intermission-2/
 permalink: /intermission_2/
+slug: intermission_2
 categories:
   - personal
 ---

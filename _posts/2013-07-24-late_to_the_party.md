@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2013/07/24/late-to-the-party/
 permalink: /late_to_the_party/
+slug: late_to_the_party
 categories:
   - personal
 ---

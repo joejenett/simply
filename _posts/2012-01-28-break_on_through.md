@@ -17,6 +17,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/01/28/break-on-through/
 permalink: /break_on_through/
+slug: break_on_through
 categories:
   - personal
 ---

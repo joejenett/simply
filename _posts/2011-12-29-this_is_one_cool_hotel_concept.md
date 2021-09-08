@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/12/29/this-is-one-cool-hotel-concept/
 permalink: /this_is_one_cool_hotel_concept/
+slug: this_is_one_cool_hotel_concept
 categories:
   - personal
 ---

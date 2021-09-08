@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/08/21/walls-n-sky/
 permalink: /walls_n_sky/
+slug: walls_n_sky
 categories:
   - personal
 ---

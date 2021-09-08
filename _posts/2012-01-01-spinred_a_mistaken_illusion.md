@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/01/01/spinred-a-mistaken-illusion/
 permalink: /spinred_a_mistaken_illusion/
+slug: spinred_a_mistaken_illusion
 categories:
   - personal
 ---

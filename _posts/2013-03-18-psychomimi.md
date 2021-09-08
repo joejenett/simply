@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/03/18/psychomimi/
 permalink: /psychomimi/
+slug: psychomimi
 categories:
   - personal
 ---

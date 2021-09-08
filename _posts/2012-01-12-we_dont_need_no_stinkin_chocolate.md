@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/01/12/we-dont-need-no-stinkin-chocolate/
 permalink: /we_dont_need_no_stinkin_chocolate/
+slug: we_dont_need_no_stinkin_chocolate
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

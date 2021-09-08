@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/08/02/who-o-o-o-o-o-cares/
 permalink: /who_o_o_o_o_o_cares/
+slug: who_o_o_o_o_o_cares
 classic-editor-remember:
   - classic-editor
 categories:

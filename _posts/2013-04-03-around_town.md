@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/04/03/around-town/
 permalink: /around_town/
+slug: around_town
 categories:
   - personal
 ---

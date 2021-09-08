@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2015/06/13/domain-in-waiting/
 permalink: /domain_in_waiting/
+slug: domain_in_waiting
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

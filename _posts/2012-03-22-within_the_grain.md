@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/03/22/within-the-grain/
 permalink: /within_the_grain/
+slug: within_the_grain
 categories:
   - personal
 ---

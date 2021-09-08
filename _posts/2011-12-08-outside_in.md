@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/12/08/outside-in/
 permalink: /outside_in/
+slug: outside_in
 categories:
   - personal
 ---

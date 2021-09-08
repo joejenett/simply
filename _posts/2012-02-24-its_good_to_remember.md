@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/02/24/its-good-to-remember/
 permalink: /its_good_to_remember/
+slug: its_good_to_remember
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

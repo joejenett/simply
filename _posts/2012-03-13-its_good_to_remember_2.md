@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/03/13/its-good-to-remember-2/
 permalink: /its_good_to_remember_2/
+slug: its_good_to_remember_2
 categories:
   - personal
 ---

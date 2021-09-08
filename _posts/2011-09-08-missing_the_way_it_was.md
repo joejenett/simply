@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/08/missing-the-way-it-was/
 permalink: /missing_the_way_it_was/
+slug: missing_the_way_it_was
 categories:
   - personal
 ---

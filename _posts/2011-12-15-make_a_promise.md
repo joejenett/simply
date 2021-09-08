@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/12/15/make-a-promise/
 permalink: /make_a_promise/
+slug: make_a_promise
 categories:
   - personal
 ---

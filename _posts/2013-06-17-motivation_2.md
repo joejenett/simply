@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/06/17/motivation-2/
 permalink: /motivation_2/
+slug: motivation_2
 classic-editor-remember:
   - classic-editor
 categories:

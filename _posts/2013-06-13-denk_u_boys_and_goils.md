@@ -16,6 +16,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/06/13/denk-u-boys-and-goils/
 permalink: /denk_u_boys_and_goils/
+slug: denk_u_boys_and_goils
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
