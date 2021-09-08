@@ -6,6 +6,6 @@ author: joe jenett
 category:
   -  personal
 permalink: /its-new-and-almost-there/
-slug:
+slug: its-new-and-almost-there
 ---
 Still a little dusty, but welcome to the makeover of simply.personal and simply.micro. Now it’s _simply_. Hope you like it.
