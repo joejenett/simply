@@ -10,3 +10,4 @@ wp-content/uploads/.DS_Store
 .obsidian/core-plugins.json
 .obsidian/hotkeys.json
 .obsidian/workspace
+.obsidian/graph.json
