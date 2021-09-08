@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=853
 permalink: /just-a-thought/
+slug: just-a-thought
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:

@@ -16,6 +16,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/12/28/hey-im-just-happy-to-be-here/
 permalink: /hey_im_just_happy_to_be_here/
+slug: hey_im_just_happy_to_be_here
 complete_open_graph:
   - 'a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}'
 categories:

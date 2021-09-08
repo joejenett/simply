@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/?p=1170
 permalink: /a-lot-of-people-out-here/
+slug: a-lot-of-people-out-here
 inline_featured_image:
   - "0"
 classic-editor-remember:

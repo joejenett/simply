@@ -22,6 +22,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/03/30/stop-making-sense-part-one/
 permalink: /stop_making_sense_part_one/
+slug: stop_making_sense_part_one
 categories:
   - personal
 ---

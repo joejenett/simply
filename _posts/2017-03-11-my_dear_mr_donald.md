@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/03/11/my-dear-mr-donald/
 permalink: /my_dear_mr_donald/
+slug: my_dear_mr_donald
 categories:
   - personal
 ---

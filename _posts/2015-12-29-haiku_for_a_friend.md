@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/12/29/haiku-for-a-friend/
 permalink: /haiku_for_a_friend/
+slug: haiku_for_a_friend
 categories:
   - personal
 ---

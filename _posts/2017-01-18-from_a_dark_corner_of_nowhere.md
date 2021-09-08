@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/01/18/from-a-dark-corner-of-nowhere/
 permalink: /from_a_dark_corner_of_nowhere/
+slug: from_a_dark_corner_of_nowhere
 categories:
   - personal
 ---

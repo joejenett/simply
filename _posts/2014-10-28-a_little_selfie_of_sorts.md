@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/10/28/a-little-selfie-of-sorts/
 permalink: /a_little_selfie_of_sorts/
+slug: a_little_selfie_of_sorts
 categories:
   - personal
 ---

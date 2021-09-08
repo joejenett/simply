@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/08/11/intermission-3/
 permalink: /intermission_3/
+slug: intermission_3
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/01/21/kims-turn-today/
 permalink: /kims_turn_today/
+slug: kims_turn_today
 categories:
   - personal
 ---

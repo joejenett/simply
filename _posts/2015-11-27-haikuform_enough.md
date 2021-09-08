@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/11/27/haikuform-enough/
 permalink: /haikuform_enough/
+slug: haikuform_enough
 categories:
   - personal
 ---

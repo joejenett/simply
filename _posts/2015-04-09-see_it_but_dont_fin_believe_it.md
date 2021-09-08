@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/04/09/see-it-but-dont-fin-believe-it/
 permalink: /see_it_but_dont_fin_believe_it/
+slug: see_it_but_dont_fin_believe_it
 categories:
   - personal
 ---

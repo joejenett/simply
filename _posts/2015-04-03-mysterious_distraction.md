@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/04/03/mysterious-distraction/
 permalink: /mysterious_distraction/
+slug: mysterious_distraction
 classic-editor-remember:
   - classic-editor
 categories:

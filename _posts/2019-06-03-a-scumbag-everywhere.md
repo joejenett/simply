@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=897
 permalink: /a-scumbag-everywhere/
+slug: a-scumbag-everywhere
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:

@@ -15,6 +15,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/?p=1167
 permalink: /the-dark-windows/
+slug: the-dark-windows
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -14,6 +14,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/09/11/f-u-apple-and-f-u2/
 permalink: /f_u_apple_and_f_u2/
+slug: f_u_apple_and_f_u2
 categories:
   - personal
 ---

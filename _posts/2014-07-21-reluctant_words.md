@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/07/21/reluctant-words/
 permalink: /reluctant_words/
+slug: reluctant_words
 categories:
   - personal
 ---

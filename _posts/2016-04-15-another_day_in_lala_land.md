@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2016/04/15/another-day-in-lala-land/
 permalink: /another_day_in_lala_land/
+slug: another_day_in_lala_land
 categories:
   - personal
 ---

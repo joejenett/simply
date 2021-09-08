@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/04/22/dump-redux/
 permalink: /dump_redux/
+slug: dump_redux
 categories:
   - personal
 ---

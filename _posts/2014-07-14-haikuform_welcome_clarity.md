@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/07/14/haikuform-welcome-clarity/
 permalink: /haikuform_welcome_clarity/
+slug: haikuform_welcome_clarity
 categories:
   - personal
 ---

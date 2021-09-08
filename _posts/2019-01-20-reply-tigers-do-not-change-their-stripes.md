@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=490
 permalink: /reply-tigers-do-not-change-their-stripes/
+slug: reply-tigers-do-not-change-their-stripes
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

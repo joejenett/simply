@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2016/07/31/oh-my-what-a-show/
 permalink: /oh_my_what_a_show/
+slug: oh_my_what_a_show
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

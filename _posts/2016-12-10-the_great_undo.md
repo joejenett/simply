@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2016/12/10/the-great-undo/
 permalink: /the_great_undo/
+slug: the_great_undo
 categories:
   - personal
 ---

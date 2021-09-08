@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/12/15/polite-society/
 permalink: /polite_society/
+slug: polite_society
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

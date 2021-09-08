@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/02/07/rockstar-weekend/
 permalink: /rockstar_weekend/
+slug: rockstar_weekend
 categories:
   - personal
 ---

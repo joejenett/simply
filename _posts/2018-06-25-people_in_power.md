@@ -16,6 +16,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/06/25/people-in-power/
 permalink: /people_in_power/
+slug: people_in_power
 categories:
   - personal
 ---

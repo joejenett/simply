@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/12/11/a-sign-of-the-times/
 permalink: /a_sign_of_the_times/
+slug: a_sign_of_the_times
 categories:
   - personal
 ---

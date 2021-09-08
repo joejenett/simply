@@ -16,6 +16,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/05/31/kims-morning-moment/
 permalink: /kims_morning_moment/
+slug: kims_morning_moment
 categories:
   - personal
 ---

@@ -15,6 +15,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/08/04/and-then-he-said/
 permalink: /and_then_he_said/
+slug: and_then_he_said
 categories:
   - personal
 ---

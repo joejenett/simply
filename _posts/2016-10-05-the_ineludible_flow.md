@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2016/10/05/the-ineludible-flow/
 permalink: /the_ineludible_flow/
+slug: the_ineludible_flow
 categories:
   - personal
 ---

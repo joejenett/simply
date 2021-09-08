@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/12/13/im-sorry-but-i-just-had-to-laugh/
 permalink: /im_sorry_but_i_just_had_to_laugh/
+slug: im_sorry_but_i_just_had_to_laugh
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2018/05/01/just-a-few-words/
 permalink: /just_a_few_words/
+slug: just_a_few_words
 categories:
   - personal
 ---

@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2016/10/30/just-a-thought-3/
 permalink: /just_a_thought_3/
+slug: just_a_thought_3
 categories:
   - personal
 ---

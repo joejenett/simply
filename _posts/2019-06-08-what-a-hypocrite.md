@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=929
 permalink: /what-a-hypocrite/
+slug: what-a-hypocrite
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:

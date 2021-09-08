@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=960
 permalink: /the-groove/
+slug: the-groove
 inline_featured_image:
   - "0"
 classic-editor-remember:

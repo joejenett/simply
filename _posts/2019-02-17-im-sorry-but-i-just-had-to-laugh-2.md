@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=748
 permalink: /im-sorry-but-i-just-had-to-laugh-2/
+slug: i-just-had-to-laugh-2
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:
