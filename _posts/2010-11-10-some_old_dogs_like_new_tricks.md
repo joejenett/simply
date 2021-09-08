@@ -15,6 +15,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/11/10/some-old-dogs-like-new-tricks/
 permalink: /some_old_dogs_like_new_tricks/
+slug: some_old_dogs_like_new_tricks
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

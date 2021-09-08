@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/22/heart2heart/
 permalink: /heart2heart/
+slug: heart2heart
 categories:
   - personal
 ---

@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/03/17/postcard-from-pontiac/
 permalink: /postcard_from_pontiac/
+slug: postcard_from_pontiac
 categories:
   - personal
 ---

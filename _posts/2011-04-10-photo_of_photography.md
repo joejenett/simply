@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2011/04/10/photo-of-photography/
 permalink: /photo_of_photography/
+slug: photo_of_photography
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

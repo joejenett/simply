@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2013/08/26/the-getaway/
 permalink: /the_getaway/
+slug: the_getaway
 classic-editor-remember:
   - classic-editor
 categories:

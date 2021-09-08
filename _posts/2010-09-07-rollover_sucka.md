@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/07/rollover-sucka/
 permalink: /rollover_sucka/
+slug: rollover_sucka
 categories:
   - personal
 ---

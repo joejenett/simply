@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/18/two-point-oh/
 permalink: /two_point_oh/
+slug: two_point_oh
 categories:
   - personal
 ---

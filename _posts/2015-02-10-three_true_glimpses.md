@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2015/02/10/three-true-glimpses/
 permalink: /three_true_glimpses/
+slug: three_true_glimpses
 categories:
   - personal
 ---

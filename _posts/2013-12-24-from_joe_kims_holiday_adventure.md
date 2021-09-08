@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2013/12/24/from-joe-kims-holiday-adventure/
 permalink: /from_joe_kims_holiday_adventure/
+slug: from_joe_kims_holiday_adventure
 categories:
   - personal
 ---

@@ -15,6 +15,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/01/30/its-a-matter-of-trust/
 permalink: /its_a_matter_of_trust/
+slug: its_a_matter_of_trust
 categories:
   - personal
 ---

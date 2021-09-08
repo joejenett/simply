@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/03/08/the-rotting-web/
 permalink: /the_rotting_web/
+slug: the_rotting_web
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

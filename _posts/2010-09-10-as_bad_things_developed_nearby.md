@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/10/as-bad-things-developed-nearby/
 permalink: /as_bad_things_developed_nearby/
+slug: as_bad_things_developed_nearby
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

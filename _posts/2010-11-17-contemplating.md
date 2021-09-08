@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/11/17/contemplating/
 permalink: /contemplating/
+slug: contemplating
 categories:
   - personal
 ---

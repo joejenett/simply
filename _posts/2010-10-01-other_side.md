@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/01/other-side/
 permalink: /other_side/
+slug: other_side
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

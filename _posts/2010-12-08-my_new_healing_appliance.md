@@ -14,6 +14,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/08/my-new-healing-appliance/
 permalink: /my_new_healing_appliance/
+slug: my_new_healing_appliance
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

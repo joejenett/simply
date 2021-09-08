@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/04/14/dissed-connected-1/
 permalink: /dissed_connected_1/
+slug: dissed_connected_1
 categories:
   - personal
 ---

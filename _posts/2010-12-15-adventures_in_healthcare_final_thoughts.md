@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/15/adventures-in-healthcare-final-thoughts/
 permalink: /adventures_in_healthcare_final_thoughts/
+slug: adventures_in_healthcare_final_thoughts
 categories:
   - personal
 ---

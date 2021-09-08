@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/01/06/easy-filler/
 permalink: /easy_filler/
+slug: easy_filler
 categories:
   - personal
 ---

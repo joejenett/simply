@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/11/jenett-was-here/
 permalink: /jenett_was_here/
+slug: jenett_was_here
 categories:
   - personal
 ---

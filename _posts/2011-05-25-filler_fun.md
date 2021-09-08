@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/05/25/filler-fun/
 permalink: /filler_fun/
+slug: filler_fun
 categories:
   - personal
 ---

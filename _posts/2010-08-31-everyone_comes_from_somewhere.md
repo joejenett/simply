@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/31/everyone-comes-from-somewhere/
 permalink: /everyone_comes_from_somewhere/
+slug: everyone_comes_from_somewhere
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/28/people-get-ready-gigglin/
 permalink: /people_get_ready_gigglin/
+slug: people_get_ready_gigglin
 categories:
   - personal
 ---

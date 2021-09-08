@@ -14,6 +14,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/09/22/haiku-unheard/
 permalink: /haiku_unheard/
+slug: haiku_unheard
 categories:
   - personal
 ---

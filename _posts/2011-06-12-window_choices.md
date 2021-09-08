@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/06/12/window-choices/
 permalink: /window_choices/
+slug: window_choices
 categories:
   - personal
 ---

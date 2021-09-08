@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/03/22/cant-get-him-outta-my-head/
 permalink: /cant_get_him_outta_my_head/
+slug: cant_get_him_outta_my_head
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

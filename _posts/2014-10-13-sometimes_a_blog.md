@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2014/10/13/sometimes-a-blog/
 permalink: /sometimes_a_blog/
+slug: sometimes_a_blog
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:

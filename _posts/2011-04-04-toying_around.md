@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2011/04/04/toying-around/
 permalink: /toying_around/
+slug: toying_around
 categories:
   - personal
 ---

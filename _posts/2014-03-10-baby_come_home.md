@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2014/03/10/baby-come-home/
 permalink: /baby_come_home/
+slug: baby_come_home
 classic-editor-remember:
   - classic-editor
 categories:

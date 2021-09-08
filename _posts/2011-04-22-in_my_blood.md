@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/04/22/in-my-blood/
 permalink: /in_my_blood/
+slug: in_my_blood
 categories:
   - personal
 ---

@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/29/chair-man-of-the-bored/
 permalink: /chair_man_of_the_bored/
+slug: chair_man_of_the_bored
 categories:
   - personal
 ---

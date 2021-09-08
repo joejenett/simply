@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/21/i-also-love-cranes/
 permalink: /i_also_love_cranes/
+slug: i_also_love_cranes
 categories:
   - personal
 ---

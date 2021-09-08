@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/06/never-so-thankful-part-2/
 permalink: /never_so_thankful_part_2/
+slug: never_so_thankful_part_2
 categories:
   - personal
 ---

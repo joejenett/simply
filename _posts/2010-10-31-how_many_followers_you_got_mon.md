@@ -14,6 +14,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/31/how-many-followers-you-got-mon/
 permalink: /how_many_followers_you_got_mon/
+slug: how_many_followers_you_got_mon
 categories:
   - personal
 ---

@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/07/22/daily-grind/
 permalink: /daily_grind/
+slug: daily_grind
 categories:
   - personal
 ---

@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/23/home-screen-wall-iphone/
 permalink: /home_screen_wall_iphone/
+slug: home_screen_wall_iphone
 categories:
   - personal
 ---

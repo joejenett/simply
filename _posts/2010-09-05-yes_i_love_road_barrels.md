@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/05/yes-i-love-road-barrels/
 permalink: /yes_i_love_road_barrels/
+slug: yes_i_love_road_barrels
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

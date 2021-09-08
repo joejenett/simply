@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/06/15/clear-vision/
 permalink: /clear_vision/
+slug: clear_vision
 categories:
   - personal
 ---

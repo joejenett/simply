@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/06/28/firstfull/
 permalink: /firstfull/
+slug: firstfull
 categories:
   - personal
 ---

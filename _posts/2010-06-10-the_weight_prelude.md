@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/06/10/the-weight-prelude/
 permalink: /the_weight_prelude/
+slug: the_weight_prelude
 categories:
   - personal
 ---

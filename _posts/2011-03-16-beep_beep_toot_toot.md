@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/03/16/beep-beep-toot-toot/
 permalink: /beep_beep_toot_toot/
+slug: beep_beep_toot_toot
 categories:
   - personal
 ---

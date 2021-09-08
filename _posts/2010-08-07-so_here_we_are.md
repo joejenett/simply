@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/07/so-here-we-are/
 permalink: /so_here_we_are/
+slug: so_here_we_are
 categories:
   - personal
 ---

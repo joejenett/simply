@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/07/30/on-reluctance-and-rebumblingkins/
 permalink: /on_reluctance_and_rebumblingkins/
+slug: on_reluctance_and_rebumblingkins
 categories:
   - personal
 ---

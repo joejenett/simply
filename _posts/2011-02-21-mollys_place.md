@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/02/21/mollys-place/
 permalink: /mollys_place/
+slug: mollys_place
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

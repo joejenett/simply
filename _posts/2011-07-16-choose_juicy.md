@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/07/16/choose-juicy/
 permalink: /choose_juicy/
+slug: choose_juicy
 categories:
   - personal
 ---

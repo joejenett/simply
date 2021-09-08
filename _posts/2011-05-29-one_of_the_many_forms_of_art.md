@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/05/29/one-of-the-many-forms-of-art/
 permalink: /one_of_the_many_forms_of_art/
+slug: one_of_the_many_forms_of_art
 categories:
   - personal
 ---

@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/08/08/another-moon-on-the-open-road/
 permalink: /another_moon_on_the_open_road/
+slug: another_moon_on_the_open_road
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

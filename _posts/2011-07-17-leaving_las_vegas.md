@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/07/17/leaving-las-vegas/
 permalink: /leaving_las_vegas/
+slug: leaving_las_vegas
 categories:
   - personal
 ---

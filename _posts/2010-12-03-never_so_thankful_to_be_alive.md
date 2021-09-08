@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/03/never-so-thankful-to-be-alive/
 permalink: /never_so_thankful_to_be_alive/
+slug: never_so_thankful_to_be_alive
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/09/sorry-im-easily-amused/
 permalink: /sorry_im_easily_amused/
+slug: sorry_im_easily_amused
 categories:
   - personal
 ---

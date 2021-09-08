@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/04/07/hithereku/
 permalink: /hithereku/
+slug: hithereku
 categories:
   - personal
 ---

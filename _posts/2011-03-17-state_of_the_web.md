@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/03/17/state-of-the-web/
 permalink: /state_of_the_web/
+slug: state_of_the_web
 categories:
   - personal
 ---

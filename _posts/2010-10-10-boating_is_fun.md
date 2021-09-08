@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/10/boating-is-fun/
 permalink: /boating_is_fun/
+slug: boating_is_fun
 categories:
   - personal
 ---

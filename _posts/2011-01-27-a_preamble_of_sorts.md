@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/01/27/a-preamble-of-sorts/
 permalink: /a_preamble_of_sorts/
+slug: a_preamble_of_sorts
 categories:
   - personal
 ---

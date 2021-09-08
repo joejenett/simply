@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2014/09/19/things-that-count/
 permalink: /things_that_count/
+slug: things_that_count
 categories:
   - personal
 ---

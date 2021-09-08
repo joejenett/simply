@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2013/01/06/survival-guide-part-1/
 permalink: /survival_guide_part_1/
+slug: survival_guide_part_1
 classic-editor-remember:
   - classic-editor
 categories:

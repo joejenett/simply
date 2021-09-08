@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/03/15/you-get-what-you-play-for/
 permalink: /you_get_what_you_play_for/
+slug: you_get_what_you_play_for
 categories:
   - personal
 ---

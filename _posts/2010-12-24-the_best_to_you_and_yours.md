@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/24/the-best-to-you-and-yours/
 permalink: /the_best_to_you_and_yours/
+slug: the_best_to_you_and_yours
 categories:
   - personal
 ---

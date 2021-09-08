@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/11/03/said-simpler/
 permalink: /said_simpler/
+slug: said_simpler
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

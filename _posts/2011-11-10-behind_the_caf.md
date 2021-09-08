@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/10/behind-the-caf/
 permalink: /behind_the_caf/
+slug: behind_the_caf
 categories:
   - personal
 ---

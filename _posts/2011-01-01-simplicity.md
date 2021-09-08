@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/01/01/simplicity/
 permalink: /simplicity/
+slug: simplicity
 categories:
   - personal
 ---

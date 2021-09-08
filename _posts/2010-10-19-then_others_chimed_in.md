@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/19/then-others-chimed-in/
 permalink: /then_others_chimed_in/
+slug: then_others_chimed_in
 categories:
   - personal
 ---
