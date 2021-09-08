@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/?p=1445
 permalink: /sign-of-the-times-part-1/
+slug: sign-of-the-times-part-1
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -7,6 +7,7 @@ excerpt: '<a href="https://jenett.org/scattered/" title="note: linked site deliv
 layout: post
 guid: https://simply.personal.jenett.org/?p=1096
 permalink: /follow-every-lead/
+slug: follow-every-lead
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -14,6 +14,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/10/20/yeah-im-here/
 permalink: /yeah_im_here/
+slug: yeah_im_here
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

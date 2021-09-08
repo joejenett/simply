@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.micro.jenett.org/?p=2046
 permalink: /fingers-crossed-for-a-positive-outcome/
+slug: fingers-crossed-for-a-positive-outcome
 inline_featured_image:
   - "0"
   - "0"

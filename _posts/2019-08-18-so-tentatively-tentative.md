@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1108
 permalink: /so-tentatively-tentative/
+slug: so-tentatively-tentative
 inline_featured_image:
   - "0"
 classic-editor-remember:

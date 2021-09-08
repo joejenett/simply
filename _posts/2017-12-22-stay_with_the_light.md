@@ -9,10 +9,11 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/12/22/stay-with-the-light/
 permalink: /stay_with_the_light/
+slug: stay_with_the_light
 categories:
   - personal
 ---
-<img src="../images/stay\_with\_the_light.jpg" alt='stay with the light'" style="border:none;max-width:550px;" />
+<img src="../images/stay\_with\_the_light.jpg" alt="stay with the light" style="border:none;max-width:550px;" />
 
 It's been an odd year and all the noise speaks for itself. Enough noise! I'd rather consider the powers of love, truth, and clarity. A collective light struggles to permeate the darkness with the wisdom that madness is not sustainable. Stay with the light and let your actions speak for themselves. The light will make it through and things will change.
 

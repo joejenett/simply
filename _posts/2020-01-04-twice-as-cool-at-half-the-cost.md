@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1265
 permalink: /twice-as-cool-at-half-the-cost/
+slug: twice-as-cool-at-half-the-cost
 inline_featured_image:
   - "0"
 classic-editor-remember:

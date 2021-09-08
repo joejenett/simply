@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/01/06/somewhere-ahead/
 permalink: /somewhere_ahead/
+slug: somewhere_ahead
 classic-editor-remember:
   - classic-editor
 categories:

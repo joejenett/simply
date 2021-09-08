@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1538
 permalink: /a-project-from-years-ago-i-hope-to-redesign-soon/
+slug: a-project-from-years-ago-i-hope-to-redesign-soon
 inline_featured_image:
   - "0"
 classic-editor-remember:

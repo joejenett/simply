@@ -14,6 +14,7 @@ excerpt: |
 layout: post
 guid: https://simply.micro.jenett.org/?p=1914
 permalink: /firefox-72-0-new-features/
+slug: firefox-72-0-new-features
 inline_featured_image:
   - "0"
   - "0"

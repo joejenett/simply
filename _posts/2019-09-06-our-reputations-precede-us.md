@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1178
 permalink: /our-reputations-precede-us/
+slug: our-reputations-precede-us
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=957
 permalink: /that-man-under-the-bridge/
+slug: that-man-under-the-bridge
 inline_featured_image:
   - "0"
 classic-editor-remember:

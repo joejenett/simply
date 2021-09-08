@@ -15,6 +15,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/?p=1016
 permalink: /in-honor-of-the-holiday/
+slug: in-honor-of-the-holiday
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1410
 permalink: /automation-and-the-intricacies-of-the-mind/
+slug: automation-and-the-intricacies-of-the-mind
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1558
 permalink: /in-the-shadows/
+slug: in-the-shadows
 inline_featured_image:
   - "0"
 classic-editor-remember:

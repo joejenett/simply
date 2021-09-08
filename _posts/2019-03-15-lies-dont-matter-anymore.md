@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=811
 permalink: /lies-dont-matter-anymore/
+slug: lies-dont-matter-anymore
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

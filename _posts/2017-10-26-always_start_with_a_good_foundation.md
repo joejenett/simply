@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/10/26/always-start-with-a-good-foundation/
 permalink: /always_start_with_a_good_foundation/
+slug: always_start_with_a_good_foundation
 categories:
   - personal
 ---

@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/01/30/a-wrong-turn/
 permalink: /a_wrong_turn/
+slug: a_wrong_turn
 categories:
   - personal
 ---

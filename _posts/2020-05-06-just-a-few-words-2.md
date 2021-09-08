@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1335
 permalink: /just-a-few-words-2/
+slug: just-a-few-words-2
 inline_featured_image:
   - "0"
 classic-editor-remember:

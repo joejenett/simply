@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=818
 permalink: /at-the-end-of-the-day/
+slug: at-the-end-of-the-day
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

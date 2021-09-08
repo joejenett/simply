@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2017/02/19/from-the-burger-line/
 permalink: /from_the_burger_line/
+slug: from_the_burger_line
 categories:
   - personal
 ---

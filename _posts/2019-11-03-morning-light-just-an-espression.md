@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1209
 permalink: /morning-light-just-an-espression/
+slug: morning-light-just-an-espression
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -12,6 +12,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/?p=1431
 permalink: /an-odd-welcome-message/
+slug: an-odd-welcome-message
 inline_featured_image:
   - "0"
 classic-editor-remember:

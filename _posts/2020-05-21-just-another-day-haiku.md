@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1356
 permalink: /just-another-day-haiku/
+slug: just-another-day-haiku
 inline_featured_image:
   - "0"
 classic-editor-remember:

@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1515
 permalink: /poor-winner-poor-loser/
+slug: poor-winner-poor-loser
 inline_featured_image:
   - "0"
 classic-editor-remember:
