@@ -3,6 +3,8 @@ id: 860
 title: 🎵 great way to start the day
 date: 2019-05-07T10:39:03-04:00
 author: joe jenett
+permalink: /🎵-great-way-to-start-the-day/
+slug: great-way-to-start-the-day
 excerpt: |
   When I heard Kim coming down this morning, I queued up three songs:
   <ul>
@@ -15,7 +17,6 @@ excerpt: |
   Here's the <a href="https://simply.personal.jenett.org/%f0%9f%8e%b5-great-way-to-start-the-day/">song</a> by Tinsley Ellis via <a href="http://southernshelter.com/2011/02/tinsley-ellis-smiths-olde-bar-11201/">Southern Shelter</a>:
 layout: post
 guid: https://simply.personal.jenett.org/?p=860
-permalink: '/🎵-great-way-to-start-the-day/'
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:
