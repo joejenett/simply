@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/20/a-word-from-joe/
 permalink: /a_word_from_joe/
+slug: a_word_from_joe
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:

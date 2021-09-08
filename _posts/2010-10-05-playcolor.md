@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/05/playcolor/
 permalink: /playcolor/
+slug: playcolor
 categories:
   - personal
 ---

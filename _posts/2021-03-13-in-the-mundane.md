@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1577
 permalink: /in-the-mundane/
+slug: in-the-mundane
 inline_featured_image:
   - "0"
 classic-editor-remember:

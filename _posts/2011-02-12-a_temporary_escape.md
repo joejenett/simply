@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/02/12/a-temporary-escape/
 permalink: /a_temporary_escape/
+slug: a_temporary_escape
 categories:
   - personal
 ---

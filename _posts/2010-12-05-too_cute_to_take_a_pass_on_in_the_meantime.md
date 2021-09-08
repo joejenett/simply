@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/05/too-cute-to-take-a-pass-on-in-the-meantime/
 permalink: /too_cute_to_take_a_pass_on_in_the_meantime/
+slug: too_cute_to_take_a_pass_on_in_the_meantime
 categories:
   - personal
 ---

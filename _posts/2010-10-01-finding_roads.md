@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/01/finding-roads/
 permalink: /finding_roads/
+slug: finding_roads
 categories:
   - personal
 ---

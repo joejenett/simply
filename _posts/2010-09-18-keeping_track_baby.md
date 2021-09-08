@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/18/keeping-track-baby/
 permalink: /keeping_track_baby/
+slug: keeping_track_baby
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

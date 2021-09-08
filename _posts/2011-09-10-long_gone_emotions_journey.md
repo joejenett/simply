@@ -9,6 +9,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/10/long-gone-emotions-journey/
 permalink: /long_gone_emotions_journey/
+slug: long_gone_emotions_journey
 categories:
   - personal
 ---

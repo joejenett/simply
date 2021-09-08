@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/30/scattered-light/
 permalink: /scattered_light/
+slug: scattered_light
 categories:
   - personal
 ---

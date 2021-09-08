@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/19/a-new-work-in-progress/
 permalink: /a_new_work_in_progress/
+slug: a_new_work_in_progress
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

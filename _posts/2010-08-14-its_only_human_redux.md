@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/14/its-only-human-redux/
 permalink: /its_only_human_redux/
+slug: its_only_human_redux
 categories:
   - personal
 ---

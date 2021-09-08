@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1184
 permalink: /eye-see-you/
+slug: eye-see-you
 inline_featured_image:
   - "0"
 classic-editor-remember:

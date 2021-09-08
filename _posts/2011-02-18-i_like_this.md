@@ -10,6 +10,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/02/18/i-like-this/
 permalink: /i_like_this/
+slug: i_like_this
 categories:
   - personal
 ---

@@ -37,6 +37,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/08/09/webstream-revisited/
 permalink: /webstream_revisited/
+slug: webstream_revisited
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:

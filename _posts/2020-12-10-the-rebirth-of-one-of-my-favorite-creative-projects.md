@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1547
 permalink: /the-rebirth-of-one-of-my-favorite-creative-projects/
+slug: the-rebirth-of-one-of-my-favorite-creative-projects
 inline_featured_image:
   - "0"
 classic-editor-remember:

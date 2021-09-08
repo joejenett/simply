@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=1523
 permalink: /hey-siri-you-need-more-coffee/
+slug: hey-siri-you-need-more-coffee
 inline_featured_image:
   - "0"
 classic-editor-remember:

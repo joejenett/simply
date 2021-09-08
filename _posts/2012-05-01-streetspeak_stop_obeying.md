@@ -11,6 +11,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/05/01/streetspeak-stop-obeying/
 permalink: /streetspeak_stop_obeying/
+slug: streetspeak_stop_obeying
 categories:
   - personal
 ---

@@ -8,6 +8,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/02/06/informative/
 permalink: /informative/
+slug: informative
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

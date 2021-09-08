@@ -23,6 +23,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/26/the-updated-scoop-on-coolstop/
 permalink: /the_updated_scoop_on_coolstop/
+slug: the_updated_scoop_on_coolstop
 categories:
   - personal
 ---

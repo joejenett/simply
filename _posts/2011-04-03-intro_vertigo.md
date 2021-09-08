@@ -13,6 +13,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2011/04/03/intro-vertigo/
 permalink: /intro_vertigo/
+slug: intro_vertigo
 categories:
   - personal
 ---

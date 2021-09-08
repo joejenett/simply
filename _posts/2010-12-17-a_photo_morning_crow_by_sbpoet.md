@@ -16,6 +16,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/17/a-photo-morning-crow-by-sbpoet/
 permalink: /a_photo_morning_crow_by_sbpoet/
+slug: a_photo_morning_crow_by_sbpoet
 categories:
   - personal
 ---

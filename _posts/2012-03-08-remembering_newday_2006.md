@@ -14,6 +14,7 @@ excerpt: |
 layout: post
 guid: https://simply.personal.jenett.org/2012/03/08/remembering-newday-2006/
 permalink: /remembering_newday_2006/
+slug: remembering_newday_2006
 categories:
   - personal
 ---

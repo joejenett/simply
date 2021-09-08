@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=475
 permalink: /so_much_for_relevant/
+slug: so_much_for_relevant
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
