@@ -490,7 +490,7 @@ table {
 }
 #branding h1 {
 	margin-bottom: 0;
-	padding-bottom: 0
+	padding-bottom: 4px;
 }
 #menu {
 	color: var(--base-color);
@@ -512,10 +512,10 @@ table {
 .home, #archives {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-#slugger {
+img.slugger {
 	position:relative;
 	float: right;
-	margin: 7px 7px 0 0;
+	margin: 6px 7px 0 0;
 }
 .site-header {
   border-top: 5px solid #424242;
@@ -542,7 +542,7 @@ font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #site-title {
 	font-size: 2.5em;
-	line-height:1.45em;
+	line-height:54px;
 	position:relative;
 	top:3px;
 	font-weight: 600;
