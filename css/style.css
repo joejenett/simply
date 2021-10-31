@@ -34,7 +34,7 @@ html {
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-  max-width:610px;
+  max-width:550px;
   margin: auto;
   padding: 0; }
 
@@ -334,7 +334,8 @@ main {
   display: block;
   /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 #page-container {
-	width: 550px;
+	/*width: 550px;*/
+	max-width: 100%
 	margin: auto;
 }
 
@@ -428,7 +429,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-  width: 550px;
+  /*width: 550px;*/
+  max-width: 100%
   margin-right: auto;
   margin-left: auto;
 padding:0;
