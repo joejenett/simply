@@ -431,8 +431,8 @@ pre {
   width: 550px;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px; }
+padding:0;
+  }
   @media screen and (max-width: 800px) {
     .wrapper {
       padding-right: 15px;
