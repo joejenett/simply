@@ -439,7 +439,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-  width: 550px;
+  max-width: 550px;
   margin-right: auto;
   margin-left: auto;
 padding:0;
