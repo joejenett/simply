@@ -31,7 +31,12 @@ html {
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
+body {
+max-width:600px;
+  margin: auto;
+  padding: 0;
+}
+h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   max-width:550px;
@@ -132,7 +137,7 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
   }
 
 #search-input {
- width:98%;
+ width:97%;
  padding:6px;
  border: 1px solid #ddd;
  /*border-radius:8px;*/
@@ -434,8 +439,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-  /*width: 550px;*/
-  max-width: 100%
+  width: 550px;
   margin-right: auto;
   margin-left: auto;
 padding:0;
