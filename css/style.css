@@ -199,7 +199,7 @@ section#media_image-2.widget {
 }
 .single-column #main .widget-area {
     overflow: hidden;
-    width: 550px;
+    max-width: 550px;
    }
 .sidefoot, .sidefoot p {
 margin-top: 48px;
@@ -345,7 +345,7 @@ main {
   /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 #page-container {
 	/*width: 550px;*/
-	max-width: 100%
+	max-width: 100%;
 	margin: auto;
 }
 
