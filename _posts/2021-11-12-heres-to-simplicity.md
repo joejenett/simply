@@ -12,7 +12,7 @@ slug: heres-to-simplicity
 
 <p>Ray was talking about his sensible simplification of <a href="https://blogroll.org/" title="Ye Olde Blogroll">Blogroll.org</a>. The change not only helped bring back the fun for him - it also improved the user experience. I like it!</p>
 
-<p>His story reminds me of my own need to simplify. Too many domains, too many Wordpress installations, and too many things to keep updated. Like Ray, I thought this was supposed to be fun. I’ve been doing this web thing for 24 years now and due to simplifying, I’m pleased to say it’s even more fun again now. </p>
+<p>His story reminds me of my own need to simplify. Too many domains, too many Wordpress installations, and too many things to keep updated. Like Ray, I thought this was supposed to be fun. I’ve been doing this web thing for 24 years now and due to simplifying, I’m pleased to say it’s even more fun now. </p>
 
 <p>I’ll spare you the details of the project. But if you explore my web a bit, you’ll probably get it. Like Ray said:</p>
 
