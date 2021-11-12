@@ -14,7 +14,7 @@ slug: heres-to-simplicity
 
 <p>His story reminds me of my own need to simplify. Too many domains, too many Wordpress installations, and too many things to keep updated. Like Ray, I thought this was supposed to be fun. I’ve been doing this web thing for 24 years now and due to simplifying, I’m pleased to say it’s even more fun now. </p>
 
-<p>I’ll spare you the details of the project. But if you explore my web a bit, you’ll probably get it. Like Ray said:</p>
+<p>I’ll spare you the details of the project. But if you explore <a href="#aka">my web</a> a bit, you’ll probably get it. Like Ray said:</p>
 
 <blockquote><p>Ahhhh… I can breathe easier and I don’t feel pressure anymore to keep so many things updated.</p></blockquote>
 
