@@ -546,6 +546,12 @@ font-weight:600;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight:600;
 }
+#menu span.sub, #menu span.sub a {
+	font-size:.8em;
+	margin:0 3px;
+	position:relative;
+	top:-1px;
+}
 .home, #archives {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
