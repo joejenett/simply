@@ -11,6 +11,7 @@ classic-editor-remember:
   - classic-editor
 categories:
   - personal
+  - music
 ---
 <p>storm nearing quickly<br />just another reminder<br />one needs a retreat:
 </p>

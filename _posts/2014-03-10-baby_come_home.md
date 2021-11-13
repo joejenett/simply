@@ -11,6 +11,7 @@ classic-editor-remember:
   - classic-editor
 categories:
   - personal
+  - music
 ---
 <p>
 <audio controls="controls" style="width:220px;margin:12px 0;">

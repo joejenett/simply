@@ -26,6 +26,7 @@ enclosure:
     
 categories:
   - personal
+  - music
 kind:
   - Article
 ---

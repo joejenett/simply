@@ -41,6 +41,7 @@ inline_featured_image:
   - "0"
 categories:
   - personal
+  - music
 kind:
   - Article
 ---
