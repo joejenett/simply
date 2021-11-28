@@ -25,6 +25,8 @@
     <script type="text/javascript" src="/js/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="/js/quoteback.js"></script>
 
+{%- feed_meta -%}
+
 <link href='/feed.atom' rel='alternate' title='simply. - full content feed' type='application/atom+xml'>
 
 <link rel="icon" href="/wp-content/uploads/2020/10/cropped-j0920-f-copy-32x32.png" sizes="32x32" />
@@ -33,7 +35,6 @@
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2020/10/cropped-j0920-f-copy-270x270.png" />
 
 <link rel="me" href="https://iwebthings.jenett.org/" />
-<link rel="me" href="https://github.com/joejenett" />
 <link rel="me" href="https://twitter.com/joejenett" />
 <link rel="me" href="https://jenett.org/" />
 <link rel="me" href="https://simply.jenett.org/" />
@@ -45,13 +46,16 @@
 <link rel="me" href="https://github.com/joejenett" />
 <link rel="me" href="https://mastodon.online/@jenett" />
 <link rel="me" href="https://micro.blog/joejenett" />
-<link rel="me" href="https://twitter.com/joejenett" />
 <link rel="me" href="mailto:joe.jenett@jenett.org" />
   
-<meta property='og:site_name' content='S I M P L Y .' />
+<meta property='og:site_name' content='simply.' />
 <meta property='og:url' content='{{ site.url }}{{ page.url }}' />
 <meta property='og:locale' content='en_US' />
-<meta property='og:description' content='it’s personal. and micro. — simply.' />
+{% if page.summary %}
+<meta name="og:description" content="{{ page.summary }}">
+{% else %}
+<meta name="og:description" content="{{ site.description }}">
+{% endif %}
 <meta property='og:title' content='{{ page.title }}' />
 <meta property='og:type' content='website' />
 <meta property='og:image' content='https://simply.jenett.org/images/simply.png' />
@@ -62,8 +66,10 @@
 <meta name='twitter:site' content='@joejenett' />
 <meta name='twitter:title' content='{{ page.title }}' />
 <meta name='twitter:image' content='https://simply.jenett.org/images/simply.png' />
-<meta name='twitter:description' content='it’s personal. and micro. — simply.' /> 
- 
-  {%- feed_meta -%}
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
 
 </head>
