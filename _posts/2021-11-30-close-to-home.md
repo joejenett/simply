@@ -7,7 +7,6 @@ category:
   -  personal
 permalink: /close-to-home/
 slug:	close-to-home
-image: /images/simply-b.png
 ---
 There was a school shooting earlier today in Oxford, the next town north of Lake Orion. 3 dead. 6 shot.
 
