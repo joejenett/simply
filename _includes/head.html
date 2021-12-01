@@ -1,7 +1,10 @@
+<!DOCTYPE html> 
+<html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
 {% if page.title != "" %}<title>{{ page.title }}</title>{% endif %}{% if page.title == "" %}
 <title>{{ page.content | strip_html | truncatewords:6 }}</title>{% endif %}
 <link rel="stylesheet" type="text/css" href="/assets/main.css" />
@@ -44,7 +47,7 @@
 <meta property='og:locale' content='en_US' />
 {% if page.summary %}<meta property="og:description" content="{{ page.summary }}" />{% else %}<meta property="og:description" content="{{ site.description }}" />{% endif %}
 <meta property='og:title' content='{{ page.title }}' />
-<meta property='og:type' content='website' />
+<meta property='og:type' content='article' />
 <meta property='og:image' content='https://simply.jenett.org/images/simply.png' />
 <meta property='og:image:width' content='300' />
 <meta property='og:image:height' content='300' />
@@ -52,7 +55,7 @@
 <meta name='twitter:creator' content='@joejenett' />
 <meta name='twitter:site' content='@joejenett' />
 <meta name='twitter:title' content='{{ page.title }}' />
-<meta name='twitter:image' content='https://simply.jenett.org/images/simply.png' />
+<meta name='twitter:image' content='https://simply.jenett.org/images/simply-b.png' />
 {% if page.summary %}<meta name="twitter:description" content="{{ page.summary }}" />{% else %}<meta name="twitter:description" content="{{ site.description }}" />{% endif %}
 
 </head>
