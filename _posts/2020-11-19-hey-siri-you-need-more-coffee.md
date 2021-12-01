@@ -30,9 +30,6 @@ I don’t remember exactly what we were talking about but I said, “Hey Siri, t
 Anyway, Siri asked me to confirm and I did without really listening to what she said. My bad. She sent a message to a guy named Ken I know whose last name sounds a little like “back to.” It read, “Vagina.”
 
 The rest is history. Thanks Siri!
-<img src="/images/simply-b.png" alt="" style="display:none;" />
-<a href="https://brid.gy/publish/twitter"></a>
-<data class="p-bridgy-omit-link" value="false"></data>
 <h2 id="comments-title">2 thoughts on “<span>Hey Siri, you need more coffee!</span>”		</h2>
 
 
