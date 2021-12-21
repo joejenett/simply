@@ -37,4 +37,3 @@ kind:
   </p><footer>//Jason Burk  
   <cite><a href="https://micro.burk.io/2020/07/17/characters-isnt-really.html">https://micro.burk.io/2020/07/17/characters-isnt-really.html</a></cite></footer>
 </blockquote>
-<p><br />[Thanks <a href="https://gabz.org/2020/07/17/characters-isnt-really.html" title="">Gabz</a> <small>(<a href="https://micro.blog/gabz" title="">@Gabz</a>)</small>]</p>
