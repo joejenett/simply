@@ -5,8 +5,8 @@ date: 2021-06-23T17:01:26-04:00
 author: joe jenett
 layout: post
 guid: https://simply.personal.jenett.org/?p=3928
-permalink: '/🍺 heres-to-the-oases/
-slug: heres-to-the-oases'
+permalink: '/🍺-heres-to-the-oases/'
+slug: 'heres-to-the-oases'
 inline_featured_image:
   - "0"
 classic-editor-remember:
