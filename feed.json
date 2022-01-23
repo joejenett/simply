@@ -12,7 +12,7 @@ permalink: /feed.json
     "user_comment": "This feed allows you to read the blogs from this site in any feed reader that supports the JSON Feed format.",
     "items": [{% for post in site.posts limit:1 %}
         {
-            "id": {{ site.url | jsonify }}/{{ post.url | jsonify }},
+            "id": {{ site.url | jsonify }}{{ post.url | jsonify }},
             "url": {{ site.url | absolute_url | jsonify }},
             "language": "en",
             "title": {{ post.title | jsonify }},
