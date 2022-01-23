@@ -10,7 +10,7 @@ permalink: /feed.json
     "home_page_url": {{ '/' | absolute_url | jsonify }},
     "feed_url": {{ page.permalink | absolute_url | jsonify }},
     "user_comment": "This feed allows you to read the blogs from this site in any feed reader that supports the JSON Feed format.",
-    "items": [{% for post in site.posts limit:3 %}
+    "items": [{% for post in site.posts limit:1 %}
         {
             "id": {{ site.url | absolute_url | jsonify }},
             "url": {{ site.url | absolute_url | jsonify }},
