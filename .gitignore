@@ -11,3 +11,7 @@ wp-content/uploads/.DS_Store
 .obsidian/hotkeys.json
 .obsidian/workspace
 .obsidian/graph.json
+.obsidian/community-plugins.json
+.obsidian/plugins/obsidian-auto-link-title/main.js
+.obsidian/plugins/obsidian-auto-link-title/manifest.json
+.obsidian/plugins/obsidian-auto-link-title/styles.css
