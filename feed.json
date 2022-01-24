@@ -10,10 +10,12 @@ permalink: /feed.json
     "home_page_url": {{ '/' | absolute_url | jsonify }},
     "feed_url": {{ page.permalink | absolute_url | jsonify }},
     "user_comment": "This feed allows you to read the blogs from this site in any feed reader that supports the JSON Feed format.",
-    "items": [{% for post in site.posts limit:1 %}
-        {
+    "items": 
+    [
+        {% for post in site.posts limit:1 %}
+            {
             "id": {{ site.url | absolute_url | jsonify }},
-            "url": {{ site.url | jsonify }}{{ post.url | jsonify }},
+            "url": {{ post.url | absolute_url | jsonify }},
             "language": "en",
             "title": {{ post.title | jsonify }},
             "summary": {{ post.summary | jsonify }},
@@ -25,7 +27,7 @@ permalink: /feed.json
             "authors": [{{ post.author | jsonify }}],
             "categories": {{ post.categories | jsonify }},
             "tags": {{ post.tags | jsonify }}
-        }
-        {% unless forloop.last %},{% endunless %}{% endfor %}
+            }
+        {% endfor %}
     ]
 }
