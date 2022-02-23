@@ -4,11 +4,11 @@ title: an odd welcome message
 date: 2020-09-11T06:27:06-04:00
 author: joe jenett
 excerpt: |
-  <blockquote class="quoteback" data-title="" data-author="//Michael B." data-avatar="/images/no-avatar.jpg" cite="https://cadmican.neocities.org/">
+  <blockquote class="quoteback" data-title="" data-author="//Michael B." data-avatar="/images/no-avatar.jpg" cite="">
   
   <p>Please feel free to explore the web somewhere else!</p>
   
-  <footer>//Michael B. <cite><a href="https://cadmican.neocities.org/">cadmican</a></cite></footer></blockquote>
+  <footer>//Michael B. <cite><a href="">cadmican</a></cite></footer></blockquote>
 layout: post
 guid: https://simply.personal.jenett.org/?p=1431
 permalink: /an-odd-welcome-message/
@@ -28,10 +28,10 @@ categories:
 kind:
   - Article
 ---
-<blockquote class="quoteback" data-title="" data-author="//Michael B." data-avatar="/images/no-avatar.jpg" cite="https://cadmican.neocities.org/">
+<blockquote class="quoteback" data-title="02/23/22: the site is gone now" data-author="//Michael B." data-avatar="/images/no-avatar.jpg" cite="#">
   <p>
     Please feel free to explore the web somewhere else!
   </p><footer>//Michael B. 
   
-  <cite><a href="https://cadmican.neocities.org/">cadmican</a></cite></footer>
+  <cite><a href="" >cadmican</a></cite></footer>
 </blockquote>
