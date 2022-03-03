@@ -34,7 +34,7 @@ The good news is I just completed the first step of resigning it. No more Flash 
 <article id="comment-310" class="comment _mPS2id-t mPS2id-target" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
 <footer>
 <address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
-<img alt="" src="/wp-content/plugins/webmention/img/mm.jpg" srcset="/wp-content/plugins/webmention/img/mm.jpg 2x" class="avatar avatar-50 photo u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name"><a href="http://look,%20a%20flounder/" rel="external nofollow ugc" class="u-url url">Anne</a></cite> <span class="says">says:</span>					</address>
+<img alt="" src="/wp-content/plugins/webmention/img/mm.jpg" srcset="/wp-content/plugins/webmention/img/mm.jpg 2x" class="avatar avatar-50 photo u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name">Anne</cite> <span class="says">says:</span>					</address>
 <!-- .comment-author .vcard -->
 
 <div class="comment-meta commentmetadata">

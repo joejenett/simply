@@ -33,7 +33,7 @@ I could say more but since it’s all been said before, I doubt you want to hear
 
 ## something Jack said
 
-[Jack Baty](https://copingmechanism.com/2020/im-not-ignoring-the-pandemic/):
+[Jack Baty](https://copingmechanism.com/):
 
 > I am finding it nearly impossible to think about anything other than our immediate global crisis. Even so, it is therapeutic to distract myself by writing about other, more mundane topics.
 

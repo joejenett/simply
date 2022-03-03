@@ -15,4 +15,4 @@ categories:
   - personal
 ---
 <img src="../images/trumpbot.png" alt="Grump" style="border:none;" />  
-(as analyzed by [CaptionBot](https://www.captionbot.ai/ "CaptionBot"))
+(as analyzed by CaptionBot)

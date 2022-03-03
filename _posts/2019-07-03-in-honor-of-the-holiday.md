@@ -37,5 +37,5 @@ Update 07/08/19:
 If you really must see the annoying image that was here, just click on the baby Trump.
 
 <div style="font-size:.8em;">
-  Image by Furfur [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Baby_Trump_blimp.svg">via Wikimedia Commons</a>
+  Image by Furfur [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/">via Wikimedia Commons</a>
 </div>

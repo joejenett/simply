@@ -13,6 +13,4 @@ slug: boating_is_fun
 categories:
   - personal
 ---
-...but I can’t remember it ever affecting me quite [like this](http://loonachic.tumblr.com/post/1286981140/boating-today-tee-hee).
-
 We’ve got only a few more weeks before getting _Sweetcheeks_ winterized (and out of commission until spring), so I’ve gotta get my butt out there a few more times soon.

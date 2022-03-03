@@ -3,14 +3,7 @@ id: 49
 title: how many followers you got, mon?
 date: 2010-10-31T10:04:21-04:00
 author: joe jenett
-excerpt: |
-  <p>I linked to <a href="http://safeandsavvy.f-secure.com/2010/10/21/reasons-why-i-deactivated-my-facebook-account/print/">something</a> from another webthing a few days ago. The author talks about why she 'might have quit' Facebook and three of the listed reasons have stuck in my mind since originally reading the article:</p>
-  <blockquote><ul>
-  <li>I wanted to get to know people in person</li>
-  <li>I wanted people to get to know me in person, but only if I like them</li>
-  <li>I had forgotten how to surf the internet for interesting content</li>
-  </ul></blockquote>
-  <a href="http://jenett.org/simply.personal/how_many_followers_you_got_mon_1/#more">Continue reading "how many followers you got, mon?" &raquo;</a>
+excerpt: 
 layout: post
 guid: https://simply.personal.jenett.org/2010/10/31/how-many-followers-you-got-mon/
 permalink: /how_many_followers_you_got_mon/
@@ -18,13 +11,11 @@ slug: how_many_followers_you_got_mon
 categories:
   - personal
 ---
-I linked to [something](http://safeandsavvy.f-secure.com/2010/10/21/reasons-why-i-deactivated-my-facebook-account/print/) from another webthing a few days ago. The author talks about why she &#8216;might have quit’ Facebook and three of the listed reasons have stuck in my mind since originally reading the article:
+I linked to something from another webthing (which didn't survive link testing as of March, 2022). The author talks about why she &#8216;might have quit’ Facebook and three of the listed reasons have stuck in my mind since originally reading the article:
 
 >   * I wanted to get to know people in person
 >   * I wanted people to get to know me in person, but only if I like them
 >   * I had forgotten how to surf the internet for interesting content
-
-<!--more-->
 
 There’s something I find really interesting about social networking. While the various social networks do provide a way for real friends (and family) to stay in touch, I think for many, the emphasis is on _how many followers_ they can gain. Somewhere along the line, the concept of &#8216;friendship’ has become diluted. People think of followers as friends and that’s just not necessarily true. 
 

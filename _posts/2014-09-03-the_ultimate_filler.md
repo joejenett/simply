@@ -14,4 +14,4 @@ slug: the_ultimate_filler
 categories:
   - personal
 ---
-So, I’m thinking to myself that I gotta get that political content off the front page but while I’m juggling a number of other things at the moment, what can I do other than resorting to that “page intentionally blank” trick? Why, [bouncing kitties](http://cat-bounce.com/ "bouncing kitties") is just the ticket, dontcha think? They even have a [mobile version](http://cat-bounce.com/mobile/ "mobile version") that doesn’t need Flash.
+So, I’m thinking to myself that I gotta get that political content off the front page but while I’m juggling a number of other things at the moment, what can I do other than resorting to that “page intentionally blank” trick? Why, [bouncing kitties](http://cat-bounce.com/ "bouncing kitties") is just the ticket, dontcha think? 
