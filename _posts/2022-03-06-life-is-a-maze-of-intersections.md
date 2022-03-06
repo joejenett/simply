@@ -13,7 +13,7 @@ In August of 2001, we lived in Aurora, Illinois. Kim’s new job required freque
 
 In my mind, the airport represented an intersection – one that not only led to us being apart but also led to our being together again. The latter, when we converged again was the best part. Intersections took on new meanings in my mind. The airport was special to me  then and for years to follow.
 
-So. That’s a little bit of the story behind my old <a href="https://jenett.org/intersect/">intersect</a> project. And thank's to a guy who recently reached out about the project, more of story may follow soon.
+So. That’s a little bit of the story behind my old <a href="https://jenett.org/intersect/">intersect</a> project. And thank's to a <a href="gossipsweb.net/">guy</a> who recently asked me about the project, more of story may follow soon.
 
 
 
