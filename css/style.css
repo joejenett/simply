@@ -310,11 +310,13 @@ div.entry-content, div.entry-content p {
   font-family: 'eb_garamondregular',Georgia,Times,serif;
   font-size: 1.3rem;
   line-height: 1.5em;
+  text-align: justify;
 }
 blockquote p {
 margin-top: 12px;
 	font-size: 1.3rem;
 	line-height: 1.5em;
+	text-align: justify;
 }
 blockquote.e-summary {
 	margin-top: 12px;
