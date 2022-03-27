@@ -4,7 +4,7 @@ layout: default
 <div class="home">
 <div style="margin-top:36px;">
 {{ content }}
-<ul class="post-list" style="margin-bottom:48px;">
+<div class="post-list" style="margin-bottom:48px;">
 {% assign count = 0 %}
 {%- for post in site.posts -%}
 {% assign count = count | plus:1 %}
@@ -13,7 +13,7 @@ layout: default
 {% endif %}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {% if post.title != "" %}
-<li style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
+<div style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
 <h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
 <a class="post-link" href="{{ post.url | relative_url }}">
 {{ post.title | escape }}</a> 
@@ -61,12 +61,12 @@ layout: default
 {% endfor %}
 </span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
 </div>
-</li>
+</div>
 {% endif %}
 {% if count == 4 %}{% break %}
 {% endif %}
 {%- endfor -%}
-</ul>
+</div>
 <p style="text-align:center;" class="rss-subscribe">subscribe <a href="{{ "/feed.atom" | relative_url }}">via RSS</a></p>
 </div>
 </div>
