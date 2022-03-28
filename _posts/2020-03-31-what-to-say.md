@@ -41,7 +41,6 @@ Stay safe and stay sane.
 
 <h2 id="comments-title">One thought on “<span>what to say</span>”		</h2>
 
-
 <ol class="commentlist">
 </ol>
 <div class="likes">
