@@ -31,11 +31,7 @@ I’m grateful to be in this safe place with Kim, both physically untouched by t
 
 I could say more but since it’s all been said before, I doubt you want to hear it. I know I don’t want to say it. There’s more to life than the misery we’re witnessing - there has to be!
 
-## something Jack said
-
-[Jack Baty](https://copingmechanism.com/):
-
-> I am finding it nearly impossible to think about anything other than our immediate global crisis. Even so, it is therapeutic to distract myself by writing about other, more mundane topics.
+## we need balance
 
 Part of survival is the realization that focusing only on dire straits (such as the current crisis represents) can be a sure path to going insane. We need balance. Life goes on despite it all and experience tells me distraction is a key to survival. It works for me anyway. It always has. Whether it’s writing about or only _thinking about_ something other than the immediate global crisis, it’s important to find balance - therapeutic indeed. 
 
