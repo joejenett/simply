@@ -168,8 +168,8 @@ div.hcard-header a.u-url.url.fn.u-uid {
 }
 @media screen and (max-width: 479px) { 
 body {
-max-width: 660px;
-padding: 0 30px;
+max-width: 640px;
+padding: 0 20px;
 }
 .hcard-display {
 margin: 60px auto 20px auto;
