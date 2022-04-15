@@ -167,6 +167,10 @@ div.hcard-header a.u-url.url.fn.u-uid {
 	text-align: center;
 }
 @media screen and (max-width: 479px) { 
+body {
+max-width: 640px;
+padding: 0 20px;
+}
 .hcard-display {
 margin: 60px auto 20px auto;
 }
