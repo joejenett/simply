@@ -5,8 +5,8 @@ date:   2022-04-17 16:07:31 -0400
 author: joe jenett
 category:
   -  giggles
-permalink: /whats–not-to-like-about-a-big-sloppy-sub/
-slug: whats–not-to-like-about-a-big-sloppy-sub
+permalink: /whats-not-to-like-about-a-big-sloppy-sub/
+slug: whats-not-to-like-about-a-big-sloppy-sub
 summary: Dance Jim Dance
 ---
 <p><img src="/images/dancing-jim.gif" alt="" width="300" /></p>
