@@ -11,8 +11,9 @@ summary: war is not healthy...
 ---
 it still applies - especially now!
 
-<img src="/images/not-healthy.jpg" alt="" width="300" />
+<img src="https://simply.jenett.org/images/not-healthy.jpg" alt="" width="300" />
 
+so sad
 
 <a href="https://brid.gy/publish/twitter"></a>
 <data class="p-bridgy-omit-link" value="false"></data>
