@@ -10,8 +10,10 @@ it’s <a href="/categories/#personal">personal</a> and <a href="/categories/#mi
 </div>
 <nav>
 <div id="menu">
-<a href="/">home</a> <a href="/archive/">archive</a> <a href="/categories/">categories</a> <span class="sub">(<a href="https://simply.jenett.org/categories/#music">music</a>|<a href="https://simply.jenett.org/categories/#redux">redux</a>|<a href="https://simply.jenett.org/categories/#from-the-vault">vault</a>)</span> <a href="#rings">rings</a> <a href="https://jenett.org/">about</a> <a href="https://jenett.org/contact/">contact</a>
+<a href="/">home</a> <a href="/archive/">archive</a> <a href="/categories/">categories</a> <a href="#rings">rings</a> <a href="https://jenett.org/">about</a> <a href="https://jenett.org/contact/">contact</a><a style="margin-left:8px;" href="#top" onclick="copyToClipboard()">copy link</a> <span id="message" style="visibility:hidden;"><a onclick="hideMe()" title="click to hide this message"><img src="/images/iwt.svg" width="16" style="vertical-align:middle;" alt=""> <small>copied </small>✔</a></span><script>function copyToClipboard(e){var o=document.getElementById("message"),d=document.body.appendChild(document.createElement("input"));d.value=window.location.href,d.focus(),d.select(),document.execCommand("copy"),d.parentNode.removeChild(d),o.style.visibility="visible"}function hideMe() {message.style.visibility = 'hidden';}</script>
 </div>
 </nav>
-
+<!--
+	<span class="sub">(<a href="https://simply.jenett.org/categories/#music">music</a>|<a href="https://simply.jenett.org/categories/#redux">redux</a>|<a href="https://simply.jenett.org/categories/#from-the-vault">vault</a>)</span>
+-->
 
