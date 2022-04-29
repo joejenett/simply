@@ -549,7 +549,7 @@ font-weight:600;
 #menu a {
 	color: var(--base-color);
     background: var(--bg-color);
-	margin: 0 12px;
+	margin: 0 8px;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight:600;
 }
