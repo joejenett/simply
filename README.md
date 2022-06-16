@@ -1,1 +1,1 @@
-# simply.personal
+# simply
