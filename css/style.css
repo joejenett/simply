@@ -165,6 +165,15 @@ div.hcard-header a.u-url.url.fn.u-uid {
 	background: var(--iwt-bg-color);
 	border-radius: 8px;
 	text-align: center;
+	font-size:90%;
+}
+.hcard-display p {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.note {
+font-size:.85em;
+line-height:1.4em;
+margin-top:-12px;
 }
 @media screen and (max-width: 479px) { 
 body {
