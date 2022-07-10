@@ -325,18 +325,18 @@ div.entry-content, div.entry-content p {
 .e-content p, .post-list p {
   font-family: 'eb_garamondregular',Georgia,Times,serif;
   font-size: 1.3rem;
-  line-height: 1.5em;
+  line-height: 1.3em;
 }
 blockquote p {
 margin-top: 12px;
 	font-size: 1.3rem;
-	line-height: 1.5em;
+	line-height: 1.3em;
 }
 blockquote.e-summary {
 	margin-top: 12px;
 	font-family: 'eb_garamondregular',Georgia,Times,serif;
 	font-size: 1.3rem;
-	line-height: 1.5em;
+	line-height: 1.3em;
 }
 div.entry-reaction section.response.u-like-of.h-cite header {
 border-bottom:none;
