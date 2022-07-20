@@ -411,7 +411,9 @@ a, section.response header a, ul.post-list li p a, .post-meta a, .rss-subscribe 
     color: var(--a-sp-color); }
   a:hover, section.response header a:hover, ul.post-list li p a:hover, .post-meta a:hover, .rss-subscribe a:hover, .e-content p a:hover, yearlist ul li span a:hover, div.archive-group article.archive-item li a:hover, article.post.h-entry div.post-content.e-content ul li a:hover, div.sidefoot a:hover, div.sidefoot p a:hover, div.home div ul.post-list li a:hover {
     color: var(--a-sp-color);
-    text-decoration: underline; }
+    text-decoration: underline;
+  -webkit-text-underline-position: auto;
+  text-underline-position: auto;}
   .social-media-list a:hover {
     text-decoration: none; }
     .social-media-list a:hover .username {
