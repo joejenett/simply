@@ -413,7 +413,8 @@ a, section.response header a, ul.post-list li p a, .post-meta a, .rss-subscribe 
     color: var(--a-sp-color);
     text-decoration: underline;
   -webkit-text-underline-position: auto;
-  text-underline-position: auto;}
+  text-underline-position: auto;
+}
   .social-media-list a:hover {
     text-decoration: none; }
     .social-media-list a:hover .username {
