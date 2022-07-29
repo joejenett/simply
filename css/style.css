@@ -146,7 +146,8 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
  font-size:1em;
 }
 div#result {
-padding-top:18px;	
+padding-top:18px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #results-container {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
