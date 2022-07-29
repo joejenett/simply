@@ -61,6 +61,9 @@ body {
   min-height: 100vh;
   flex-direction: column;*/ }
 
+  #rings, .sidefoot {
+	  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
 #byline {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size: 1.1em;
