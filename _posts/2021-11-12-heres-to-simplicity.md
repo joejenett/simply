@@ -20,7 +20,7 @@ slug: heres-to-simplicity
 
 <p>And that’s why this blog is now <strong>simply.</strong></p>
 
-<div style="padding:9px;border:1px solid #333;">
+<div style="padding:9px;border:1px solid #ccc;">
 <h4>Previous Comments:</h4>
 <p style="font-size:.8em;"><a href="https://github.com/ScootRay" title=""><img src="https://avatars.githubusercontent.com/u/12983100?v=4?v=3&s=88" alt="" width="44" /> Scoot Ray</a> commented on <a href="https://github.com/joejenett/simply/issues/1#issuecomment-968181005" title="">Nov 13, 2021</a>
 </p>
