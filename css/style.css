@@ -148,6 +148,8 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
 div#result {
 padding-top:18px;
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size:.95em;
+font-weight:600;
 }
 #results-container {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
