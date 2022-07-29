@@ -8,6 +8,7 @@ category:
 permalink: /i-have-an-answer-for-this/
 slug: i-have-an-answer-for-this
 summary: yuck!
+comments: true
 ---
 <blockquote><p>To remove the popups, a license of €9.95 is required</p></blockquote>
 

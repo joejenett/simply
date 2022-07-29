@@ -9,6 +9,7 @@ category:
 permalink: extraordinary-satirical-art-imo
 slug: extraordinary-satirical-art-imo
 summary:
+comments: true
 ---
 There’s more than the amazing collage that meets the eye. I’m still exploring the artist’s <em>in depth details</em>, a long list of links pertaining to all the slogans, memes, and images used in the installation. I wasn’t going to admit it but I <em>did</em> sing along with it too.
 <blockquote class="quoteback" data-title="Careless Twitter by POTUS" data-author="//Kenneth Tin-Kin Hung" data-avatar="http://www.tinkin.com/wp-content/uploads/kenneth-profile-pic-sm.jpg" cite="http://www.tinkin.com/portfolio-item/careless-twitter-by-potus/">

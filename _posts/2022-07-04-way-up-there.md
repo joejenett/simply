@@ -8,6 +8,7 @@ category:
 permalink: /way-up-there/
 slug: way-up-there
 summary: on the 76th floor
+comments: true
 ---
 <p>
 <img src="/images/upthere.jpg" alt="way up there" width="100%" />

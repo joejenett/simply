@@ -8,6 +8,7 @@ category:
 permalink: /it-still-applies/
 slug: it-still-applies
 summary: war is not healthy...
+comments: true
 ---
 it still applies - especially now!
 

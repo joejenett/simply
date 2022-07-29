@@ -8,6 +8,7 @@ category:
 permalink: /life-is-a-maze-of-intersections/
 slug: life-is-a-maze-of-intersections
 summary:
+comments: true
 ---
 In August of 2001, we lived in Aurora, Illinois. Kim’s new job required frequent travel between the Chicago and Detroit Areas. A week-at-a-time being apart was a new challenge. Lovebirds never like leaving the cage.
 
