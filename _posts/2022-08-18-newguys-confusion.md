@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  newguys’ confusion
-date:   2022-08-18 15:55:07 -0400
+date:   2022-08-18 16:11:01 -0400
 author: joe jenett
 category:
   -  personal
