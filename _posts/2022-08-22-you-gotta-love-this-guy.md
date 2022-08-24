@@ -24,5 +24,21 @@ Then I discovered something on the sidebar (gawd, I love when that happens) - Jo
 </p>
 <p>Like I said, you gotta love this guy!</p>
 
+<div style="margin:24px 0;">
+
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:.8rem;"><a href="https://johnjohnston.info/blog/thanks-for-the-love-joe/"><img src="https://secure.gravatar.com/avatar/6af1df804358e928344788af8aaca6e4?s=90&d=mm&r=g" alt="" width="48"> John Johnstone</a> replied:
+</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:.8rem;">Thanks for the love Joe,<br />
+Just when I think I’ll get rid of the sidebar. They do seem to have gone out of fashion. I guess I’ll keep mine till they come back in😉
+</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:.8rem;"><a href="http://ds106.us/">Ds106</a>, was/is a wonderful course on ‘digital storytelling’ that has run in several universities but allows anyone to join in. A source of a lot of fun and a lot of learning about owning your own space.
+</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:.8rem;">
+	The video is in the style of the now disappeared online service pummelvision. After it went I wrote a script to replicate it.
+</p>
+
+
+</div>
+
 <a href="https://brid.gy/publish/twitter"></a>
 <data class="p-bridgy-omit-link" value="false"></data>
