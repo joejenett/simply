@@ -9,7 +9,7 @@ permalink: /you-gotta-love-this-guy/
 slug: you-gotta-love-this-guy
 summary: likely the best teacher in Scotland
 comments: true
-excerpt: My buddy <a href="https://johnjohnston.info/blog/">John</a> is now back to school as a teacher in Scotland. His <a title="Back to School Tomorrow  Back to School Tomorrow" href="https://johnjohnston.info/blog/back-to-school-tomorrow/"><em>summer redux</em></a> includes a wonderful video collage of <em>summer photos</em> - done quite well to music by <a title="incompetech – Music and also Graph Paper" href="https://incompetech.com/">Kevin MacLeod</a>. Nice... (<a href="https://simply.jenett.org/you-gotta-love-this-guy/">more</a>)
+excerpt: <p>My buddy <a href="https://johnjohnston.info/blog/">John</a> is now back to school as a teacher in Scotland. His <a title="Back to School Tomorrow  Back to School Tomorrow" href="https://johnjohnston.info/blog/back-to-school-tomorrow/"><em>summer redux</em></a> includes a wonderful video collage of <em>summer photos</em> - done quite well to music by <a title="incompetech – Music and also Graph Paper" href="https://incompetech.com/">Kevin MacLeod</a>. Nice... (<a href="https://simply.jenett.org/you-gotta-love-this-guy/">more</a>)</p>
 ---
 <p>My buddy <a href="https://johnjohnston.info/blog/">John</a> is now back to school as a teacher in Scotland. His <a title="Back to School Tomorrow  Back to School Tomorrow" href="https://johnjohnston.info/blog/back-to-school-tomorrow/"><em>summer redux</em></a> includes a wonderful video collage of <em>summer photos</em> - done quite well to music by <a title="incompetech – Music and also Graph Paper" href="https://incompetech.com/">Kevin MacLeod</a>. Nice.
 </p>
