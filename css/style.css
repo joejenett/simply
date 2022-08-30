@@ -61,7 +61,16 @@ body {
   min-height: 100vh;
   flex-direction: column;*/ }
 
-  
+div.cactus-comment-avatar-placeholder {
+	background-color:#fff;
+}
+div.cactus-comment-avatar-placeholder::before {
+	content:"";
+}
+
+div.cactus-comment-avatar img {
+	max-width:none;
+}  
 
   
   #rings, #rings p, .sidefoot, .sidefoot p {
