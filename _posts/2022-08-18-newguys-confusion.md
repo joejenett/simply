@@ -18,7 +18,7 @@ comments: true
 </div>
 </div>
 -->
-<img src="/images/confusion.png" alt="" style="max-width:75%;" />
+<img src="/images/confusion.png" alt="" style="max-width:50%;" />
 <p style="margin-top:12px;">Will the real newguy please stand up!</p>
 <a href="https://brid.gy/publish/twitter"></a>
 <data class="p-bridgy-omit-link" value="false"></data>
