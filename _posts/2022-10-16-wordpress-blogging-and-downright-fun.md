@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Wordpress, blogging and downright-fun
+title:  Wordpress, blogging and downright fun
 date:   2022-10-16 10:23:29 -0400
 author: joe jenett
 category:
