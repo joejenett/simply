@@ -6,7 +6,7 @@ author: joe jenett
 category:
   -  personal
   -  art
-permalink: extraordinary-satirical-art-imo
+permalink: /extraordinary-satirical-art-imo/
 slug: extraordinary-satirical-art-imo
 summary:
 comments: true
