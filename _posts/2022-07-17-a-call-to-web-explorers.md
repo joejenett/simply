@@ -9,7 +9,7 @@ category:
 permalink: /a-call-to-web-explorers/
 slug: a-call-to-web-explorers
 summary:
-comments: true
+comments: 
 ---
 Just this morning, a nudge from a [pinboard friend](https://pinboard.in/u:ramblinggit) reminds me of a familiar project, [Status Cafe](https://status.cafe/). I just gots to explore it again!  
 

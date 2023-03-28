@@ -15,6 +15,8 @@ permalink: /haikuform_enough/
 slug: haikuform_enough
 categories:
   - personal
+  - haiku
+  - haikuform
 ---
 a little bizarre  
 watching as it all plays out  

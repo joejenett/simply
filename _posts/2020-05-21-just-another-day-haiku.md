@@ -24,6 +24,7 @@ autopostToMastodonshare-lastSuccessfullTootURL:
   - https://mastodon.host/@jenett/104206859335555891
 categories:
   - personal
+  - haiku
 kind:
   - Article
 ---

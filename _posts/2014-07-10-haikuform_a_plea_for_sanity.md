@@ -15,6 +15,8 @@ permalink: /haikuform_a_plea_for_sanity/
 slug: haikuform_a_plea_for_sanity
 categories:
   - personal
+  - haiku
+  - haikuform
 ---
 the world doesn’t turn  
 around me nor around you  

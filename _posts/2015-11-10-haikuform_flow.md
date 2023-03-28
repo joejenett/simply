@@ -22,6 +22,8 @@ mf2_syndication:
   - 'a:0:{}'
 categories:
   - personal
+  - haiku
+  - haikuform
 kind:
   - Article
 ---

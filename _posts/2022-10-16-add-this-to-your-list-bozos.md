@@ -9,7 +9,7 @@ category:
 permalink: /add-this-to-your-list-bozos/
 slug: add-this-to-your-list-bozos
 summary:
-comments: true
+comments: 
 ---
 <img src="/images/fail4.png" width="100%" style="border:1px solid #ddd;" alt="" />
 <h2>Isn’t it ironic?</h2>

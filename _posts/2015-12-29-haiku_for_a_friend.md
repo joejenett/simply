@@ -15,6 +15,7 @@ permalink: /haiku_for_a_friend/
 slug: haiku_for_a_friend
 categories:
   - personal
+  - haiku
 ---
 the distance between  
 like minds trying to connect  

@@ -91,6 +91,29 @@ layout: default
 </div>  
 <script>
 $().ready(function(){
+$.getJSON( "https://webmention.io/api/mentions.html?token=d8pT6uqtBlSea14LVoZWqw",
+function( mydata ) {
+console.log(mydata);
+var output = '';
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output = 'Mentions: <br />';
+}
+});
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
+}
+});
+output += ' ';
+$('#result2').html(output);
+});	
+});
+</script>
+<div id="result2"></div>
+
+<script>
+$().ready(function(){
 $.getJSON( "https://webmention.io/api/mentions?token=LwcEKlppPl7YfzUjG6LWDQ",
 function( mydata ) {
 console.log(mydata);
@@ -127,7 +150,7 @@ initComments({
   node: document.getElementById("comment-section"),
   defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
   serverName: "cactus.chat",
-  siteName: "simply.jenett.org",
+  siteName: "simply.joejenett.com",
   commentSectionId: "{{ page.slug }}"
 })
 </script>

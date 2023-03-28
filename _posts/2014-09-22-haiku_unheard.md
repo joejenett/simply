@@ -17,6 +17,7 @@ permalink: /haiku_unheard/
 slug: haiku_unheard
 categories:
   - personal
+  - haiku
 ---
 spanning massive depth  
 the artist sets out for truth  

@@ -15,6 +15,7 @@ permalink: /warmth_haiku/
 slug: warmth_haiku
 categories:
   - personal
+  - haiku
 ---
 I keep it warm here  
 inside my home and my heart  

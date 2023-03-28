@@ -9,7 +9,7 @@ category:
 permalink: /the-spirit-of-the-old-web-is-alive-and-well/
 slug: the-spirit-of-the-old-web-is-alive-and-well
 summary: things I’ve been up to lately
-comments: true
+comments: 
 ---
 <p>
 Over the last month, I’ve been working on the resurrection of <em>bulltown</em>. It’s a <a href="https://bulltown.2022.jenett.org/">new take</a> on content from the <em>bulltown</em> archives, circa 1997-2004 inspired by so many sites I’ve encountered recently full of the retro style and spirit of the web of the late 1990s. I have a new appreciation for that content in terms of where my head was at back then - in a sense, it helps me understand who I am now. It’s been a gratifying experience. 

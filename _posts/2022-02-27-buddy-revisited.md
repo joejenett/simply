@@ -9,7 +9,7 @@ category:
 permalink: /buddy-revisited/
 slug: buddy-revisited
 summary:
-comments: true
+comments: 
 ---
 <p><img src="/images/buddy.jpg"  alt="Buddy Guy on his 80th" title="Buddy Guy on his 80th" width="100%" /></p>
  <p><small>(thanks <a title="Glitch Image Generator" href="https://glitchyimage.com/">Glitch Image Generator</a>)</small></p>

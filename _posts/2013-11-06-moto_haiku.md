@@ -15,6 +15,7 @@ permalink: /moto_haiku/
 slug: moto_haiku
 categories:
   - personal
+  - haiku
 ---
 the road stripes blurring  
 into a bumpy sidescape  

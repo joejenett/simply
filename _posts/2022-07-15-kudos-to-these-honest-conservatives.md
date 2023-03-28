@@ -9,7 +9,7 @@ category:
 permalink: /kudos-to-these-honest-conservatives/
 slug: kudos-to-these-honest-conservatives
 summary:
-comments: true
+comments: 
 ---
 <p><a title="Lost, Not Stolen" href="https://lostnotstolen.org/">Lost, Not Stolen</a><br /><span style="font-size:.9em;font-style:italic;">The Conservative Case that Trump Lost and Biden Won the 2020 Presidential Election</span>
 </p>

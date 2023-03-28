@@ -15,6 +15,8 @@ permalink: /haikuform_welcome_clarity/
 slug: haikuform_welcome_clarity
 categories:
   - personal
+  - haiku
+  - haikuform
 ---
 so many years spent  
 confused and hungry for truth  

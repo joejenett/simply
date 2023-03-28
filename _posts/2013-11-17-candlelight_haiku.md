@@ -15,6 +15,7 @@ permalink: /candlelight_haiku/
 slug: candlelight_haiku
 categories:
   - personal
+  - haiku
 ---
 we have no power  
 and the wind is blowing hard  
