@@ -42,7 +42,7 @@ max-width:600px;
 }
 @media screen and (max-width: 479px) {
 	.follow {
-		margin-top:2px;
+		top:3px;
  }
 }
 .p-spot {
