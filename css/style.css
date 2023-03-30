@@ -159,7 +159,8 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
   }
 
 #search-input {
- width:97%;
+ /*width:97%;*/
+ width:70%;
  padding:6px;
  border: 1px solid #ddd;
  /*border-radius:8px;*/
