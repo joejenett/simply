@@ -36,6 +36,15 @@ max-width:600px;
   margin: auto;
   padding: 0;
 }
+.follow {
+	 position:relative;
+	 float:right;
+}
+@media screen and (max-width: 479px) {
+	.follow {
+		margin-top:2px;
+ }
+}
 .p-spot {
 	padding-bottom:18px;
 }
