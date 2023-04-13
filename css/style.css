@@ -48,6 +48,21 @@ max-width:600px;
 .p-spot {
 	padding-bottom:18px;
 }
+.announce {
+	border-top: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+	border-radius: 8px;
+	background: var(--hbg-color);
+	padding:3px 6px 0 6px;
+	font-weight:400;
+	font-size:.8em;
+	font-style:italic;
+	text-align:center;
+	position: relative;
+	width:350px;
+	margin:-12px 0 12px 0;
+}
+
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
