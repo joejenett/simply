@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ya know, I never told my middle name is ‘ray’
+title:  ya know, I never told you my middle name is ‘ray’
 date:   2023-04-29 08:19:41 -0400
 author: joe jenett
 category:
