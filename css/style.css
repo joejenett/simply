@@ -169,8 +169,8 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
     article.post.h-entry div.post-content.e-content div.likes h3,
     article.post.h-entry div.post-content.e-content div.reposts h3
      {
-  font-size:1.2em;
-  font-weight:300;
+  font-size:1.1rem;
+  font-weight:400;
   margin-top:48px;
   }
   article.post.h-entry div.post-content.e-content h2#comments-title {
@@ -869,6 +869,19 @@ line-height:1.2em;
 }
 header.post-header {
 border:none;;
+}
+.e-content p, .post-list p {
+  font-family: 'eb_garamondregular',Georgia,Times,serif;
+  font-size: 1.2rem;
+}
+blockquote.e-summary {
+  margin-top: 12px;
+  font-family: 'eb_garamondregular',Georgia,Times,serif;
+  font-size: 1.15rem;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  font-size: 1.25rem;
 }
 /**
  * Syntax highlighting styles
