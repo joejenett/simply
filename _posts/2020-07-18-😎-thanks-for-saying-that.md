@@ -22,7 +22,7 @@ categories:
 kind:
   - Article
 ---
-<blockquote class="quoteback" data-title="" data-author="//Jason Burk" data-avatar="https://micro.blog/Burk/avatar.jpg" cite="https://micro.burk.io/2020/07/17/characters-isnt-really.html">
+<blockquote class="quoteback" data-title="" data-author="//Jason Burk" data-avatar="https://micro.blog/Burk/avatar.jpg" cite="https://micro.burk.io/">
   <p>
     280 characters isn’t really enough to say “Fuck Trump and Everything Related to Him” an infinite number of times.
   </p> 
@@ -35,5 +35,5 @@ kind:
   <p>
     <strong>Fuck Trump. Get this motherfucker out!</strong>
   </p><footer>//Jason Burk  
-  <cite><a href="https://micro.burk.io/2020/07/17/characters-isnt-really.html">https://micro.burk.io/2020/07/17/characters-isnt-really.html</a></cite></footer>
+  <cite><a title="page no longer available">https://micro.burk.io/</a></cite></footer>
 </blockquote>
