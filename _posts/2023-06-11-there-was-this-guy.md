@@ -10,10 +10,6 @@ slug: there-was-this-guy
 summary: a self-portrait
 comments: true
 ---
-<img src="/images/this-guy.png" alt="" width="65%;">
-
-
-
-
+<a href="/images/this-guy.png"><img src="/images/this-guy.png" alt="" width="65%;"></a>
 
 <a href="https://brid.gy/publish/mastodon"></a>
