@@ -7,9 +7,9 @@ category:
   -  personal
 permalink: /there-was-this-guy/
 slug: there-was-this-guy
-summary: a self-portrait
+summary: 
 comments: true
 ---
-<a href="/images/this-guy.png"><img src="/images/this-guy.png" alt="" width="65%;"></a>
+<img src="/images/this-guy.png" alt="" width="65%;"><br>circa 1979
 
 <a href="https://brid.gy/publish/mastodon"></a>
