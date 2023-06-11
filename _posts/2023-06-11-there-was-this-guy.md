@@ -10,6 +10,7 @@ slug: there-was-this-guy
 summary: 
 comments: true
 ---
-<img src="/images/this-guy.png" alt="" width="65%;"><br>circa 1979
+<img src="/images/this-guy.png" alt="" width="65%;">
+<p>circa 1979</p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
