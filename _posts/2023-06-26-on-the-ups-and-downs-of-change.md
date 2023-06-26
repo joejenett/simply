@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  on the ups and downs of change
-date:   2023-06-26 13:04:11 -0400
+date:   2023-06-26 15:25:38 -0400r
 author: joe jenett
 category:
   -  
