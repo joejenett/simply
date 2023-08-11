@@ -13,7 +13,7 @@ comments: true
 <p><a href="/the_bench/">The Bench</a> <small>(May 19, 2010)</small>:</p>
 <blockquote><p>Here I was in my early twenties living and working among people thrice my age unknowingly gleaning knowledge from their experience as to what my own life might become.</p></blockquote> 
 <p>
-<img src="/images/joenow.jpg" alt="" style="position:relative;float:right;width:140px;top:10px;margin-left:36px;">
+<img src="/images/joenow.jpg" alt="" style="position:relative;float:right;width:140px;top:10px;margin-left:36px;" width="140">
 <h2>
 we’ve come a long way
 </h2>
