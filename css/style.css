@@ -36,6 +36,12 @@ max-width:600px;
   margin: auto;
   padding: 0;
 }
+summary {
+	font-family: 'eb_garamondregular';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.2rem;
+}
 .follow {
 	 position:relative;
 	 float:right;
