@@ -10,8 +10,8 @@ slug: can-you-say-madman
 summary: 
 comments: true
 ---
-![](/images/madman.jpg)
-
-Actually not as funny as it is enlightening in a very special way, imo.
+<p>
+<details><summary>Actually not as funny as it is enlightening...</summary><img src="/images/madman.jpg" alt="" width="100%" style="margin-top:12px;"></details>
+</p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
