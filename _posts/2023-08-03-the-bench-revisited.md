@@ -22,7 +22,7 @@ we’ve come a long way
 The story goes back to the early 1970s.<br>Back then I always wondered why so many of those people on the bench seemed to be groaning a lot. It was strange to me.
 </p>
 <p>
-Now here we are, over 50 years later and now that I’ve let my hair down for you, I’ll just say I get it. Oy, do I get it! 
+Now here we are, over 50 years later and now that I’ve let my hair down, I’ll just say I get it. Oy, do I get it! 
 </p>
 <p>😎</p>
 
