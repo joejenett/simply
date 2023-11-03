@@ -12,7 +12,7 @@ comments:
 ---
 it still applies - especially now!
 
-<img src="https://simply.jenett.org/images/not-healthy.jpg" alt="" width="300" />
+<img src="https://simply.joejenett.com/images/not-healthy.jpg" alt="" width="300" />
 
 so sad
 
