@@ -27,7 +27,7 @@ kind:
 ---
 After recently finishing with upgrading _i.webthings_, _the dailywebthing linkport_, and _daily pointers_, my focus has turned back to my personal blogs and several new projects.
 
-I’ve been enjoying my brand new [tiddlywiki](https://simply.tiddly.jenett.org) and working on [wiki.jenett.org](https://wiki.jenett.org/), an older project that refuses to die (and which may become integrated with this blog and the tiddlywiki soon).
+I’ve been enjoying my brand new [tiddlywiki](https://simply.tiddly.jenett.org) and working on [wiki.joejenett.com](https://wiki.joejenett.com/), an older project that refuses to die (and which may become integrated with this blog and the tiddlywiki soon).
 
 I do this stuff for fun and yes, I have been having fun. Thanks for reading.
 
