@@ -11,6 +11,6 @@ slug: i_like_this
 categories:
   - personal
 ---
-<p><a title="Noded: Sunset Across The River" href="http://www.noded.com/noded/"><img src="https://jenett.org/simply.personal/images/noded_sunset.jpg" alt="Noded: Sunset Across The River" style="border:none;margin-bottom:9px;"></a></p>
+<p><a title="Noded: Sunset Across The River" href="http://www.noded.com/noded/"><img src="http://simply.joejenett.com/images/noded_sunset.jpg" alt="Noded: Sunset Across The River" style="border:none;margin-bottom:9px;"></a></p>
 <p class="smaller">
 by <a title="Noded: Sunset Across The River" href="http://www.noded.com/noded/">Noded</a></p>

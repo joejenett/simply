@@ -4,7 +4,7 @@ title: 'the (updated) scoop on coolstop...'
 date: 2010-08-26T08:10:27-04:00
 author: joe jenett
 excerpt: |
-  ...as it now appears on the <a href="http://coolstop.jenett.org/">main page</a>:
+  ...as it now appears on the <a href="http://coolstop.joejenett.com/">main page</a>:
   <blockquote>
   08/24/10 - Changes:
   <p>
@@ -27,7 +27,7 @@ slug: the_updated_scoop_on_coolstop
 categories:
   - personal
 ---
-...as it now appears on the [main page](http://coolstop.jenett.org/):
+...as it now appears on the [main page](http://coolstop.joejenett.com/):
 
 > 08/24/10 - Changes:
 > 

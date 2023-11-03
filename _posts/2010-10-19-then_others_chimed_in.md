@@ -10,4 +10,4 @@ slug: then_others_chimed_in
 categories:
   - personal
 ---
-[intersect](http://jenett.org/intersect/) &ndash; done in 2001, just before we moved from Chicago to Detroit
+[intersect](http://joejenett.com/intersect/) &ndash; done in 2001, just before we moved from Chicago to Detroit

@@ -3,14 +3,14 @@ id: 51
 title: some old dogs like new tricks
 date: 2010-11-10T20:07:21-05:00
 author: joe jenett
-excerpt: |
+excerpt: |-
   <p>
   Excuse me, but I've just earned some major gloating rights and if I don't let it out soon, my head just might explode. I did send Kim a text message about completing the project a few hours ago, but she was just getting up in Ningbo, Japan. Damn I miss her!
   </p>
   <p>
   She returned a "YAY" by text but I decided not to call her yet &ndash; dealing with a 14 hour time difference is hard enough on my rockstar and I'll have a chance to talk to her soon, though maybe not soon enough to ward off that nasty exploding head trick. I guess that means you're stuck with it my friend. Let the gloat begin.
   </p><p>
-  <a href="http://jenett.org/simply.personal/some_old_dogs_like_new_tricks/#more">Continue reading "some old dogs like new tricks" &raquo;</a>
+  <a href="http://simply.joejenett.com/some_old_dogs_like_new_tricks/#more">Continue reading "some old dogs like new tricks" &raquo;</a>
   </p>
 layout: post
 guid: https://simply.personal.jenett.org/2010/11/10/some-old-dogs-like-new-tricks/
@@ -19,9 +19,9 @@ slug: some_old_dogs_like_new_tricks
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
-  - 'a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}'
+  - a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}
 mf2_syndication:
-  - 'a:0:{}'
+  - a:0:{}
 categories:
   - personal
 kind:

@@ -8,7 +8,7 @@ excerpt: |
   </p>
   <p>To wrap this healthcare thing up, I just need to thank some people for reaching out to me with their kind regards, well wishes, and prayers.</p>
   <p>
-  <a href="http://jenett.org/simply.personal/adventures_in_healthcare_final_thoughts/#more">Continue reading "adventures in healthcare - final thoughts" &raquo;</a>
+  <a href="http://simply.joejenett.com/adventures_in_healthcare_final_thoughts/#more">Continue reading "adventures in healthcare - final thoughts" &raquo;</a>
   </p>
 layout: post
 guid: https://simply.personal.jenett.org/2010/12/15/adventures-in-healthcare-final-thoughts/
