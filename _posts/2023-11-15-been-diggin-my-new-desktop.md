@@ -8,7 +8,7 @@ category:
 permalink: /been-diggin-my-new-desktop/
 slug: been-diggin-my-new-desktop
 summary: yummy brown, black, and white - yay
-comments: "true"
+comments: true
 ---
 Spent some hours today finishing it up and like where it ended up. What fun! 
 <p>
