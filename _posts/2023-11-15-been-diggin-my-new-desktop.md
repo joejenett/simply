@@ -12,7 +12,7 @@ comments: true
 ---
 Spent some hours today finishing it up and like where it ended up. What fun! 
 <p>
-<img title="joe’s new desktop" src="https://simply.joejenett.com/images/desk.png" alt="a screenshot of my new desktop with a grid background, a silhouette of a bull, and a cutout for black and white icons. the dock also has has black and white icons. yay." width="100%">
+<img title="a screenshot of my new desktop with a grid background, a silhouette of a bull, and a cutout for black and white icons. the dock also has has black and white icons. yay." src="https://simply.joejenett.com/images/desk.png" alt="a screenshot of my new desktop with a grid background, a silhouette of a bull, and a cutout for black and white icons. the dock also has has black and white icons. yay." width="100%">
 </p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
