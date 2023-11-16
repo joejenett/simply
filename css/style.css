@@ -613,6 +613,7 @@ table {
 	position: relative;
 	top: -4px;
 	padding-left:12px;
+	font-weight:600;
 }
 h1#site-title.p-name a.u-url.url {
 font-weight:600;
