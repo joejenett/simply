@@ -17,7 +17,7 @@ Back when I got real sick a few months ago, I was bedridden at home for 8 days b
 So. One late evening, I used Siri to tell Kim “help” (not an odd request in context). A short while thereafter, the doorbell rang several times. It was the police.
 
 ## how could this happen? 
-When I gave the _hey Siri_, it was picked up by a new HomePod, recently purchased to use as a hub for Matter accessories. At the time, I replaced 4 outlets requiring the new format. I failed to take into account the fact that the HomePod provides only spoken confirmations. Turns out I heard the confirmation just as poorly as Siri heard my command. Oops! My bad!
+When I gave the _hey Siri_, it was picked up by a new HomePod, recently purchased to use as a hub for Matter accessories. At the time, I replaced 4 outlets with new ones requiring the new hub. I failed to take into account the fact that the HomePod provides only spoken confirmations. Turns out I heard the confirmation just as poorly as Siri heard my command. Oops! My bad!
 
 So a neighbor of ours named Ken got the help message and rightfully called the police because he was concerned that it could be a genuine request (though he thought it was most likely some kind of error). I later told him how much I appreciated that he cared enough to do that. Good neighbor.
 
