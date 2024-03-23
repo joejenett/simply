@@ -44,5 +44,5 @@ The rest is history. Thanks Siri!
 <div class="mentions">
 <h3>Mentions</h3>
 <ul class="mention-list linkback-mention"><li class="webmention odd alt thread-odd thread-alt depth-1 linkback-mention-single u-mention h-cite h-entry p-comment comment" id="comment-311">
-<span class="p-author h-card"><img alt="" src="/images/mm.jpg"  class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Anne</span></span>
+<span class="p-author h-card"><img alt="" src="/images/mm.jpg"  class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"><span class="hide-name p-name">Anne</span></span>
 </li></ul></div>
