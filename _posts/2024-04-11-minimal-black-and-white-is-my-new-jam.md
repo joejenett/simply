@@ -17,7 +17,7 @@ comments: true
 Well. A few weeks back, I simplified my desktop and love it. I spend hours daily looking at my screens and this minimal b&amp;w look on the main screen suits me well:
 </p>
 <p>
-<a title="soom it" href="/desk2.html"><img src="/images/desk2.png" alt="a screenshot of my new minimal black and white desktop, which includes a grid background and black and white icons" title="a screenshot of my new minimal black and white desktop, which includes a grid background and black and white icons" width="100%"></a>
+<a title="zoom it" href="/desk2.html"><img src="/images/desk2.png" alt="a screenshot of my new minimal black and white desktop, which includes a grid background and black and white icons" title="a screenshot of my new minimal black and white desktop, which includes a grid background and black and white icons" width="100%"></a>
 </p>
 <p>The icons for Apple’s built-in apps are tucked away in an easy-to-activate palette as changing those icons appears to be disallowed by the operating system. Though activating the palette brings a temporary burst of color to the desktop which looks nice against the b&amp;w, I find myself quickly closing it to maintain the minimal feel (which makes me happy).</p>
 <p>
