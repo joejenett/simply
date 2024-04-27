@@ -5,6 +5,7 @@ date: 2023-11-15 21:09:01 -0400
 author: joe jenett
 category:
   - personal
+  - desktops
 permalink: /been-diggin-my-new-desktop/
 slug: been-diggin-my-new-desktop
 summary: yummy brown, black, and white - yay

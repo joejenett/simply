@@ -4,7 +4,8 @@ title:  minimal black and white is my new jam
 date:   2024-04-11 08:59:20 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
+  - desktops
 permalink: /minimal-black-and-white-is-my-new-jam/
 slug: minimal-black-and-white-is-my-new-jam
 summary: diggitydiggitydiggity
