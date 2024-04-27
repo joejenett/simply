@@ -356,7 +356,7 @@ margin-bottom:0;
 	list-style:none outside none;
 	line-height:1.4em;	
 }
-#aka li a, li a:visited {
+#aka li a, #aka li a:visited {
 	background-color: #fbffff;
 	font-weight:600;
 	text-decoration:none;
