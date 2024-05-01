@@ -46,6 +46,11 @@ summary {
 	 position:relative;
 	 float:right;
 }
+.pickwrap {
+	width:88%;
+	text-align:center;
+	margin:auto;
+}
 @media screen and (max-width: 479px) {
 	.follow {
 		top:4px;
