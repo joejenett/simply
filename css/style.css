@@ -46,7 +46,7 @@ summary {
 	 position:relative;
 	 float:right;
 }
-.pickwrap {
+#pickwrap {
 	width:88%;
 	text-align:center;
 	margin:auto;
