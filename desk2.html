@@ -3,9 +3,27 @@
 <head>
 <meta charset="utf-8">
 <title>desk2.jpg</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.picwrap {
+	width:88%;
+	text-align:center;
+	margin:auto;
+}
+@media screen and (max-width: 479px) {
+	.picwrap {
+		width:98%;
+	}
+}
+@media screen and (max-width: 900px) and (orientation:landscape) {
+	.picwrap {
+		max-width:78%;
+	}
+}
+</style>
 </head>
 <body>
-<div style="width:88%;text-align:center;margin:auto;">
+<div class="picwrap">
 <div style="display: flex; align-items: center; justify-content: center;height:100vh;">
 <a href="/minimal-black-and-white-is-my-new-jam/"><img src="/images/desk2.png" alt="a screenshot of my new minimal black and white desktop, which includes a grid background and black and white icons" title="a screenshot of my new minimal black and white desktop, which includes a grid background and black and white icons (click to go back)" width="100%"></a>
 </div>
