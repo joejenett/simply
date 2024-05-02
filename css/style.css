@@ -46,11 +46,7 @@ summary {
 	 position:relative;
 	 float:right;
 }
-#pickwrap {
-	width:88%;
-	text-align:center;
-	margin:auto;
-}
+
 @media screen and (max-width: 479px) {
 	.follow {
 		top:4px;
@@ -900,6 +896,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-size: 1.25rem;
 }
+
 /**
  * Syntax highlighting styles
  */
