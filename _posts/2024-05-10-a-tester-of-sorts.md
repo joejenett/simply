@@ -5,7 +5,7 @@ date:   2024-05-10 09:47:11 -0400
 author: joe jenett
 category:
   -  micro
-permalink: / a-tester-of-sorts/
+permalink: /a-tester-of-sorts/
 slug: a-tester-of-sorts
 summary: 
 comments: true
