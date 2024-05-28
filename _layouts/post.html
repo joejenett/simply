@@ -22,7 +22,8 @@ layout: default
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {{ page.date | date: date_format }}
 </time></a>
-{%- if page.author -%} <address> by <span class="author p-author h-card vcard hcard" itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1" class="avatar photo u-photo hcard-photo" width="24" height="24" style="display:none;"d itemprop="image">
+<address>
+	{%- if page.author -%}• <span class="author p-author h-card vcard hcard" itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1" class="avatar photo u-photo hcard-photo" width="24" height="24" style="display:none;"d itemprop="image">
 <a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author h-card p-name" itemprop="name">{{ page.author }}</span></a>
 </span>
 </address>
@@ -59,7 +60,8 @@ layout: default
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {{ page.date | date: date_format }}
 </time></a>
-{%- if page.author -%} <address> by <span class="author p-author h-card vcard hcard" itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1" class="avatar photo u-photo hcard-photo" width="24" height="24" style="display:none;"d itemprop="image">
+<address>
+	{%- if page.author -%}• <span class="author p-author h-card vcard hcard" itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1" class="avatar photo u-photo hcard-photo" width="24" height="24" style="display:none;"d itemprop="image">
 <a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author h-card p-name" itemprop="name">{{ page.author }}</span></a>
 </span>
 </address>
