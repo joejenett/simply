@@ -25,7 +25,7 @@ kind:
 ---
 ## the seed
 
-When we discovered Sliding Rock, we had not bathed for days camping up in the mountains. The cold plunge pool below was totally rejuvenating. [#](https://joe.jenett.org/#the%20oasis)
+When we discovered Sliding Rock, we had not bathed for days camping up in the mountains. The cold plunge pool below was totally rejuvenating. [#](https://ideas.joejenett.com/#the%20oasis)
 
 ## amid the noise
 

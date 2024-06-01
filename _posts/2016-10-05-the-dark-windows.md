@@ -47,4 +47,4 @@ Selling cannot be the goal. If it were, there would be nothing of value for othe
 
 For now, I’m self-medicating my need to be creative by making and singing my songs in this quiet place. What it does for me is why I do it but activating a few of those dark screens soon is a real good idea.
 
-(originally published at [𝚓𝚘𝚎.](https://joe.jenett.org/the-dark-windows/))
+(originally published at [𝚓𝚘𝚎.](https://ideas.joejenett.com/the-dark-windows/))
