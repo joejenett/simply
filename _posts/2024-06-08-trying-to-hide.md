@@ -10,15 +10,15 @@ slug: trying-to-hide
 summary: from the brainstormer
 comments: true
 ---
-in a downhill slide 
-trying to hide 
-the pain I feel 
-my pain is real 
+in a downhill slide  
+trying to hide  
+the pain I feel  
+my pain is real  
 
-at the music show 
-I came to know 
-the things I need 
-ain’t unique to me 
+at the music show  
+I came to know  
+the things I need  
+ain’t unique to me  
 
 craving connection   
 a world of beings   
