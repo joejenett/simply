@@ -67,7 +67,14 @@ summary {
 	text-align:left;
 	position: relative;
 }
-
+#toggler, #my-channel {
+	padding:0 18px 4px 18px;
+	/*border: 1px solid #ddd;
+	border-radius:0;*/
+	text-align:left;
+	margin-bottom:9px;
+	font-size:.95em;
+}
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -106,7 +113,10 @@ div.cactus-comment-avatar-placeholder::before {
 div.cactus-comment-avatar img {
 	max-width:none;
 }  
-
+#toggler {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	border-radius:0;
+}
   
   #rings, #rings p, .sidefoot, .sidefoot p {
 	  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -195,6 +205,7 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
  /*border-radius:8px;*/
  background-color: #fff;
  margin-bottom:1px;
+ margin-top:12px;
  font-size:1em;
 }
 div#result {
