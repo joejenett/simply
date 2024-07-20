@@ -124,7 +124,7 @@ div.cactus-comment-avatar img {
   }
 #byline {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 1.1em;
+font-size: 1em;
 font-weight:300;
 font-style:italic;
 padding:4px 0 0 24px;
@@ -254,6 +254,9 @@ margin-top:-12px;
 body {
 /*max-width: 560px;*/
 padding: 0 20px;
+}
+#byline {
+	font-size:.9em;
 }
 .hcard-display {
 margin: 60px auto 20px auto;
