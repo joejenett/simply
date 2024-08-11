@@ -11,6 +11,9 @@ slug: joes-desktop-design-therapy-the-final-product
 summary: 
 comments: true
 ---
+<p style="font-size:.8em;font-weight:bold;">
+<a href="/desk4.html">Version 4</a> | <a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>
+</p>
 <p>
 Yeah. I did it again! I’m feeling real good about the 3rd version of my desktop background and I’m ditching the project (for now anyway). Clean. Minimal. Usable. Yay! Here’s all three versions if yer interested (the 2nd and 3rd versions are viewable at full resolution on desktop):
 </p>
