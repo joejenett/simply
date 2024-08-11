@@ -11,7 +11,12 @@ slug: been-diggin-my-new-desktop
 summary: yummy brown, black, and white - yay
 comments: true
 ---
-Spent some hours today finishing it up and like where it ended up. What fun! 
+<p style="font-size:.8em;font-weight:600;">
+<a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>
+</p>
+<p>
+Spent some hours today finishing it up and like where it ended up. What fun!
+</p>
 <p>
 <a href="/desk.html"><img title="a screenshot of my new desktop with a grid background, a silhouette of a bull, and a cutout for black and white icons. the dock also has has black and white icons. yay." src="https://simply.joejenett.com/images/desk.png" alt="a screenshot of my new desktop with a grid background, a silhouette of a bull, and a cutout for black and white icons. the dock also has has black and white icons. yay." width="100%"></a>
 </p>
