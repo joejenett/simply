@@ -4,7 +4,7 @@ title:  alive and kicking
 date:   2024-07-31 14:03:05 -0400
 author: joe jenett
 category:
-  -  
+  -  personal
 permalink: /alive-and-kicking/
 slug: alive-and-kicking
 summary: 
