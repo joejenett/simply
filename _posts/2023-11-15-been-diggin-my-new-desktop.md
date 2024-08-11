@@ -11,8 +11,8 @@ slug: been-diggin-my-new-desktop
 summary: yummy brown, black, and white - yay
 comments: true
 ---
-<p style="font-size:.8em;font-weight:600;">
-<a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>
+<p style="font-size:.8em;font-weight:bold;">
+<a href="/desk4.html">Version 4</a> | <a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>
 </p>
 <p>
 Spent some hours today finishing it up and like where it ended up. What fun!
