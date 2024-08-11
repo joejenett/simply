@@ -11,6 +11,9 @@ slug: minimal-black-and-white-is-my-new-jam
 summary: diggitydiggitydiggity
 comments: true
 ---
+<p style="font-size:.8em;font-weight:600;">
+<a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>
+</p>
 <p>
 <img src="/images/eguy.png" alt="it’s newguy in black and white - oh my!" title="it’s newguy in black and white - oh my!" width="72" height="72" style="position:relative;float:right;width:72px;height:72px;margin-left:6px;;">Since I <a href="/been-diggin-my-new-desktop/">revamped my desktop</a> last year, I’ve revised it more than a few times. Playing with graphics is kinda like music to me. It’s a creative outlet that takes my mind to a different place - a perfect distraction!
 </p>
