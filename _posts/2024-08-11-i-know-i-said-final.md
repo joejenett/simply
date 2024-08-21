@@ -20,7 +20,7 @@ comments: true
 <p>
 <a title="zoom it" href="/desk4.html"><img src="/images/desk4.png" alt="a screenshot of an even cleaner and more organized version of the minimal black and white desktop with a grid background" title="a screenshot of an even cleaner and more organized version of the minimal black and white desktop with a grid background (click to zoom)" width="100%"></a>
 </p>
-
+<small>(Updated 08/21/24)</small>
 
 
 
