@@ -130,7 +130,7 @@ April 12, 2021 at 5:14 pm						</time></a>
 </footer>
 
 <div class="comment-content e-content p-summary p-name" itemprop="text name description">
-<p>Thanks Porkchop! I’m tickled you like it.</p>
+<p>Thanks Poorchop! I’m tickled you like it.</p>
 <p>Cheers</p>
 </div>
 
