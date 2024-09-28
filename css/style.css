@@ -46,7 +46,9 @@ summary {
 	 position:relative;
 	 float:right;
 }
-
+.iwt a:hover img {
+	transform:scale(1.1);
+}
 @media screen and (max-width: 479px) {
 	.follow {
 		top:4px;
