@@ -236,11 +236,14 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
  /*margin-top:12px;*/
  font-size:1em;
 }
-div#result {
+#result {
 padding-top:18px;
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size:.95em;
 font-weight:600;
+}
+#result p {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;	
 }
 #results-container {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
