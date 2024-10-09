@@ -14,7 +14,7 @@ Something inside me makes me want to entertain. When I was 6 or 7-years old (a l
 
 <h4>What the hell does that have to do with donuts?</h4>
 
-I guess this curating thing I do on the web is just me hoping to entertain others with the links I share. It’s kinda like what someone hopes do do when they drop off a box of fresh donuts somewhere. Knowing the people in that office (or whatever kind of place) are going to get excited when they taste them donuts is certainly worth the effort.
+I guess this curating thing I do on the web is just me hoping to entertain others with the links I share. It’s kinda like what someone hopes to do when they drop off a box of fresh donuts somewhere. Knowing the people in that office (or whatever kind of place) are going to get excited when they taste them donuts is certainly worth the effort.
 
 So. When I put together new posts with links, I think of it as <em>making the donuts</em>. Needless to say, those people in line at 5:30am at the local donut shop or bagel shop can’t wait for those fresh goodies.
 
