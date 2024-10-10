@@ -30,7 +30,7 @@ I guess this curating thing I do on the web is just me hoping to entertain other
 </blockquote>
 <h4>in the now</h4>
 <p>
-“I’m sharing almost as many links per week as I was before while having more time for other ongoing creative projects.” I said that a few months after the change and am tickled to repeat it now. Like that bulltown thing I do - its very recent <a href="https://bulltown.neocities.org/">offspring</a> at Neocities (a community full of creative folks) is keeping me busy lately. I spend my days doing <em>all</em> the things I love to do and I’m having more fun than ever!
+“I’m sharing almost as many links per week as I was before while having more time for other ongoing creative projects.” I said that a few months after the change and am tickled to repeat it now. Like that bulltown thing I do - its very recent <a href="https://bulltown.neocities.org/">offspring</a> at Neocities (a community full of creative folks) has been keeping me busy lately. I’m doing <em>all</em> the things I love to do and having more fun than ever!
 </p>
 <p>Take care...</p>
 <a href="https://brid.gy/publish/mastodon"></a>
