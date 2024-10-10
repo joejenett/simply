@@ -19,7 +19,7 @@ I wanted to continue doing what I truly love to do on the web without that daily
 </p>
 </blockquote>
 
-Then, back in January of this year, there was <a title="adventures of a donut maker" href="https://simply.joejenett.com/adventures-of-a-donut-maker/">adventures of a donut maker</a>: 
+In January of this year, I wrote <a title="adventures of a donut maker" href="https://simply.joejenett.com/adventures-of-a-donut-maker/">adventures of a donut maker</a>: 
 <blockquote>
 <p>
 <span style="font-size:1.2em;font-weight:600;">What the hell does that have to do with donuts?</span>
@@ -30,7 +30,7 @@ I guess this curating thing I do on the web is just me hoping to entertain other
 </blockquote>
 <h4>in the now</h4>
 <p>
-“I’m sharing almost as many links per week as I was before while having more time for other ongoing creative projects.” I said that a few months after the change and am tickled to repeat it now. Like that bulltown thing I do - its very recent <a href="https://bulltown.neocities.org/">offspring</a> at Neocities (a community full of creative folks) has been keeping me busy lately. I’m doing <em>all</em> the things I love to do and having more fun than ever!
+“I’m sharing almost as many links per week as I was before while having more time for other ongoing creative projects.” I said that a few months after that big change and am tickled to repeat it now. Like that bulltown thing I do - its very recent <a href="https://bulltown.neocities.org/">offspring</a> at Neocities (a community full of creative folks) has been keeping me busy lately. I’m doing <em>all</em> the things I love to do and having more fun than ever!
 </p>
 <p>Take care...</p>
 <a href="https://brid.gy/publish/mastodon"></a>
