@@ -8,7 +8,7 @@ category:
 permalink: /careful-what-you-ask-for/
 slug: careful-what-you-ask-for
 summary: Oops! My bad!
-comments: true
+comments: false
 ---
 Smarts homes and digital assistants are great but one needs to stay a step ahead of ’em.
 

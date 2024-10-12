@@ -9,7 +9,7 @@ category:
 permalink: /been-diggin-my-new-desktop/
 slug: been-diggin-my-new-desktop
 summary: yummy brown, black, and white - yay
-comments: true
+comments: false
 ---
 <p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;font-weight:bold;">
 <a href="/desk4.html">Version 4</a> | <a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>

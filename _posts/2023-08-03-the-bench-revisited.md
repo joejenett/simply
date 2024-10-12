@@ -8,7 +8,7 @@ category:
 permalink: /the-bench-revisited/
 slug: the-bench-revisited
 summary: 
-comments: true
+comments: false
 ---
 <p><a href="/the_bench/">The Bench</a> <small>(May 19, 2010)</small>:</p>
 <blockquote><p>Here I was in my early twenties living and working among people thrice my age unknowingly gleaning knowledge from their experience as to what my own life might become.</p></blockquote> 

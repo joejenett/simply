@@ -8,7 +8,7 @@ category:
 permalink: /adventures-of-a-donut-maker/
 slug: adventures-of-a-donut-maker
 summary: gotta make the donuts
-comments: true
+comments: false
 ---
 Something inside me makes me want to entertain. When I was 6 or 7-years old (a long, long time ago), I performed at a local movie theatre’s Saturday matinée. Lip-syncing <em>Blue Suede Shoes</em> to a group of Elvis movie fans, wigglin’ around like Elvis himself. I got a huge response from the crowd. I was hooked!  
 

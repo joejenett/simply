@@ -8,7 +8,7 @@ category:
 permalink: /there-was-this-guy/
 slug: there-was-this-guy
 summary: 
-comments: true
+comments: false
 ---
 <img src="/images/this-guy.png" alt="" width="65%;">
 <p>circa 1979</p>

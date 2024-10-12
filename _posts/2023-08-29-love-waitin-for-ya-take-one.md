@@ -9,7 +9,7 @@ category:
 permalink: /love-waitin-for-ya-take-one/
 slug: love-waitin-for-ya-take-one
 summary: a little GarageBand creation (rough draft)
-comments: true
+comments: false
 ---
 <p>a little GarageBand creation (rough draft)</p><p><audio controls="controls"><source src="/media/lovewaitinforya.take1.mp3" type="audio/mp3" /></audio> </p>
 

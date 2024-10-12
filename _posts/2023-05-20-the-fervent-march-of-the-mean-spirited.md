@@ -8,7 +8,7 @@ category:
 permalink: /the-fervent-march-of-the-mean-spirited/
 slug: the-fervent-march-of-the-mean-spirited
 summary: 
-comments: true
+comments: false
 ---
 <p>
 Maybe I listen to too much news.

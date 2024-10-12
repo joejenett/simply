@@ -8,7 +8,7 @@ category:
 permalink: /feel-the-pain/
 slug: feel-the-pain
 summary: 
-comments: true
+comments: false
 ---
 ## inspiration from way back
 <p>If you know me, you know I love the blues - the simplicity and honesty of just telling it like it is, nothing complicated. You can feel the pain.</p>

@@ -9,7 +9,7 @@ category:
 permalink: /another-new-day/
 slug: another-new-day
 summary: 
-comments: true
+comments: false
 ---
 
 <p>

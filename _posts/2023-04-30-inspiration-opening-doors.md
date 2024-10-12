@@ -9,7 +9,7 @@ category:
 permalink: /inspiration-opening-doors/
 slug: inspiration-opening-doors
 summary: 
-comments: true
+comments: false
 ---
 <p>Driven. Life is driven by experience; struggles; joy; ideas around us. The wealth of ideas on the web is its true power in my mind.</p>
 <p> I’m thankful for that.

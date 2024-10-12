@@ -8,7 +8,7 @@ category:
 permalink: /something-profound/
 slug: something-profound
 summary: 
-comments: true
+comments: false
 ---
 <p>I’m a little touched by this - the words are dancing ’round in my brain:
 </p>

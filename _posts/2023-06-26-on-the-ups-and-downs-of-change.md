@@ -8,7 +8,7 @@ category:
 permalink: /on-the-ups-and-downs-of-change/
 slug: on-the-ups-and-downs-of-change
 summary: 
-comments: true
+comments: false
 ---
 <p>I planted a <a href="https://ideas.joejenett.com/#new%20direction">seed</a> recently about a recent <a href="https://dwt-archives.joejenett.com/announcement/"><em>game changer</em> </a> in my life - making the difficult decision to retire <em>the dailywebthing</em>. After doing <em>the daily thing</em> on the web for over 20 years, it was time for a change. 
 </p> 

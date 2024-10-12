@@ -8,7 +8,7 @@ category:
 permalink: /ya-know-I-never-told-my-middle-name-is-ray/
 slug: ya-know-I-never-told-my-middle-name-is-ray
 summary: 
-comments: true
+comments: false
 ---
 <p>Speaking of <a href="https://blogroll.org/">Ray</a>, we communicated recently about links and things and in his last email he shared something he thought was ‘way cool.’ He was right!</p>
 <p>So. Here ya go (enjoy!):</p>

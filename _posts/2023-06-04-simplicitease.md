@@ -9,7 +9,7 @@ category:
 permalink: /simplicitease/
 slug: simplicitease
 summary: 
-comments: true
+comments: false
 ---
 you gotta get down low<br>
 you gotta just let go<br>

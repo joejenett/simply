@@ -8,7 +8,7 @@ category:
 permalink: /in-the-hope-of-helping/
 slug: in-the-hope-of-helping
 summary: 
-comments: true
+comments: false
 ---
 <a href="https://ideas.joejenett.com/#time">the seed</a>:
 <blockquote>

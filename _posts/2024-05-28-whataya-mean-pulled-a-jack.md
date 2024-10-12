@@ -8,7 +8,7 @@ category:
 permalink: /whataya-mean-pulled-a-jack/
 slug: whataya-mean-pulled-a-jack
 summary: just keeping Jack posted
-comments: true
+comments: false
 ---
 <p>
 I <a href="https://iwebthings.joejenett.com/exploring-something-cool-05-19-24/">recently shared</a> a ‘plain text note-taking assistant’ at the <em>hub</em> and decided to give Jack a heads-up before publishing the post - if for no other reason, it was a chance to razz him a bit (yet again):

@@ -8,7 +8,7 @@ category:
 permalink: /some-guy-named-clive/
 slug: some-guy-named-clive
 summary: 
-comments: true
+comments: false
 ---
 ...who I’m lucky to say I’ve known a long time. We go way back on the web. Let me introduce you to Clive Murray - this guy can play!
 

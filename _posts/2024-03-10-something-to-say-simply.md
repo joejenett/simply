@@ -8,7 +8,7 @@ category:
 permalink: /something-to-say-simply/
 slug: something-to-say-simply
 summary: just sayin’
-comments: true
+comments: false
 ---
 <p>
 I’ll go with the clear-headed stuttering old guy who takes his job seriously and cares about people over the only slightly younger narcissist who lies, cheats, and kinda sucked at the job, thank you.

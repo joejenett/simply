@@ -8,7 +8,7 @@ category:
 permalink: /can-you-say-madman/
 slug: can-you-say-madman
 summary: 
-comments: true
+comments: false
 ---
 <p>
 <details><summary>Actually not as funny as it is revealing...</summary><img src="/images/madman.jpg" alt="" width="100%" style="margin-top:12px;"></details>

@@ -8,7 +8,7 @@ category:
 permalink: /gratefully-inspired/
 slug: gratefully-inspired
 summary: little things that matter
-comments: true
+comments: false
 ---
 I learned something from my old web pal Anne (a *curator of imagination*). It’s not the camera that makes the photographer. She was right.
 
