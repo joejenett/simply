@@ -22,7 +22,7 @@ comments: false
 <p>...as long as I am still alive I’ll be trying to leave some imprints.
 </p>
 </blockquote>
-<p>At age 60, I could’ve died. A major health event led me to the realization that I’d better make the most of the time I’m still alive. When I was 67, when David Bowie died, I came to realize again that every moment of life is a chance to do what it is you have to do... before it’s too late.
+<p>At age 60, I could’ve died. A major health event led me to the realization that I’d better make the most of the time I’m still alive. When I was 65, when David Bowie died, I came to realize again that every moment of life is a chance to do what it is you have to do... before it’s too late.
 </p>
 <p>Bowie created his greatest work despite knowing he would soon be meeting his demise. He was inspired as I am now. Doors are opening in my mind.
 </p>
