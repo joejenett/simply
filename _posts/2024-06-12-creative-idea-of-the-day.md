@@ -8,7 +8,7 @@ category:
 permalink: /creative-idea-of-the-day/
 slug: creative-idea-of-the-day
 summary: I needed that, thank you!
-comments: true
+comments: false
 ---
 <a href="https://mstdn.ca/@lonita/112601969215915436">#Creative Idea of the Day</a>
 <blockquote>

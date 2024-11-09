@@ -8,7 +8,7 @@ category:
 permalink: /trying-to-hide/
 slug: trying-to-hide
 summary: from the brainstormer
-comments: true
+comments: false
 ---
 in a downhill slide  
 trying to hide  

@@ -8,7 +8,7 @@ category:
 permalink: /alive-and-kicking/
 slug: alive-and-kicking
 summary: 
-comments: true
+comments: false
 ---
 Thanks to the miracles of modern medicine and therapeutic botanicals, I’m grateful to report this old guy is doing just fine. Seems there’s still time for my [_bowie moment_](https://simply.joejenett.com/bowie/). 
 
