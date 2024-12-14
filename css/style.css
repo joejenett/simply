@@ -57,13 +57,13 @@ summary {
 @media only screen and (max-width:431px) {
 	#announcer {
 	max-width:280px;
-	transform:scale(.9);
+	transform:scale(.8);
 }
 }
 @media only screen and (max-width:390px) {
 	#announcer {
 	max-width:260px;
-	transform:scale(.8);
+	transform:scale(.75);
 }
 }
 .p-spot {
