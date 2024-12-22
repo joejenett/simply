@@ -54,7 +54,7 @@ summary {
 		top:4px;
  }
 }
-@media only screen and (max-width:431px) {
+/*@media only screen and (max-width:431px) {
 	#announcer {
 	max-width:280px;
 	transform:scale(.8);
@@ -65,7 +65,7 @@ summary {
 	max-width:260px;
 	transform:scale(.75);
 }
-}
+}*/
 .p-spot {
 	padding-bottom:18px;
 }
