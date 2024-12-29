@@ -20,4 +20,4 @@ Angry men concerned with protecting white privilege and keeping women <em>in the
 Maybe we should call it <em>gerrypandering</em>.
 </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"></a>

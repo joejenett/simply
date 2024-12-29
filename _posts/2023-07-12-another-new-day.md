@@ -21,4 +21,4 @@ just make it happen
 #haiku  
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"></a>

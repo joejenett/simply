@@ -30,4 +30,4 @@ When he came to, he was coasting through a row of trees and regained control.
 Life is good.
 </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"></a>

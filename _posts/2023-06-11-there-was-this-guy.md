@@ -13,4 +13,4 @@ comments: false
 <img src="/images/this-guy.png" alt="" width="65%;">
 <p>circa 1979</p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"></a>

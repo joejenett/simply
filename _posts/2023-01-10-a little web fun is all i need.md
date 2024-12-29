@@ -17,4 +17,4 @@ comments: false
 <p>Not only do I appreciate him handing me a wonderful resource to use at the linkport but more importantly, he inspired me to tinker with the generator a bit. In the end, he inspired a brand new haiku and I kinda like it (see below). And that’s how ideas evolve...</p>
 <p><a title="click to view on Fediverse" href="https://toot.community/@jenett/109661109803039859"><img src="/images/that-wordcloud-thing.jpg" alt="" width="100%" style="max-width:100%;border:1px solid #ddd;" ></a></p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"></a>

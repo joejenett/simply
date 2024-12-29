@@ -34,4 +34,4 @@ I do the same damn things all the time, though with some different softwares. Bu
 <p>
 By the way Jack, I like <a href="https://yakitrak.github.io/obs/">Obsidian CLI</a> much better than the ‘assistant’ I shared that day...
 </p>
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"></a>
