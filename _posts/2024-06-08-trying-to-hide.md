@@ -25,4 +25,4 @@ a world of beings
 holding on tight 
 for their sanity 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>

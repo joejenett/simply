@@ -12,4 +12,4 @@ comments: false
 ---
 When someone says “<a title="Send me a (Web)mention | John Peart" href="https://www.johnpe.art/note/1715258267/">Send me a (Web)mention</a>,” I like to oblige. I guess it’s my inner urge to test and help others test that’s driving this puppy. So, hi John. 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
