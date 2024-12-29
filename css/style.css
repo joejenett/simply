@@ -558,7 +558,7 @@ a, section.response header a, ul.post-list li p a, .post-meta a, .rss-subscribe 
  * Blockquotes
  */
 blockquote {
-  color: #222;
+  color:var(--base-color);
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
