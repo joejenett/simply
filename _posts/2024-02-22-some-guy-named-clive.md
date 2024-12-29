@@ -14,4 +14,4 @@ comments: false
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2158926211/size=small/bgcol=ffffff/linkcol=0687f5/track=3346588851/transparent=true/" seamless><a href="https://clivemurray.bandcamp.com/album/love-and-painkillers">Love and Painkillers by Clive Murray</a></iframe>
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

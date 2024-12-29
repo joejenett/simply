@@ -36,4 +36,4 @@ hold on to the joy
 It’s May now. I watch them carry the pain quietly in their hearts. Grateful to know life goes on... 
 </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
