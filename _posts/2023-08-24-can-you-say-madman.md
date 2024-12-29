@@ -14,4 +14,4 @@ comments: false
 <details><summary>Actually not as funny as it is revealing...</summary><img src="/images/madman.jpg" alt="" width="100%" style="margin-top:12px;"></details>
 </p>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>

@@ -25,4 +25,4 @@ So I’m trying to work on it - apparently not hard enough... yet.
 
 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>

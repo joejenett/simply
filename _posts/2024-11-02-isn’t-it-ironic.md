@@ -19,4 +19,4 @@ comments: true
 
 😎 just sayin’
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
