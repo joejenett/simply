@@ -35,4 +35,4 @@ Finally, I must respond to something <a href="https://www.unseensounds.com/notes
 
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

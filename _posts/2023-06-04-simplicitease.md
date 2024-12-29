@@ -21,4 +21,4 @@ you got love waitin’ for ya<br>
 you got love waitin’ for ya...
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
