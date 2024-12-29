@@ -12,7 +12,7 @@ function doit() {
 </script>
 			<div class="announce" style="font-style:normal;">
 				<!--<p onclick="javascript:doit()">-->
-				<iframe id="announcer" src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
+				<iframe id="announcer" title="i.webthings announcements" src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
 				<!--<span style="font-size:1.8em;position:relative;top:-28px;margin-bottom:0;">🎁</span></p>-->
 			</div>
 			
@@ -29,10 +29,10 @@ function doit() {
 			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 			{% if post.title != "" %}
 			<div style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
-				<h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
+				<h2 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
 					<a class="post-link" href="{{ post.url | relative_url }}">
 					{{ post.title | escape }}</a> 
-				</h3>
+				</h2>
 				<div style="position:relative;top:-4px;margin-bottom:24px;">
 					<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 					• <span class="post-meta p-author h-card">joe jenett

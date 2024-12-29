@@ -23,7 +23,7 @@ layout: default
 				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 				{{ page.date | date: date_format }}
 			</time></a>
-			{%- if page.author -%}• <span class="author p-author h-card vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://simply.joejenett.com/" rel="author"><img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="u-photo photo" width="24" height="24" style="vertical-align:middle;" itemprop="image">
+			{%- if page.author -%}• <span class="author p-author h-card vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://simply.joejenett.com/" rel="author"><img alt="author's homepage" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="u-photo photo" width="24" height="24" style="vertical-align:middle;" itemprop="image">
 				<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
 			</span>
 
@@ -169,6 +169,6 @@ initComments({
 <div style="height:48px;border-bottom:1px solid #ccc;margin-bottom:12px;"></div>
 <p style="text-align:center;margin-top:24px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
 
-<a class="u-url hidden" href="{{ page.url | relative_url }}"></a>
+<a class="u-url hidden" href="{{ page.url | relative_url }}"><small>(permalink)</small></a>
 
 </article>
