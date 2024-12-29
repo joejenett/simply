@@ -9,7 +9,7 @@
 	font-style: normal;
 }
 :root,[data-theme="light"] {
-	--base-color: #555;
+	--base-color: #222;
 	--bg-color: #fff;
 	--br-bg-color: #eaeeee;
 	--meta-base-color: #999;
