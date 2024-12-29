@@ -27,7 +27,9 @@
 html {
 	font-size: 18px;
 }
-
+.post-categories {
+	color:var(--base-color);
+}
 /**
  * Reset some basic elements
  */
