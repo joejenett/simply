@@ -13,5 +13,5 @@ comments:
 <p><img src="/images/dancing-jim.gif" alt="" width="300" /></p>
 <p>Made with <a href="https://johnjohnston.info/oddsandends/dancingjim/">Dance Jim Dance</a> (thanks <a href="https://johnjohnston.info/blog/tdc3742/">John</a>)</p>
 
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

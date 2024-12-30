@@ -13,5 +13,5 @@ comments:
 <blockquote><p>To remove the popups, a license of €9.95 is required</p></blockquote>
 
 
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

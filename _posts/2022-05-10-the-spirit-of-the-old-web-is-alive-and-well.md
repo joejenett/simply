@@ -21,5 +21,5 @@ I’ve done away with the frames, tables, and pop-up windows ending up with a qu
 You may have noticed that some of its content is <a href="https://simply.jenett.org/categories/#redux">republished</a> on this blog. Moving forward, I hope to create more content in that same spirit to be added to the new <em>bulltown</em>. I hope you enjoy it.
 </p>
 
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

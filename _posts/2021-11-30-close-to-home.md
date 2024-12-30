@@ -14,5 +14,5 @@ There was a school shooting earlier today in Oxford, the next town north of Lake
 It’s just another reminder that gun violence it out of control in this country. Not to mention, the growing political division and lack of civility in our culture is also out of control and taking it’s toll. Enough said.
 
 So sad.
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

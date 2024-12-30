@@ -18,5 +18,5 @@ comments:
 I am still not all in on using blocks, but this could be fun.
 </p></blockquote>
 <p>Say it again - you gotta love this guy!</p>
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>
