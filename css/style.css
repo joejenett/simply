@@ -392,6 +392,7 @@ line-height: 1.3em;
 	color:#286c80;
 	margin-bottom:12px;
 	padding-bottom:6px;
+	font-size:1em;
 }
 #aka-header-fix {
 	position:relative;
@@ -420,13 +421,13 @@ margin-bottom:0;
 	list-style:none outside none;
 	line-height:1.4em;	
 }
-#aka li a, #aka li a:visited {
+#aka li a, #aka li a:visited, #aka a, #aka a:visited {
 	background-color: #fbffff;
 	font-weight:600;
 	text-decoration:none;
 	color:#222;
 }
-#aka li a:hover {
+#aka li a:hover, #aka a hover {
 	background-color: #fbffff;
 	text-decoration:underline;
 	color:#222;
