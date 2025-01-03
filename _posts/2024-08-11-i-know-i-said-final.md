@@ -22,6 +22,20 @@ comments: true
 </p>
 <small>(Updated 08/21/24)</small>
 
-
-
 <a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
+Previous Comments:
+</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;">
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">8/11/24</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://is-quite.gay/@dunkyl">Dunkyl 🔣🔣 </a>
+I had dabbled before a little in a background like this. I should try again having seen this. Very nice!
+</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;">
+<a href="https://simply.joejenett.com/">joe</a>
+Thanks Dunkyl. I’ve had a lotta fun with it..:-)
+</p>
+
+
+
