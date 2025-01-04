@@ -13,4 +13,4 @@ comments: false
 ---
 <p>a little GarageBand creation (rough draft)</p><p><audio controls="controls"><source src="/media/lovewaitinforya.take1.mp3" type="audio/mp3" /></audio> </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

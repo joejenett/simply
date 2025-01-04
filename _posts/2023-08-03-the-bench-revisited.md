@@ -29,4 +29,4 @@ Now here we are, over 50 years later and now that I’ve let my hair down, I’l
 
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

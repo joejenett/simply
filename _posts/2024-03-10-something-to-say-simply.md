@@ -17,4 +17,4 @@ I’ll go with the clear-headed stuttering old guy who takes his job seriously a
 Just my opinion as another (slightly younger) old guy...
 </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

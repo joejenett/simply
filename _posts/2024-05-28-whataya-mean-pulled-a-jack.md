@@ -37,7 +37,7 @@ By the way Jack, I like <a href="https://yakitrak.github.io/obs/">Obsidian CLI</
 
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 
 <p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
 Previous Comments:

@@ -22,4 +22,4 @@ Good Lord, I feel like I'm dyin'</p><p>&ndash; Gregg Allman</p></blockquote>
 <p>A recent <a href="https://winnielim.org/journal/when-my-body-goes-rogue/">journal entry</a> by Winnie Lim has rekindled my desire to get better at telling it like it is whether I’m writing blog posts or improvising music and lyrics. I’m so in awe of her ability to express herself freely. I can indeed feel the pain - both her pain and my own.</p>
 <p>I’ve never mentioned it before. I live with chronic physical pain. Fortunately, it’s manageable. Not so much for emotional pain. But I’m working on that too and hope to share more with you soon. It’s never too late... until it is.</p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

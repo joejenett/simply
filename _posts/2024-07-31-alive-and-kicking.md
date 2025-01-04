@@ -30,4 +30,4 @@ As certain abilities diminish over time, the mind takes up the slack. I’ve lea
 
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

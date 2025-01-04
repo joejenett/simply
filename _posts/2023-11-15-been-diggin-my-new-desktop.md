@@ -22,7 +22,7 @@ Spent some hours today finishing it up and like where it ended up. What fun!
 </p>
 <p><small>(Updated 12/21/23, 12/18/23, 11/19/23, and 11/16/23)</small></p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 
 <p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
 Previous Comments:

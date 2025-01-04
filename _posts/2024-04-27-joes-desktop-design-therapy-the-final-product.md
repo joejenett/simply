@@ -27,4 +27,4 @@ Yeah. I did it again! I’m feeling real good about the 3rd version of my deskto
 </p>
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -23,4 +23,4 @@ When I feel I’ve made some good donuts today, I’m a happy guy. <em>But don't
 Cya!
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

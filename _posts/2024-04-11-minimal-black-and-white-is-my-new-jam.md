@@ -28,4 +28,4 @@ Well. A few weeks back, I simplified my desktop and love it. I spend hours daily
 Cheers and thanks for visiting!
 </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
