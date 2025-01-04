@@ -20,5 +20,5 @@ I’m happy and thankful<br />
 to have walked away.
 </p>
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

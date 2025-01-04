@@ -18,5 +18,5 @@ So. That’s a little bit of the story behind my old <a href="https://joejenett.
 
 
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

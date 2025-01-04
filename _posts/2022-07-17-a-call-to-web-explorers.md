@@ -22,5 +22,5 @@ Yes, I need to see more. So I check out [his site](https://swiftyshq.neocities.o
 The fun I had this morning is exactly what I’m hoping my sites’ visitors will experience when they explore the links I share. A little attention goes a long way - take some time to explore... and enjoy!
 
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

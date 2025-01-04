@@ -15,5 +15,5 @@ comments:
 <h2>Isn’t it ironic?</h2>
 <p>The headline got my attention but seeing it juxtaposed with the intrusive promotion below kinda took me over the top. After batting down that first ad overlay,  uncovering the largest banner ad I’d ever seen, I see this!</p><p> I never read the article, thank you. Whatever it said, I’m sure they missed this ‘reason.’ </p><p>Oy!</p>
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

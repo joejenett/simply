@@ -15,5 +15,5 @@ comments:
 <p>Finally, from <a href="https://ramblinggit.com/2022/08/16/im-ordering-microwaveable.html">Brad</a> who just may have a future in stand-up: “...I’m keeping all the Darkness in the World at bay with beans.” You cracked me up Brad though I’m still trying to wrap my head around that <a title="Brad Enslen" href="https://ramblinggit.com/2022/08/19/heres-the-deal.html">dollar store</a> thing. 😎</p>
 Later.
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

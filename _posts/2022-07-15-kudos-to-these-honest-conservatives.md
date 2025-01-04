@@ -20,5 +20,5 @@ Efforts to thwart the People’s choice are deeply undemocratic and unpatriotic.
 <p>[via <a href="https://pinboard.in/u:nwhyte" title="">nwhyte</a>]</p>
 
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>
