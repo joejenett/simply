@@ -12,7 +12,7 @@ summary: oops, I did it again
 comments: true
 ---
 <p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;font-weight:bold;">
-<a href="/desk4.html">Version 4</a> | <a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>
+<a href="/desk4.html">Version 4</a> | <a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a><a href="https://bulltown.neocities.org/that-other-desktop/">(<span style="margin-left:12px;font-size:.8em;">(bulltown.neo)</span></a>
 </p>
 <p>
 ...let’s call this my final ‘final’ version.
