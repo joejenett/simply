@@ -592,6 +592,11 @@ padding:0;
 	  margin: 60px 45px 20px 45px;
   }
 }
+@media screen and (max-width: 540px) {
+	..hcard-display {
+		margin: 60px 110px 20px 110px;
+	}
+}
 @media screen and (max-width: 414px) { 
 	.hcard-display {
 		margin: 60px 35px 20px 35px;
@@ -946,11 +951,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-size: 1.25rem;
 }
-@media screen and (max-width: 540px) {
-	..hcard-display {
-		margin: 60px 110px 20px 110px;
-	}
-}
+
 /**
  * Syntax highlighting styles
  */
