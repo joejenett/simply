@@ -88,7 +88,9 @@ h1 {
 }
 h2 {
 	font-size:1.3rem;	
-
+h2 a.post-link {
+	font-size:1.25rem;
+}
 }
 h3 {
 	font-size:1.25rem;	
@@ -760,14 +762,15 @@ h1#site-title.p-name a.u-url.url {
   font-size: 14px;
   color:var(--base-color); }
 
-.post-link {
-  display: block;
-  font-size: 24px; }
-ul.post-list li h3 a.post-link {
+
+ul.post-list li h2 a.post-link {
 color: var(--base-color);
-font-size: 30px;
+font-size: 1.3rem;
 font-weight:600;
 line-height:1.3em;
+}
+h2 a.post-link {
+	font-size: 1.35rem;
 }
 /**
  * Posts
