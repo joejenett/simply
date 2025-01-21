@@ -83,6 +83,17 @@ dl, dd, ol, ul, figure {
 	margin: auto;
 	padding: 0;
 }
+h1 {
+	font-size:1.35rem;	
+}
+h2 {
+	font-size:1.3rem;	
+
+}
+h3 {
+	font-size:1.25rem;	
+
+}
 #toggler {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	border-radius:0;
@@ -377,7 +388,7 @@ header.post-header h1.post-title.p-name {
 	font-size: 30px;
 	font-weight:600;
 	color:#222;
-	line-height:1.3em;
+	line-height:1.35em;
 }
 .post-content h2, .e-content h2 {
 	font-size:28px;
@@ -849,10 +860,10 @@ blockquote.e-summary {
   font-family: 'eb_garamondregular',Georgia,Times,serif;
   font-size: 1.15rem;
 }
-h1, h2, h3, h4, h5, h6 {
+/*h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-size: 1.25rem;
-}
+}*/
 #rings a, #rings a:visited {
 	color: var(--a-sp-color);
 }
