@@ -592,7 +592,7 @@ h1#site-title.p-name a.u-url.url {
 #menu a {
 	color: var(--base-color);
     background: var(--bg-color);
-	margin: 0 8px;
+	margin: 0 7px;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight:600;
 }
