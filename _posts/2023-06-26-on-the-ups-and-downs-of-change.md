@@ -4,7 +4,7 @@ title:  on the ups and downs of change
 date:   2023-06-26 15:25:38 -0400r
 author: joe jenett
 category:
-  -  
+  -  personal
 permalink: /on-the-ups-and-downs-of-change/
 slug: on-the-ups-and-downs-of-change
 summary: 
