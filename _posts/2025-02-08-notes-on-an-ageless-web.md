@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions
 title:  notes on an ageless web
 date:   2025-02-08 10:01:47 -0400
 author: joe jenett
@@ -10,6 +10,8 @@ permalink: /notes-on-an-ageless-web/
 slug: notes-on-an-ageless-web
 summary: 
 comments: true
+reaction: <p><a href="https://toot.community/@jenett/113969277071638730#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.8em;">Pamela</span></a></p>
+
 ---
 Several recent guestbook posts at [bulltown](https://bulltown.joejenett.com/) got my attention.
 <blockquote><p>wowo cool site 😁</p></blockquote>
