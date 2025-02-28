@@ -15,7 +15,7 @@ comments: false
 The meds I do every morning to manage my little collection of physical ailments don’t always do it for me. Sometimes, the pain goes far beyond what a few Tylenol (along with those other meds) can resolve. When I wake up feeling like total shit, I need something more powerful. Well, I tried something this morning after my usual meds and motherfucker, it worked!
 </p>
 <p>
-Three songs in their entirety, one after the other was the magic formula I discovered less than an hour ago. Three songs. And I’m good now.
+Three songs in their entirety, one after the other was the magic formula I discovered this morning. Three songs. And I’m good now.
 </p>
 
 <p> 
