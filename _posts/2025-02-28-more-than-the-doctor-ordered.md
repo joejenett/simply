@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions
 title:  more than the doctor ordered
 date:   2025-02-28 10:19:31 -0400
 author: joe jenett
@@ -10,6 +10,7 @@ permalink: /more-than-the-doctor-ordered/
 slug: more-than-the-doctor-ordered
 summary: Thanks Clive, David, and Robert
 comments: false
+reaction: <p><a href="https://toot.community/@jenett/114082325025049294#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.9em;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;">Pamela</span></a></p>
 ---
 <p> 
 The meds I do every morning to manage my little collection of physical ailments don’t always do it for me. Sometimes, the pain goes far beyond what a few Tylenol (along with those other meds) can resolve. When I wake up feeling like total shit, I need something more powerful. Well, I tried something this morning after my usual meds and motherfucker, it worked!
