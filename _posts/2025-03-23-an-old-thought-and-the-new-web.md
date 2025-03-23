@@ -21,6 +21,4 @@ The thing about the web is you can stake out a little place of your own - a plac
 
 NeoCities is not GeoCities... it’s much better, thank you!
 
-
-
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
