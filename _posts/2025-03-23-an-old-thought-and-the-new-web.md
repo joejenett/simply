@@ -11,7 +11,7 @@ slug: an-old-thought-and-the-new-web
 summary: a place you can call your own
 comments: false
 ---
-<a href="https://joejenett.com/asap/"><img src="/images/asap222.gif" alt="" style="position:relative;float:right;"></a>
+<a href="https://joejenett.com/asap/"><img src="/images/asap222.gif" alt="" style="position:relative;float:right;margin:3px;"></a>
 
 It’s early September, 2001 and there’s something new on the web - pop-under ads. 
 
