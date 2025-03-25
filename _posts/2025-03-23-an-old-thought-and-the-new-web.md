@@ -21,6 +21,9 @@ I’m sorry but when I hear _Yahoo!_ or _GeoCities_, especially in the same sent
 
 The thing about the web is you can stake out a little place of your own - a place for expressing yourself (whatever that means to you) - a place you can call home - a place from which you might say your piece.
 
-NeoCities is not GeoCities... it’s much better, thank you!
+NeoCities is not ‘Yahoo! GeoCities’... it’s much better, thank you!
 
+<p class="note">
+(edited for clarity, 03/25/25)
+</p>
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
