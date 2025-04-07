@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
 	font-family: 'eb_garamondregular';
 	src: url('../fonts/ebgaramond-webfont.eot');
 	src: url('../fonts/ebgaramond-webfont.eot?#iefix') format('embedded-opentype'),
@@ -7,9 +7,18 @@
 	url('.. /fonts/ebgaramond-webfont.svg#eb_garamondregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
+}*/
+@font-face {
+	font-family: 'iA Writer Mono';
+	url('../fonts/ia-writer-mono-latin-400-normal.woff') format('woff');
+	url('../fonts/ia-writer-mono-latin-400-normal.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	line-height:1.5;
 }
+
 :root,[data-theme="light"] {
-	--base-color: #222;
+	--base-color: #444;
 	--bg-color: #fff;
 	--br-bg-color: #eaeeee;
 	--meta-base-color: #999;
@@ -25,11 +34,13 @@
 	--iwt-bg-color: #333;
 }
 html {
-	font-size: 18px;
+	font-size: 14px;
+	
 }
 body {
-	font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	font-family: 'eb_garamondregular',Georgia,Times,serif;
+	font: 400 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 'iA Writer Mono', monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	color: var(--base-color);
 	background: var(--bg-color);
 	-webkit-text-size-adjust: 100%;
@@ -46,7 +57,8 @@ body {
 	color:var(--base-color);
 }
 summary {
-	font-family: 'eb_garamondregular';
+	/*font-family: 'eb_garamondregular';*/
+	font-family: 'iA Writer Mono', monospace;
 	font-weight: normal;
 	font-style: normal;
 	font-size: 1.2rem;
@@ -94,15 +106,18 @@ h3 {
 
 }
 #toggler {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	border-radius:0;
 }
 #rings, #rings p, .sidefoot, .sidefoot p {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size:.9em;
 }
 #byline {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size: 1em;
 	font-weight:300;
 	font-style:italic;
@@ -118,7 +133,8 @@ h3 {
 	top: 8px;
 	float: right;
 	margin-bottom: 12px;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size:.75em;
 }
 .theme-switch {
@@ -178,20 +194,24 @@ span.hide-name.p-name {
 	background-color: #fff;
 	margin-bottom:1px;
 	font-size:1em;
+	font-family: 'iA Writer Mono', monospace;
 }
 #result, #result2 {
 	padding-top:18px;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size:.9rem;
 	font-weight:600;
 }
 #result p, #result p a, #result2 p, #result2 p a {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size:.9rem;
 	font-weight:600;
 }
 #results-container {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size:.95em;
 	font-weight:600;
 	padding:6px 0 6px 12px;
@@ -201,14 +221,16 @@ span.hide-name.p-name {
 	list-style:none;
 }
 #comments-intro, #comments-intro p {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size:.95em;
 }
 div.hcard-header a.u-url.url.fn.u-uid {
 	background-color: var(--iwt-bg-color);
 }
 .hcard-display {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	margin:60px 140px 20px 140px;
 	padding: 12px 0 0 0;
 	border: 1px solid #a3b8cc;
@@ -219,7 +241,8 @@ div.hcard-header a.u-url.url.fn.u-uid {
 	font-size:90%;
 }
 .hcard-display p {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 }
 .note {
 	font-size:.85em;
@@ -230,10 +253,13 @@ div.hcard-header a.u-url.url.fn.u-uid {
 	list-style:none;
 }
 p {
-	font-family: 'eb_garamondregular',Georgia,Times,serif;
+	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+	font-family: 'iA Writer Mono', monospace;
+	line-height:1.5;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 }
 html,#page,.entry-content,footer.entry-meta,#nav-above a,#nav-below a,#menu-menu1 a,.entry-title,.entry-title a,.entry-header,#colophon a,#comments a,.widget a {
 	color: var(--base-color);
@@ -356,29 +382,34 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
 }
 div.entry-content, div.entry-content p {
 	font-size: 1.3rem;
-	line-height: 1.5em;
+	line-height: 1.75em;
 }
 .e-content p, .post-list p {
-  font-family: 'eb_garamondregular',Georgia,Times,serif;
+  /*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+  font-family: 'iA Writer Mono', monospace;
   font-size: 1.3rem;
-  line-height: 1.3em;
+  line-height: 1.75;
 }
 .e-content, blockquote {
   margin: 16px 18px 16px 12px;
-  font-family: 'eb_garamondregular',Georgia,Times,serif;
+  /*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+  font-family: 'iA Writer Mono', monospace;
   font-size: 1.3rem;
-  line-height: 1.5em;
+  line-height: 1.5;
  }
   blockquote p {
+	  	font-family: 'iA Writer Mono', monospace;
+
 	margin-top: 12px;
 	font-size: 1.3rem;
-	line-height: 1.3em;
+	line-height: 1.5;
 }
 blockquote.e-summary {
 	margin-top: 12px;
-	font-family: 'eb_garamondregular',Georgia,Times,serif;
+	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
-	line-height: 1.3em;
+	line-height: 1.5;
 }
 div.entry-reaction section.response.u-like-of.h-cite header {
 border-bottom:none;
@@ -431,7 +462,7 @@ border-bottom:1px dashed #ccc;
 a, section.response header a, ul.post-list li p a, .post-meta a, .rss-subscribe a, .e-content p a, yearlist ul li span a, div.archive-group article.archive-item li a, article.post.h-entry div.post-content.e-content ul li a, div.sidefoot a, div.sidefoot p a, div.home div ul.post-list li a  {
   color: var(--a-sp-color);
   text-decoration: none; 
-  font-weight:500;}
+  font-weight:600;}
   a:visited, section.response header a:visited, ul.post-list li p a:visited, .post-meta a:visited, .rss-subscribe a:visited, .e-content p a:visited, yearlist ul li span a:visited, div.archive-group article.archive-item li a:visited, article.post.h-entry div.post-content.e-content ul li a:visited, div.sidefoot a:visited, div.sidefoot p a:visited, div.home div ul.post-list li a:visited {
     color: var(--a-sp-color); }
   a:hover, section.response header a:hover, ul.post-list li p a:hover, .post-meta a:hover, .rss-subscribe a:hover, .e-content p a:hover, yearlist ul li span a:hover, div.archive-group article.archive-item li a:hover, article.post.h-entry div.post-content.e-content ul li a:hover, div.sidefoot a:hover, div.sidefoot p a:hover, div.home div ul.post-list li a:hover {
@@ -575,9 +606,9 @@ table {
 	margin: 0;
 }
 #site-title {
-	font-size: 2.5em;
-	position: relative;
-	top: -4px;
+	font-size: 2.5rem;
+	/*position: relative;
+	top: -4px;*/
 	font-weight: 600;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -597,7 +628,8 @@ h1#site-title.p-name a.u-url.url {
     background: var(--bg-color);
 	padding-left: 12px;
 	margin: 10px 0 0 0;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size: .85em;
 	border-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;
@@ -606,7 +638,8 @@ h1#site-title.p-name a.u-url.url {
 	color: var(--base-color);
     background: var(--bg-color);
 	margin: 0 7px;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-weight:600;
 }
 #menu span.sub, #menu span.sub a {
@@ -614,7 +647,8 @@ h1#site-title.p-name a.u-url.url {
 	margin:0 3px;
 }
 .home, #archives {
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
 }
 .site-header {
 	border-top: 5px solid #424242;
@@ -758,7 +792,8 @@ h1#site-title.p-name a.u-url.url {
 }
 
 .post-meta {
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'iA Writer Mono', monospace;
   font-size: 14px;
   color:var(--base-color); }
 
@@ -810,7 +845,8 @@ section.h-cite.response.u-quotation-of span,
 section.response.u-bookmark-of.h-cite span,
 section.h-cite.response.u-in-reply-to span,
 section.response.u-like-of.h-cite span {
-	font-family: 'eb_garamondregular',Georgia,Times,serif;
+	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.3em;
 }
@@ -818,7 +854,8 @@ section.h-cite.response.u-quotation-of,
 section.response.u-bookmark-of.h-cite,
 section.h-cite.response.u-in-reply-to,
 section.response.u-like-of.h-cite {
-	font-family: 'eb_garamondregular',Georgia,Times,serif;
+	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	padding: 0;
 	margin: 0;
 	font-size: 1.3rem;
@@ -836,14 +873,16 @@ section.response.u-like-of.h-cite span.kind-display-text,
 section.response.u-bookmark-of.h-cite span.kind-display-text,
 section.h-cite.response.u-quotation-of span.kind-display-text,
 section.h-cite.response.u-in-reply-to span.kind-display-text {
-	font-family: 'eb_garamondregular',Georgia,Times,serif;
+	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.3em;
 }
 .e-content,
 blockquote {
 	margin-top: 12px;
-	font-family: 'eb_garamondregular',Georgia,Times,serif;
+	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.5em;
 }
@@ -854,13 +893,11 @@ ul.post-list li h3 {
 header.post-header {
 	border:none;;
 }
-.e-content p, .post-list p {
-  font-family: 'eb_garamondregular',Georgia,Times,serif;
-  font-size: 1.3rem;
-}
+
 blockquote.e-summary {
   margin-top: 12px;
-  font-family: 'eb_garamondregular',Georgia,Times,serif;
+  /*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
+  font-family: 'iA Writer Mono', monospace;
   font-size: 1.15rem;
 }
 #rings a, #rings a:visited {

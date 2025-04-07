@@ -11,7 +11,7 @@ slug: been-diggin-my-new-desktop
 summary: yummy brown, black, and white - yay
 comments: false
 ---
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;font-weight:bold;">
+<p style="font-family: 'iA Writer Mono', monospace;font-size:14px;font-weight:bold;">
 <a href="/desk4.html">Version 4</a> | <a href="/desk3.html">Version 3</a> | <a href="/desk2.html">Version 2</a> | <a href="/desk.html">Version 1</a>
 </p>
 <p>
@@ -24,14 +24,14 @@ Spent some hours today finishing it up and like where it ended up. What fun!
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
 Previous Comments:
 </p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">12/4/23</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><strong>Landfoci</strong>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">12/4/23</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><strong>Landfoci</strong>
 Hello, nice to meet you
 </p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://simply.joejenett.com/">joe jenett</a>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://simply.joejenett.com/">joe jenett</a>
 
 Hi Landfoci - thanks for visiting - I think it’s finally complete...
 </p>

@@ -18,17 +18,17 @@ comments: false
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
 Previous Comments:
 </p>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">4/29/23</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://blogroll.org/">Ray</a>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">4/29/23</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://blogroll.org/">Ray</a>
 So we should start calling ourselves Ray Ray, then? Haw!
 </p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;">Ray
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;">Ray
 </p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">4/30/23</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://iwebthings.joejenett.com/">joe jenett</a>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">4/30/23</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://iwebthings.joejenett.com/">joe jenett</a>
 Or maybe RayYay...
 </p>

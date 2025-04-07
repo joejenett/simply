@@ -37,14 +37,14 @@ Finally, I must respond to something <a href="https://www.unseensounds.com/notes
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
+<p style="font-family: 'iA Writer Mono', monospace;;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
 Previous Comments:
 </p>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">6/28/23</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://www.unseensounds.com/">Poorchop</a>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">6/28/23</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://www.unseensounds.com/">Poorchop</a>
 Glad to know you too Joe and glad to see you still sharing links.
 </p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">7/1/23</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://iwebthings.joejenett.com/">Joe</a>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">7/1/23</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://iwebthings.joejenett.com/">Joe</a>
 thanks</p>

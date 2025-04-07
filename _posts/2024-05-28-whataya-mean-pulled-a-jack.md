@@ -39,22 +39,22 @@ By the way Jack, I like <a href="https://yakitrak.github.io/obs/">Obsidian CLI</
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
 Previous Comments:
 </p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">5/28/24</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://social.lol/@jbaty">Jack Baty</a>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">5/28/24</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://social.lol/@jbaty">Jack Baty</a>
 Totally deserved :). "Jack" is such a versatile word, isn't it? Except, I think I'll be pushing the "Pulled a Joe" variant anyway 😆
 </p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://iwebthings.joejenett.com/">joe</a>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://iwebthings.joejenett.com/">joe</a>
 The bantering is the best part... 😎</p>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;">I do realize there’s one true geek in the room.</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;">I do realize there’s one true geek in the room.</p>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">7/23/24</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><strong>Anonymous</strong>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">7/23/24</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><strong>Anonymous</strong>
 Your website is cool</p>
 
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">7/24/24</p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://iwebthings.joejenett.com/">joe</a></p>
-<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;">Thanks</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-weight:500;font-size:16px;">7/24/24</p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;"><a href="https://iwebthings.joejenett.com/">joe</a></p>
+<p style="font-family: 'iA Writer Mono', monospace;font-size:16px;">Thanks</p>
