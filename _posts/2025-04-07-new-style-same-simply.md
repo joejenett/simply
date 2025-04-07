@@ -17,5 +17,5 @@ It’s amazing how a simple change in font can change the feel of a site. I just
 Thanks to <a href="https://cassidoo.co/">Cassidy Williams</a> for the inspiration!
 </p>
 <p>
-<a style="visibility:hidden;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"><span style="display:none;"><small>(cross-posted to mastodon)</small></span></a>
 </p>
