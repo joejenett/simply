@@ -17,4 +17,4 @@ This post is temporary and will soon be deleted.
 
 
 
-<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a  href="https://brid.gy/publish/mastodon"></small></a>
