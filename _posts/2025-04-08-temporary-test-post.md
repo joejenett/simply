@@ -17,4 +17,4 @@ This post is temporary and will soon be deleted.
 
 
 
-<a  href="https://brid.gy/publish/mastodon"></small></a>
+<a  href="https://brid.gy/publish/mastodon"></a>
