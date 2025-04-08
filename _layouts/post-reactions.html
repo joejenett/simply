@@ -81,6 +81,9 @@ layout: default
 </footer>
 {% endif %}
 
+<p style="text-align:center;font-size:.8em;">
+  <a class="u-url hidden" href="{{ page.url | relative_url }}">(permalink)</a>
+</p>
 <div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 <div style="width:50%;">
 {% if page.previous.url %}
@@ -142,37 +145,11 @@ layout: default
 	{{ page.reaction }}
 </div>
 
-<!--
-{%- if page.comments == true -%}
-<div id="comments-intro">
-<p style="margin-top:18px;"><span style="font-weight:600;">Comments:</span><br />Comments are moderated. You can post a comment (with your name if you like) without logging in. Log in with Matrix is optional.<br /><small>(Powered by <a href="https://cactus.chat/" title="">Cactus Comments</a>)</small>
-</p>
-<p>
-As always, you can also <a href="https://joejenett.com/contact/">contact me</a> with your comments or send webmentions. <br /><span style="font-weight:500;">I appreciate your feedback.</span>
-</p> 
-</div>
 
-<div id="comment-section"></div>
-<script>
-initComments({
-  node: document.getElementById("comment-section"),
-  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-  serverName: "cactus.chat",
-  siteName: "simply.joejenett.com",
-  commentSectionId: "{{ page.slug }}"
-})
-</script>
-<noscript>Please enable JavaScript to view comments.</noscript>
-{%- endif -%}
-
-{%- if page.comments != true -%}
-<p style="margin-top:12px;">Comments closed.</p>
-{%- endif -%}
--->
   
 <div style="height:48px;border-bottom:1px solid #ccc;margin-bottom:12px;"></div>
 <p style="text-align:center;margin-top:24px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
 
-<a class="u-url hidden" href="{{ page.url | relative_url }}"><small>(permalink)</small></a>
+
 
 </article>
