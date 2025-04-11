@@ -83,7 +83,7 @@ layout: default
 
 
 <p style="text-align:center;font-size:.8em;">
-  <a class="u-url hidden" href="{{ page.url | relative_url }}">(permalink)</a>
+  <a class="u-url hidden u-syndication" href="{{ site.url }}{{ page.permalink }}">(permalink)</a>
 </p>
 <div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;	font-family: 'iA Writer Mono', monospace;">
 <div style="width:50%;">
@@ -144,7 +144,7 @@ layout: default
 <div id="result"></div>
 
 <div style="height:48px;border-bottom:1px solid #ccc;margin-bottom:12px;"></div>
-<p style="text-align:center;margin-top:24px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
+<p style="text-align:center;margin-top:24px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> |  <a href="/feed.atom">subscribe via RSS</a>subscribe via RSS</a></p>
 
 
 </article>
