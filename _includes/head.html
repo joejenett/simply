@@ -5,67 +5,67 @@
 {% if page.title != "" %}<title>{{ page.title }}</title>{% endif %}{% if page.title == "" %}
 <title>{{ page.content | strip_html | truncatewords:6 }}</title>{% endif %}
 
-<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/css/style.css">
 <script src="/js/jquery-3.6.0.min.js"></script>
 <script src="/js/quoteback.js"></script>
 
-<link rel="authorization_endpoint" href="https://indieauth.com/auth" />
-<link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
-<link rel="profile" href="https://microformats.org/profile/specs" />
-<link rel="profile" href="https://microformats.org/profile/hatom" />
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+<link rel="profile" href="https://microformats.org/profile/specs">
+<link rel="profile" href="https://microformats.org/profile/hatom">
 <link rel="profile" href="https://gmpg.org/xfn/11">
 
-<link rel="webmention" href="https://webmention.io/simply.joejenett.com/webmention" />
-<link rel="pingback" href="https://webmention.io/webmention?forward=https://simply.joejenett.com/webmention" />
+<link rel="webmention" href="https://webmention.io/simply.joejenett.com/webmention">
+<link rel="pingback" href="https://webmention.io/webmention?forward=https://simply.joejenett.com/webmention">
 
 <link rel="micropub" href="https://simply.joejenett.com/micropub">
 
-<link href="/feed.atom" rel="alternate" title="simply. - full content feed" type="application/atom+xml" />
+<link href="/feed.atom" rel="alternate" title="simply. - full content feed" type="application/atom+xml">
 {% feed_meta %}
 
 
-<link rel="icon" href="/images/oj-0623-32.png" sizes="32x32" />
-<link rel="icon" href="/images/oj-0623-192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="/images/oj-0623-180.png" />
-<meta name="msapplication-TileImage" content="/images/oj-0623-270.png" />
+<link rel="icon" href="/images/oj-0623-32.png" sizes="32x32">
+<link rel="icon" href="/images/oj-0623-192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/images/oj-0623-180.png">
+<meta name="msapplication-TileImage" content="/images/oj-0623-270.png">
 
-	<link rel="me" href="https://joejenett.com/" />
-    <link rel="me" href="https://jenett.org" />
-	<link rel="me" href="https://simply.joejenett.com" />
-	<link rel="me" href="https://the.dailywebthing.com" />
-	<link rel="me" href="https://pointers.dailywebthing.com" />
-	<link rel="me" href="https://linkscatter.joejenett.com/" />
-	<link rel="me" href="https://photo.joejenett.com/" />
-	<link rel="me" href="https://wiki.joejenett.com/" />
-	<link rel="me" href="https://joe.joejenett.com/" />
-	<link rel="me" href="https://ideas.joejenett.com/" />
-	<link rel="me" href="https://iwebthings.joejenett.com/" />
-	<link rel="me" href="https://joejenett.github.io/i.webthings/" />
-	<link rel="me" href="https://github.com/joejenett" />
-	<link rel="me" href="https://github.com/joejenett/simply" />
-	<link rel="me" href="https://directory.joejenett.com/" />
-	<link rel="me" href="https://micro.blog/joejenett" />
-	<link rel="me" href="https://toot.community/@jenett" />
-	<link rel="me" href="https://mastodon.online/@jenett" />
-	<link rel="me" href="https://mastodon.online/@iwebthings" />
-	<link rel="me" href="mailto:joe.jenett@jenett.org" />
+	<link rel="me" href="https://joejenett.com/">
+    <link rel="me" href="https://jenett.org">
+	<link rel="me" href="https://simply.joejenett.com">
+	<link rel="me" href="https://the.dailywebthing.com">
+	<link rel="me" href="https://pointers.dailywebthing.com">
+	<link rel="me" href="https://linkscatter.joejenett.com/">
+	<link rel="me" href="https://photo.joejenett.com/">
+	<link rel="me" href="https://wiki.joejenett.com/">
+	<link rel="me" href="https://joe.joejenett.com/">
+	<link rel="me" href="https://ideas.joejenett.com/">
+	<link rel="me" href="https://iwebthings.joejenett.com/">
+	<link rel="me" href="https://joejenett.github.io/i.webthings/">
+	<link rel="me" href="https://github.com/joejenett">
+	<link rel="me" href="https://github.com/joejenett/simply">
+	<link rel="me" href="https://directory.joejenett.com/">
+	<link rel="me" href="https://micro.blog/joejenett">
+	<link rel="me" href="https://toot.community/@jenett">
+	<link rel="me" href="https://mastodon.online/@jenett">
+	<link rel="me" href="https://mastodon.online/@iwebthings">
+	<link rel="me" href="mailto:joe.jenett@jenett.org">
 	
-{% if page.summary %}<meta name="description" content="{{ page.summary }}" />{% else %}<meta name="description" content="{{ site.description }}" />{% endif %}
-<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-<meta property="og:site_name" content="simply." />
-<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-<meta property="og:locale" content="en_US" />
-{% if page.summary %}<meta property="og:description" content="{{ page.summary }}" />{% else %}<meta property="og:description" content="{{ site.description }}" />{% endif %}
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:type" content="article" />
-<meta property="og:image" content="https://simply.joejenett.com/images/simply.png" />
-<meta property="og:image:width" content="300" />
-<meta property="og:image:height" content="300" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:creator" content="@joejenett" />
-<meta name="twitter:site" content="@joejenett" />
-<meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:image" content="https://simply.joejenett.com/images/simply.png" />
-{% if page.summary %}<meta name="twitter:description" content="{{ page.summary }}" />{% else %}<meta name="twitter:description" content="{{ site.description }}" />{% endif %}
+{% if page.summary %}<meta name="description" content="{{ page.summary }}">{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="simply.">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:locale" content="en_US">
+{% if page.summary %}<meta property="og:description" content="{{ page.summary }}">{% else %}<meta property="og:description" content="{{ site.description }}">{% endif %}
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://simply.joejenett.com/images/simply.png">
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="300">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@joejenett">
+<meta name="twitter:site" content="@joejenett">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:image" content="https://simply.joejenett.com/images/simply.png">
+{% if page.summary %}<meta name="twitter:description" content="{{ page.summary }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
 
 </head>
