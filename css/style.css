@@ -1,13 +1,3 @@
-/*@font-face {
-	font-family: 'eb_garamondregular';
-	src: url('../fonts/ebgaramond-webfont.eot');
-	src: url('../fonts/ebgaramond-webfont.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/ebgaramond-webfont.woff') format('woff'),
-	url('../fonts/ebgaramond-webfont.ttf') format('truetype'),
-	url('.. /fonts/ebgaramond-webfont.svg#eb_garamondregular') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}*/
 @font-face {
 	font-family: 'iA Writer Mono';
 	url('../fonts/ia-writer-mono-latin-400-normal.woff') format('woff');
@@ -57,7 +47,6 @@ body {
 	color:var(--base-color);
 }
 summary {
-	/*font-family: 'eb_garamondregular';*/
 	font-family: 'iA Writer Mono', monospace;
 	font-weight: normal;
 	font-style: normal;
@@ -70,7 +59,7 @@ summary {
 	border-top:1px dashed #ccc;
 	border-bottom:1px dashed #ccc;
 	margin:18px 0;
-	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-family: 'iA Writer Mono', monospace;
 }
 .postnav-home {
 	display:flex;
@@ -79,7 +68,7 @@ summary {
 	border-top:1px dashed #ccc;
 	border-bottom:1px dashed #ccc;
 	margin:-18px 0 36px 0;
-	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-family: 'iA Writer Mono', monospace;
 }
 .fifty {
 	width:50%;
@@ -132,17 +121,14 @@ h3 {
 
 }
 #toggler {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	border-radius:0;
 }
 #rings, #rings p, .sidefoot, .sidefoot p {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size:.9em;
 }
 #byline {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size: 1em;
 	font-weight:300;
@@ -159,7 +145,6 @@ h3 {
 	top: 8px;
 	float: right;
 	margin-bottom: 12px;
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size:.75em;
 }
@@ -224,7 +209,6 @@ span.hide-name.p-name {
 }
 #result, #result2 {
 	padding-top:18px;
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size:.9rem;
 	font-weight:600;
@@ -394,7 +378,6 @@ margin-bottom:0;
 #aka #slug {
 	width:42px;
 	margin-bottom:6px;
-	/*position:relative;left:8px;*/
 }
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
 	margin-bottom: 15px; 
@@ -404,20 +387,18 @@ div.entry-content, div.entry-content p {
 	line-height: 1.75em;
 }
 .e-content p, .post-list p {
-  /*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
-  font-family: 'iA Writer Mono', monospace;
+	font-family: 'iA Writer Mono', monospace;
   font-size: 1.3rem;
   line-height: 1.75;
 }
 .e-content, blockquote {
-  margin: 16px 18px 16px 12px;
-  /*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
-  font-family: 'iA Writer Mono', monospace;
-  font-size: 1.3rem;
-  line-height: 1.5;
- }
-  blockquote p {
-	  	font-family: 'iA Writer Mono', monospace;
+	margin: 16px 18px 16px 12px;
+	font-family: 'iA Writer Mono', monospace;
+	font-size: 1.3rem;
+	line-height: 1.5;
+}
+blockquote p {
+	font-family: 'iA Writer Mono', monospace;
 
 	margin-top: 12px;
 	font-size: 1.3rem;
@@ -425,7 +406,6 @@ div.entry-content, div.entry-content p {
 }
 blockquote.e-summary {
 	margin-top: 12px;
-	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.5;
@@ -647,7 +627,6 @@ h1#site-title.p-name a.u-url.url {
     background: var(--bg-color);
 	padding-left: 12px;
 	margin: 10px 0 0 0;
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size: .85em;
 	border-top: 1px solid #ddd;
@@ -657,7 +636,6 @@ h1#site-title.p-name a.u-url.url {
 	color: var(--base-color);
     background: var(--bg-color);
 	margin: 0 7px;
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-weight:600;
 }
@@ -666,7 +644,6 @@ h1#site-title.p-name a.u-url.url {
 	margin:0 3px;
 }
 .home, #archives {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 }
 .site-header {
@@ -811,7 +788,6 @@ h1#site-title.p-name a.u-url.url {
 }
 
 .post-meta {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
   font-size: 14px;
   color:var(--base-color); }
@@ -864,7 +840,6 @@ section.h-cite.response.u-quotation-of span,
 section.response.u-bookmark-of.h-cite span,
 section.h-cite.response.u-in-reply-to span,
 section.response.u-like-of.h-cite span {
-	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.3em;
@@ -873,7 +848,6 @@ section.h-cite.response.u-quotation-of,
 section.response.u-bookmark-of.h-cite,
 section.h-cite.response.u-in-reply-to,
 section.response.u-like-of.h-cite {
-	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	padding: 0;
 	margin: 0;
@@ -886,13 +860,11 @@ section.response.u-bookmark-of.h-cite header a.h-card.p-author img.u-photo {
 	padding-right: 3px;
 	border-radius: 24px;
 	position: relative;
-	/*top: 8px;*/
 }
 section.response.u-like-of.h-cite span.kind-display-text,
 section.response.u-bookmark-of.h-cite span.kind-display-text,
 section.h-cite.response.u-quotation-of span.kind-display-text,
 section.h-cite.response.u-in-reply-to span.kind-display-text {
-	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.3em;
@@ -900,7 +872,6 @@ section.h-cite.response.u-in-reply-to span.kind-display-text {
 .e-content,
 blockquote {
 	margin-top: 12px;
-	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.5em;
@@ -915,7 +886,6 @@ header.post-header {
 
 blockquote.e-summary {
   margin-top: 12px;
-  /*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
   font-family: 'iA Writer Mono', monospace;
   font-size: 1.15rem;
 }
