@@ -96,9 +96,7 @@ summary {
 	width:350px;
 	max-height:75px;
 	border:none;
-}
-.announce, .announce #respect {
-	color: var(--base-color);
+	background:#fff;
 }
 .follow {
 	position:relative;
