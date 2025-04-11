@@ -10,8 +10,6 @@ permalink: /an-old-thought-and-the-new-web/
 slug: an-old-thought-and-the-new-web
 summary: a place you can call your own
 comments: false
-
-
 ---
 <a href="https://joejenett.com/asap/"><img src="/images/asap222.gif" alt="" style="position:relative;float:right;margin:3px;"></a>
 
