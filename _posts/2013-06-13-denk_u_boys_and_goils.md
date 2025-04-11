@@ -10,8 +10,8 @@ excerpt: |
   <p class="smaller">
   (sorry, still working on getting decent iPhone shots from a distance in low light)
   </p>
-  <p><img src="../images/fm1.jpg" alt="" style="border:none;" /></p>
-  <p><img src="../images/fm2.jpg" alt="" style="border:none;" /></p>
+  <p><img src="../images/fm1.jpg" alt="" style="border:none;"></p>
+  <p><img src="../images/fm2.jpg" alt="" style="border:none;"></p>
   <p>(<a href="https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_denk_u_boys_and_goils/">prior discussion</a>)</p>
 layout: post
 guid: https://simply.personal.jenett.org/2013/06/13/denk-u-boys-and-goils/
@@ -38,8 +38,8 @@ We saw Fleetwood Mac last night &ndash; nothing short of _great_!
   (sorry, still working on getting decent iPhone shots from a distance in low light)
 </p>
 
-<img src="../images/fm1.jpg" alt="" style="border:none;" /> 
+<img src="../images/fm1.jpg" alt="" style="border:none;"> 
 
-<img src="../images/fm2.jpg" alt="" style="border:none;" /> 
+<img src="../images/fm2.jpg" alt="" style="border:none;"> 
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_denk_u_boys_and_goils/))

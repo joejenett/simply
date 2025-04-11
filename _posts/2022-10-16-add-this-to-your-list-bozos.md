@@ -11,7 +11,7 @@ slug: add-this-to-your-list-bozos
 summary:
 comments: 
 ---
-<img src="/images/fail4.png" width="100%" style="border:1px solid #ddd;" alt="" />
+<img src="/images/fail4.png" width="100%" style="border:1px solid #ddd;" alt="">
 <h2>Isn’t it ironic?</h2>
 <p>The headline got my attention but seeing it juxtaposed with the intrusive promotion below kinda took me over the top. After batting down that first ad overlay,  uncovering the largest banner ad I’d ever seen, I see this!</p><p> I never read the article, thank you. Whatever it said, I’m sure they missed this ‘reason.’ </p><p>Oy!</p>
 

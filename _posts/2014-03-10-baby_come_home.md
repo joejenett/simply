@@ -15,9 +15,9 @@ categories:
 ---
 <p>
 <audio controls="controls" style="width:220px;margin:12px 0;">
-<source src="../media/baby_come_home.ogg" type="audio/ogg" />
-<source src="../media/baby_come_home.mp3" type="audio/mpeg" />
+<source src="../media/baby_come_home.ogg" type="audio/ogg">
+<source src="../media/baby_come_home.mp3" type="audio/mpeg">
 Your browser (or feed reader) does not support the audio element.
 </audio>
-<br /><small>(concept v1)</small>
+<br><small>(concept v1)</small>
 </p>

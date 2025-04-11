@@ -6,9 +6,9 @@ author: joe jenett
 excerpt: |
   <p>
   spanning massive depth
-  <br />
+  <br>
   the artist sets out for truth
-  <br />
+  <br>
   tiny attention
   </p>
 layout: post

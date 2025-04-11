@@ -4,7 +4,7 @@ title: (in)formative
 date: 2011-02-06T10:17:17-05:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/(in)formative.jpg" alt="(in)formative" /></p>
+  <p><img src="../images/(in)formative.jpg" alt="(in)formative"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2011/02/06/informative/
 permalink: /informative/
@@ -20,6 +20,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/(in)formative.jpg" alt="(in)formative" />
+<img src="../images/(in)formative.jpg" alt="(in)formative">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_informative_20/))

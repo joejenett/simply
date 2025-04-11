@@ -96,7 +96,7 @@ March 20, 2021 at 1:42 pm						</time></a>
 <article id="comment-331" class="comment _mPS2id-t" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
 <footer>
 <address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
-<img alt="" src="https://unseensounds.com/img/avatar.jpg" width="50" height="50" />				<cite class="fn p-name" itemprop="name">Poorchop</cite> <span class="says">says:</span>					</address>
+<img alt="" src="https://unseensounds.com/img/avatar.jpg" width="50" height="50">				<cite class="fn p-name" itemprop="name">Poorchop</cite> <span class="says">says:</span>					</address>
 <!-- .comment-author .vcard -->
 
 <div class="comment-meta commentmetadata">

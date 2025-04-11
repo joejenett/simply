@@ -5,8 +5,8 @@ date: 2015-11-27T08:50:39-05:00
 author: joe jenett
 excerpt: |
   <p>
-  a little bizarre<br />
-  watching as it all plays out<br />
+  a little bizarre<br>
+  watching as it all plays out<br>
   rolling to a stop
   </p>
 layout: post

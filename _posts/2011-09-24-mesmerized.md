@@ -7,7 +7,7 @@ excerpt: |
   <p>
   MiMi was just sitting there, staring at a certain weird creature on my screen...
   </p>
-  <p><img src="../images/mesmerized.jpg" alt="mesmerized" style="border:none;" /></p>
+  <p><img src="../images/mesmerized.jpg" alt="mesmerized" style="border:none;"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2011/09/24/mesmerized/
 permalink: /mesmerized/
@@ -17,4 +17,4 @@ categories:
 ---
 MiMi was just sitting there, staring at a certain weird creature on my screen... 
 
-<img src="../images/mesmerized.jpg" alt="mesmerized" style="border:none;" />
+<img src="../images/mesmerized.jpg" alt="mesmerized" style="border:none;">

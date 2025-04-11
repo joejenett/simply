@@ -5,8 +5,8 @@ date: 2013-11-17T22:41:38-05:00
 author: joe jenett
 excerpt: |
   <p>
-  we have no power<br />
-  and the wind is blowing hard<br />
+  we have no power<br>
+  and the wind is blowing hard<br>
   yet the trees still stand
   </p>
 layout: post

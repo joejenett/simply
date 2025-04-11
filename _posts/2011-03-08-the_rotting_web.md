@@ -4,8 +4,8 @@ title: the rotting web
 date: 2011-03-08T13:54:14-05:00
 author: joe jenett
 excerpt: |
-  <p>I should stop linking<br />
-  I'll never live long enough<br />
+  <p>I should stop linking<br>
+  I'll never live long enough<br>
   to clean it all up</p>
 layout: post
 guid: https://simply.personal.jenett.org/2011/03/08/the-rotting-web/

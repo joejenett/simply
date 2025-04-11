@@ -22,4 +22,4 @@ categories:
 kind:
   - Article
 ---
-<img loading="lazy" src="../wp-content/uploads/2019/11/morning_light.jpg" alt="" />
+<img loading="lazy" src="../wp-content/uploads/2019/11/morning_light.jpg" alt="">

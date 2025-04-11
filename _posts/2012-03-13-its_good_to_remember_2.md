@@ -5,8 +5,8 @@ date: 2012-03-13T08:34:26-04:00
 author: joe jenett
 excerpt: |
   <p>
-  so we had this plan<br />
-  to share a wonderful life<br />
+  so we had this plan<br>
+  to share a wonderful life<br>
   i would say it worked
   </p>
 layout: post

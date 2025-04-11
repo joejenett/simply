@@ -25,4 +25,4 @@ kind:
 ---
 Update 12/09/20 - It’s in progress - great fun. 😎
 
-<img class="size-full wp-image-1537" src="../wp-content/uploads/2020/12/intersect.jpg" alt="intersect" width="300" srcset="../wp-content/uploads/2020/12/intersect.jpg 482w, ../wp-content/uploads/2020/12/intersect-121x300.jpg 121w, ../wp-content/uploads/2020/12/intersect-413x1024.jpg 413w" sizes="(max-width: 482px) 100vw, 482px" />
+<img class="size-full wp-image-1537" src="../wp-content/uploads/2020/12/intersect.jpg" alt="intersect" width="300" srcset="../wp-content/uploads/2020/12/intersect.jpg 482w, ../wp-content/uploads/2020/12/intersect-121x300.jpg 121w, ../wp-content/uploads/2020/12/intersect-413x1024.jpg 413w" sizes="(max-width: 482px) 100vw, 482px">

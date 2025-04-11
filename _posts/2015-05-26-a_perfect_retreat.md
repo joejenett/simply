@@ -4,7 +4,7 @@ title: a perfect retreat
 date: 2015-05-26T15:57:37-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/a_perfect_retreat.jpg" alt="a perfect retreat" style="border:none;" /></p>
+  <p><img src="../images/a_perfect_retreat.jpg" alt="a perfect retreat" style="border:none;"></p>
   <p>
   Photo by Kim
   </p>
@@ -17,6 +17,6 @@ classic-editor-remember:
 categories:
   - personal
 ---
-<img src="../images/a_perfect_retreat.jpg" alt="a perfect retreat" style="border:none;" />
+<img src="../images/a_perfect_retreat.jpg" alt="a perfect retreat" style="border:none;">
 
 Photo by Kim

@@ -5,8 +5,8 @@ date: 2012-08-21T04:15:23-04:00
 author: joe jenett
 excerpt: |
   <p>
-  <img src="../images/beck-and-guy.jpg" alt="Jeff Beck and Buddy Guy" style="border:none;" />
-  <br />Jeff Beck and Buddy Guy, July 30, 2016
+  <img src="../images/beck-and-guy.jpg" alt="Jeff Beck and Buddy Guy" style="border:none;">
+  <br>Jeff Beck and Buddy Guy, July 30, 2016
   </p>
   <p>(<a href="https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_oh_my_what_a_show/">prior discussion</a>)</p>
 layout: post
@@ -28,7 +28,7 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/mr_mojo.jpg" alt="Mr. Mojo" style="border:none;" />
+<img src="../images/mr_mojo.jpg" alt="Mr. Mojo" style="border:none;">
 
 <p class="smaller">
   What a wonderful difference you made in my life! I’m sure gonna miss you buddy...

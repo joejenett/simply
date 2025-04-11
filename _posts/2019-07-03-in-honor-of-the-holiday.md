@@ -4,7 +4,7 @@ title: in honor of the holiday
 date: 2019-07-03T13:01:16-04:00
 author: joe jenett
 excerpt: |
-  <a href="../wp-content/uploads/2019/07/babytrump.png"><img class="alignnone size-full wp-image-1015" style="float: right;margin-right:48px;" src="../wp-content/uploads/2019/07/babytrump.png" alt="" width="32" /></a>Happy (newly-redefined) July 4th!
+  <a href="../wp-content/uploads/2019/07/babytrump.png"><img class="alignnone size-full wp-image-1015" style="float: right;margin-right:48px;" src="../wp-content/uploads/2019/07/babytrump.png" alt="" width="32"></a>Happy (newly-redefined) July 4th!
   
   Update 07/08/19:
   If you really must see the annoying image that was here, just click on the baby Trump.
@@ -31,7 +31,7 @@ categories:
 kind:
   - Article
 ---
-[<img class="alignnone size-full wp-image-1015" style="float: right;margin-right:48px;" src="../wp-content/uploads/2019/07/babytrump.png" alt="" width="32" srcset="../wp-content/uploads/2019/07/babytrump.png 550w, ../wp-content/uploads/2019/07/babytrump-264x300.png 264w" sizes="(max-width: 550px) 100vw, 550px" />](../wp-content/uploads/2019/07/babytrump.png)Happy (newly-redefined) July 4th!
+[<img class="alignnone size-full wp-image-1015" style="float: right;margin-right:48px;" src="../wp-content/uploads/2019/07/babytrump.png" alt="" width="32" srcset="../wp-content/uploads/2019/07/babytrump.png 550w, ../wp-content/uploads/2019/07/babytrump-264x300.png 264w" sizes="(max-width: 550px) 100vw, 550px">](../wp-content/uploads/2019/07/babytrump.png)Happy (newly-redefined) July 4th!
 
 Update 07/08/19:  
 If you really must see the annoying image that was here, just click on the baby Trump.

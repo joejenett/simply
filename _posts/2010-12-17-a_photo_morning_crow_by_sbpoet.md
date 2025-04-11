@@ -4,13 +4,13 @@ title: 'a photo: ‘morning crow’ by sbpoet'
 date: 2010-12-17T05:06:12-05:00
 author: joe jenett
 excerpt: |
-  <p><a title="Watermark: Blogging Angst" href="http://www.sbpoet.com/2010/12/blogging-angst.html"><img src="../images/morning_crow_by_sbpoet.jpg" style="border:none;margin:12px 0;" alt="'morning crow' by sbpoet" /></a></p>
+  <p><a title="Watermark: Blogging Angst" href="http://www.sbpoet.com/2010/12/blogging-angst.html"><img src="../images/morning_crow_by_sbpoet.jpg" style="border:none;margin:12px 0;" alt="'morning crow' by sbpoet"></a></p>
   <p>
   my thoughts:
   </p>
   <p>
-  when magic returns<br />
-  embrace it with all your heart<br />
+  when magic returns<br>
+  embrace it with all your heart<br>
   before morning's gone
   </p>
 layout: post
@@ -20,7 +20,7 @@ slug: a_photo_morning_crow_by_sbpoet
 categories:
   - personal
 ---
-[<img src="../images/morning_crow_by_sbpoet.jpg" style="border:none;margin:12px 0;" alt="'morning crow' by sbpoet" />](http://www.sbpoet.com/2010/12/blogging-angst.html "Watermark: Blogging Angst")
+[<img src="../images/morning_crow_by_sbpoet.jpg" style="border:none;margin:12px 0;" alt="'morning crow' by sbpoet">](http://www.sbpoet.com/2010/12/blogging-angst.html "Watermark: Blogging Angst")
 
 my thoughts: 
 

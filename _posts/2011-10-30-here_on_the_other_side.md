@@ -5,8 +5,8 @@ date: 2011-10-30T20:53:46-04:00
 author: joe jenett
 excerpt: |
   <p>
-  another bridge crossed<br />
-  successfully as it were<br />
+  another bridge crossed<br>
+  successfully as it were<br>
   easier with time
   </p>
 layout: post

@@ -4,7 +4,7 @@ title: on the streets of Beijing
 date: 2011-10-15T14:26:19-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/street_musician.jpg" alt="Beijing street musician" style="position:relative;float:right;margin:0 12px;border:none;" />
+  <p><img src="../images/street_musician.jpg" alt="Beijing street musician" style="position:relative;float:right;margin:0 12px;border:none;">
   Waiting in my inbox this morning was a photo taken by Kim. There, on the other side of the world, sat a blind man playing a stringed instrument. It made me think of several things. Most important, it reminded me how much I miss her when she's gone. She'll be home again tomorrow. Yay!
   </p>
   <a href="http://jenett.org/simply.personal/on_the_streets_of_beijing/#more">Continue reading "on the streets of Beijing" &raquo;</a>
@@ -15,7 +15,7 @@ slug: on_the_streets_of_beijing
 categories:
   - personal
 ---
-<img src="../images/street_musician.jpg" alt="Beijing street musician" style="position:relative;float:right;margin:0 12px;border:none;" />  
+<img src="../images/street_musician.jpg" alt="Beijing street musician" style="position:relative;float:right;margin:0 12px;border:none;">  
 Waiting in my inbox this morning was a photo taken by Kim. There, on the other side of the world, sat a blind man playing a stringed instrument. It made me think of several things. Most important, it reminded me how much I miss her when she’s gone. She’ll be home again tomorrow. Yay! 
 
 <!--more-->

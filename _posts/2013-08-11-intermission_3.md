@@ -4,7 +4,7 @@ title: intermission (3)
 date: 2013-08-11T06:02:25-04:00
 author: joe jenett
 excerpt: |
-  <img style="border: none;" src="../images/intermission_3.jpg" alt="intermission (3)" />
+  <img style="border: none;" src="../images/intermission_3.jpg" alt="intermission (3)">
   <p>(<a href="https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_intermission_3/">prior discussion</a>)</p>
 layout: post
 guid: https://simply.personal.jenett.org/2013/08/11/intermission-3/
@@ -25,6 +25,6 @@ categories:
 kind:
   - Article
 ---
-<img style="border: none;" src="../images/intermission_3.jpg" alt="intermission (3)" />
+<img style="border: none;" src="../images/intermission_3.jpg" alt="intermission (3)">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_intermission_3/))

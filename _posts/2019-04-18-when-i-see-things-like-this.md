@@ -4,7 +4,7 @@ title: 'When I see things like this...'
 date: 2019-04-18T08:16:19-04:00
 author: joe jenett
 excerpt: |
-  <img class="alignnone size-full wp-image-842" src="../wp-content/uploads/2019/04/12ways.jpg" alt="" width="889" height="542" />
+  <img class="alignnone size-full wp-image-842" src="../wp-content/uploads/2019/04/12ways.jpg" alt="" width="889" height="542">
   <div style="font-size: 9px; margin-top: -12px;">© Icons8 LLC</div>
   ...I just wanna puke!
 layout: post
@@ -26,7 +26,7 @@ categories:
 kind:
   - Article
 ---
-<img loading="lazy" class="alignnone size-full wp-image-842" src="../wp-content/uploads/2019/04/12ways.jpg" alt="" />
+<img loading="lazy" class="alignnone size-full wp-image-842" src="../wp-content/uploads/2019/04/12ways.jpg" alt="">
 <div style="font-size: 9px; margin-top: -12px;">
   © Icons8 LLC
 </div>

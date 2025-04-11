@@ -5,8 +5,8 @@ date: 2011-04-14T05:18:25-04:00
 author: joe jenett
 excerpt: |
   <p>
-  beware the hunter<br />
-  an opportunist, no less<br />
+  beware the hunter<br>
+  an opportunist, no less<br>
   aiming for your <i>spot</i>
   </p>
 layout: post

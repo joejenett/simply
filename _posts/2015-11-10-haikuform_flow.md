@@ -5,8 +5,8 @@ date: 2015-11-10T10:37:30-05:00
 author: joe jenett
 excerpt: |
   <p>
-  knowing you are there<br />
-  feeling your heart throbbing<br />
+  knowing you are there<br>
+  feeling your heart throbbing<br>
   sitting here, waiting
   </p>
   <p>

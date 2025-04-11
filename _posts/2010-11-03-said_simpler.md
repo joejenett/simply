@@ -4,7 +4,7 @@ title: said simpler ;~))
 date: 2010-11-03T10:01:44-04:00
 author: joe jenett
 excerpt: |
-  <a title="said simpler :~))" href="http://topherchris.com/post/1465625234"><img src="../images/simpler.png" alt="said simpler ;~))" /></a>
+  <a title="said simpler :~))" href="http://topherchris.com/post/1465625234"><img src="../images/simpler.png" alt="said simpler ;~))"></a>
 layout: post
 guid: https://simply.personal.jenett.org/2010/11/03/said-simpler/
 permalink: /said_simpler/

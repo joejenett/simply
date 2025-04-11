@@ -15,7 +15,7 @@ categories:
 ---
 <a title="page no longer available">Cardcat in the shower</a>
 
-<span style="display:inline"><img alt="cardcat_shower.jpg" src="../images/cardcat_shower.jpg" style="text-align:center;display:block;margin:0 auto 20px" /></span>
+<span style="display:inline"><img alt="cardcat_shower.jpg" src="../images/cardcat_shower.jpg" style="text-align:center;display:block;margin:0 auto 20px"></span>
 
 &#8220;Some people have a real cat. I have a cardcat. Cardcat can be just as funny and adorable as a real cat, as can be seen here.&#8221;
 

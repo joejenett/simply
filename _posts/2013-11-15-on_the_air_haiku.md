@@ -5,8 +5,8 @@ date: 2013-11-15T10:12:46-05:00
 author: joe jenett
 excerpt: |
   <p>
-  always seeking buzz<br />
-  that social media thing<br />
+  always seeking buzz<br>
+  that social media thing<br>
   the air is outside
   </p>
 layout: post

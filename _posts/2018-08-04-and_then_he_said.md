@@ -5,8 +5,8 @@ date: 2018-08-04T08:08:08-04:00
 author: joe jenett
 excerpt: |
   <p>
-  News about a fake<br />
-  really shouldn't be called <i>fake news</i>.<br />
+  News about a fake<br>
+  really shouldn't be called <i>fake news</i>.<br>
   The children matter.
   </p>
   <p>

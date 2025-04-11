@@ -4,7 +4,7 @@ title: 'We don’t need no stinkin’ chocolate!'
 date: 2012-01-12T07:31:48-05:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/chocolate-free.jpg" alt="We don't need no stinkin' chocolate!" style="border:none;" /></p>
+  <p><img src="../images/chocolate-free.jpg" alt="We don't need no stinkin' chocolate!" style="border:none;"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2012/01/12/we-dont-need-no-stinkin-chocolate/
 permalink: /we_dont_need_no_stinkin_chocolate/
@@ -20,6 +20,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/chocolate-free.jpg" alt="We don't need no stinkin' chocolate!" style="border:none;" />
+<img src="../images/chocolate-free.jpg" alt="We don't need no stinkin' chocolate!" style="border:none;">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_we_dont_need_no_stinkin_chocolate/))

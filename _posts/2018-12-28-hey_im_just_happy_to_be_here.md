@@ -22,7 +22,7 @@ complete_open_graph:
 categories:
   - personal
 ---
-<img style="border: none; position: relative; float: right; margin-left: 20px; margin-top: 4px;" src="../images/ny19.png" alt="Happy New Year!" />
+<img style="border: none; position: relative; float: right; margin-left: 20px; margin-top: 4px;" src="../images/ny19.png" alt="Happy New Year!">
 
 As another year folds, I’m thinking about something Bowie taught me a few years ago. Even as time grows shorter, it’s never too late to do the things you dream of doing. It’s never too late until it’s too late.
 

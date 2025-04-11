@@ -5,9 +5,9 @@ date: 2011-01-01T22:57:28-05:00
 author: joe jenett
 excerpt: |
   <p>
-  i'm back baby<br />
-  think i'll stay a while<br />
-  it'll all be worth it<br />
+  i'm back baby<br>
+  think i'll stay a while<br>
+  it'll all be worth it<br>
   if i can see you smile
   </p>
 layout: post

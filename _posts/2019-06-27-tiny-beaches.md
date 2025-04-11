@@ -3,7 +3,7 @@ id: 1002
 title: tiny beaches
 date: 2019-06-27T08:15:15-04:00
 author: joe jenett
-excerpt: '<a href="../wp-content/uploads/2019/06/tinybeaches.jpg"><img class="alignnone size-full wp-image-1001" src="../wp-content/uploads/2019/06/tinybeaches.jpg" alt="" width="1842" height="4013" /></a>'
+excerpt: '<a href="../wp-content/uploads/2019/06/tinybeaches.jpg"><img class="alignnone size-full wp-image-1001" src="../wp-content/uploads/2019/06/tinybeaches.jpg" alt="" width="1842" height="4013"></a>'
 layout: post
 guid: https://simply.personal.jenett.org/?p=1002
 permalink: /tiny-beaches/
@@ -24,4 +24,4 @@ categories:
 kind:
   - Article
 ---
-[<img loading="lazy" src="../wp-content/uploads/2019/06/tinybeaches.jpg" alt="" />](../wp-content/uploads/2019/06/tinybeaches.jpg)
+[<img loading="lazy" src="../wp-content/uploads/2019/06/tinybeaches.jpg" alt="">](../wp-content/uploads/2019/06/tinybeaches.jpg)

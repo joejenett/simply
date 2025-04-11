@@ -22,16 +22,16 @@ slug: heres-to-simplicity
 
 <div style="padding:9px;border:1px solid #ccc;">
 <h4>Previous Comments:</h4>
-<p style="font-size:.8em;"><a href="https://github.com/ScootRay" title=""><img src="https://avatars.githubusercontent.com/u/12983100?v=4?v=3&s=88" alt="" width="44" /> Scoot Ray</a> commented on <a href="https://github.com/joejenett/simply/issues/1#issuecomment-968181005" title="">Nov 13, 2021</a>
+<p style="font-size:.8em;"><a href="https://github.com/ScootRay" title=""><img src="https://avatars.githubusercontent.com/u/12983100?v=4?v=3&s=88" alt="" width="44"> Scoot Ray</a> commented on <a href="https://github.com/joejenett/simply/issues/1#issuecomment-968181005" title="">Nov 13, 2021</a>
 </p>
 <p style="font-size:.8em;">Thanks for the kind mention, Joe! I love the name you've given your blog - simply. Perfect.
 </p>
 <p style="font-size:.8em;">Your post reminded me I need to apply "simply" to my personal blog too when I find the time; it's gotten a bit bloated there too.
 </p>
-<p style="font-size:.8em;">Take care.<br />
+<p style="font-size:.8em;">Take care.<br>
 Ray
 </p>
-<p style="font-size:.8em;"><a href="https://github.com/joejenett" title=""><img src="https://avatars.githubusercontent.com/u/52048847?v=4?v=3&s=88" alt="" width="44" /> joejenett</a> commented on <a href="https://github.com/joejenett/simply/issues/1#issuecomment-968182994" title="">Nov 13, 2021</a>
+<p style="font-size:.8em;"><a href="https://github.com/joejenett" title=""><img src="https://avatars.githubusercontent.com/u/52048847?v=4?v=3&s=88" alt="" width="44"> joejenett</a> commented on <a href="https://github.com/joejenett/simply/issues/1#issuecomment-968182994" title="">Nov 13, 2021</a>
 </p>
 <p style="font-size:.8em;">Thank you for inspiring me to write about about my project Ray. This blog is just one of a number of sites which were either migrated from Wordpress to static sites, and/or moved into subdomains of jenett.org for the sake of more permanent archives (without owning so many domains). It was worth every minute of the work.
 </p>

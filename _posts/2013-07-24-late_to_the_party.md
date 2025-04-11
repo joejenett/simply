@@ -12,4 +12,4 @@ categories:
 ---
 Oh my! I just found out that it’s National Tequila Day. To honor this solemn occasion, I present to you my currently _active_ collection of tequila bottles, each a most unique work in progress. Carry on... 
 
-<img src="../images/tequila.jpg" alt="tequila" style="border:none;" />
+<img src="../images/tequila.jpg" alt="tequila" style="border:none;">

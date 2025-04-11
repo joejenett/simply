@@ -4,7 +4,7 @@ title: down in the under (2)
 date: 2012-03-28T08:23:18-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/down_in_the_under_2.jpg" alt="down in the under (2)" style="border:none;" /></p>
+  <p><img src="../images/down_in_the_under_2.jpg" alt="down in the under (2)" style="border:none;"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2012/03/28/down-in-the-under-2/
 permalink: /down_in_the_under_2/
@@ -20,6 +20,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/down_in_the_under_2.jpg" alt="down in the under (2)" style="border:none;" />
+<img src="../images/down_in_the_under_2.jpg" alt="down in the under (2)" style="border:none;">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_down_in_the_under_2/))

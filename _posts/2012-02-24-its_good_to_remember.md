@@ -5,8 +5,8 @@ date: 2012-02-24T04:02:28-05:00
 author: joe jenett
 excerpt: |
   <p>
-  easy to forget<br />
-  just how fortunate I am<br />
+  easy to forget<br>
+  just how fortunate I am<br>
   to be here with you
   </p>
 layout: post

@@ -11,5 +11,5 @@ slug: no_problem_gotcha_covered
 categories:
   - personal
 ---
-<img src="../images/ringshuffle.jpg" alt="RingShuffle" style="border:none;" />
+<img src="../images/ringshuffle.jpg" alt="RingShuffle" style="border:none;">
 

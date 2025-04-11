@@ -5,8 +5,8 @@ date: 2014-07-10T06:58:41-04:00
 author: joe jenett
 excerpt: |
   <p>
-  the world doesn't turn<br />
-  around me nor around you<br />
+  the world doesn't turn<br>
+  around me nor around you<br>
   it turns around us
   </p>
 layout: post

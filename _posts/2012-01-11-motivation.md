@@ -4,8 +4,8 @@ title: motivation
 date: 2012-01-11T08:46:01-05:00
 author: joe jenett
 excerpt: |
-  finding and sharing<br />
-  the thought that someone likes it<br />
+  finding and sharing<br>
+  the thought that someone likes it<br>
   is enough for me
 layout: post
 guid: https://simply.personal.jenett.org/2012/01/11/motivation/

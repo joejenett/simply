@@ -7,7 +7,7 @@ excerpt: |
   <p>Thanks to my good friends Anne and Mark, I am now in possession of a special "lucky-to-be-alive hat" designed to provide "smiles and warmth" &ndash; and it works!
   </p>
   <p>
-  <img src="../images/lucky-to-be-alive_hat.jpg" alt="my new healing appliance" />
+  <img src="../images/lucky-to-be-alive_hat.jpg" alt="my new healing appliance">
   </p>
   <p>I love you guys!
   </p>

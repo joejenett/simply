@@ -4,7 +4,7 @@ title: embrace our differences
 date: 2016-04-24T09:20:57-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/embrace_our_differences.jpg" alt="embrace our differences" style="border:none;" /><br />
+  <p><img src="../images/embrace_our_differences.jpg" alt="embrace our differences" style="border:none;"><br>
   <a href="https://commons.wikimedia.org/wiki/File:Vitoria_-_Graffiti_%26_Murals_1238.jpg">Photo</a> by Zarateman, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a> [<a title="Wikimedia blog" href="https://blog.wikimedia.org/2016/04/22/prince-death-wikipedia/">Wikimedia blog</a>]
   </p>
   <p>
@@ -31,7 +31,7 @@ kind:
 ---
 ## (we are one)
 
-<img src="../images/embrace_our_differences.jpg" alt="embrace our differences" style="border:none;" />  
+<img src="../images/embrace_our_differences.jpg" alt="embrace our differences" style="border:none;">  
 [Photo](https://commons.wikimedia.org/wiki/File:Vitoria_-_Graffiti_%26_Murals_1238.jpg) by Zarateman, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) [[Wikimedia blog](https://blog.wikimedia.org/2016/04/22/prince-death-wikipedia/ "Wikimedia blog")] 
 
 R.I.P. and thank you!

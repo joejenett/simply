@@ -22,7 +22,7 @@ categories:
 kind:
   - Article
 ---
-<img loading="lazy" src="../images/other_side.jpg" width="550" height="150" alt="other side" />
+<img loading="lazy" src="../images/other_side.jpg" width="550" height="150" alt="other side">
 
 on the other side  
 the magic minds of strangers  

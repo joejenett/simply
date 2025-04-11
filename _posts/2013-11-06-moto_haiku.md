@@ -5,8 +5,8 @@ date: 2013-11-06T07:29:04-05:00
 author: joe jenett
 excerpt: |
   <p>
-  the road stripes blurring<br />
-  into a bumpy sidescape<br />
+  the road stripes blurring<br>
+  into a bumpy sidescape<br>
   woke up just in time
   </p>
 layout: post

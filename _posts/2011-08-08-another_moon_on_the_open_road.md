@@ -4,7 +4,7 @@ title: another moon on the open road
 date: 2011-08-08T12:40:37-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/another_moon_on_the_open_road.jpg" alt="" style="border:none;" /></p>
+  <p><img src="../images/another_moon_on_the_open_road.jpg" alt="" style="border:none;"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2011/08/08/another-moon-on-the-open-road/
 permalink: /another_moon_on_the_open_road/
@@ -20,6 +20,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/another_moon_on_the_open_road.jpg" alt="" style="border:none;" />
+<img src="../images/another_moon_on_the_open_road.jpg" alt="" style="border:none;">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_another_moon_on_the_open_road/))

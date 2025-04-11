@@ -13,7 +13,7 @@ categories:
   - personal
   - music
 ---
-<img src="../images/Seal_1991.jpg" alt="" style="border:none;" />  
-<audio controls="controls" style="width:220px;margin:12px 0;"><source src="/media/crazy.ogg" type="audio/ogg" /><source src="../media/crazy.mp3" type="audio/mpeg" />Your browser does not support the audio element.</audio>  
+<img src="../images/Seal_1991.jpg" alt="" style="border:none;">  
+<audio controls="controls" style="width:220px;margin:12px 0;"><source src="/media/crazy.ogg" type="audio/ogg"><source src="../media/crazy.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>  
   
 _Crazy_ by Seal, _Seal (1991)_

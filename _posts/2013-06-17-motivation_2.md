@@ -4,8 +4,8 @@ title: motivation
 date: 2013-06-17T13:31:06-04:00
 author: joe jenett
 excerpt: |
-  <p>If I should share it,<br />
-  something new, I've done something<br />
+  <p>If I should share it,<br>
+  something new, I've done something<br>
   good, at least, for me
   </p>
 layout: post

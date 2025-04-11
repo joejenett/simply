@@ -4,7 +4,7 @@ title: that bean thing
 date: 2011-10-02T10:17:38-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/that_bean_thing.jpg" alt="that bean thing" style="border:none;" /></p>
+  <p><img src="../images/that_bean_thing.jpg" alt="that bean thing" style="border:none;"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2011/10/02/that-bean-thing/
 permalink: /that_bean_thing/
@@ -20,6 +20,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/that_bean_thing.jpg" alt="that bean thing" style="border:none;" />
+<img src="../images/that_bean_thing.jpg" alt="that bean thing" style="border:none;">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_that_bean_thing/))

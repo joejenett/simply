@@ -37,4 +37,4 @@ categories:
 > 
 > Thank you. 
 > 
-> <small><br /> (Updated 8/26/10)<br /> </small>
+> <small><br> (Updated 8/26/10)<br> </small>

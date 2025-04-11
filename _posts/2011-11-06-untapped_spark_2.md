@@ -4,7 +4,7 @@ title: untapped spark (2)
 date: 2011-11-06T09:03:24-05:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/untapped_spark_2.jpg" alt="untapped spark (2)" style="border:none;" /></p>
+  <p><img src="../images/untapped_spark_2.jpg" alt="untapped spark (2)" style="border:none;"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2011/11/06/untapped-spark-2/
 permalink: /untapped_spark_2/
@@ -20,6 +20,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/untapped_spark_2.jpg" alt="untapped spark (2)" style="border:none;" />
+<img src="../images/untapped_spark_2.jpg" alt="untapped spark (2)" style="border:none;">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_untapped_spark_2/))

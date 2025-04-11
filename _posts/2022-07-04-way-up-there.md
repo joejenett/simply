@@ -11,12 +11,12 @@ summary: on the 76th floor
 comments: 
 ---
 <p>
-<img src="/images/upthere.jpg" alt="way up there" width="100%" />
+<img src="/images/upthere.jpg" alt="way up there" width="100%">
 </p>
 <p>
-Once worked up there<br />
-though I miss the sway<br />
-I’m happy and thankful<br />
+Once worked up there<br>
+though I miss the sway<br>
+I’m happy and thankful<br>
 to have walked away.
 </p>
 

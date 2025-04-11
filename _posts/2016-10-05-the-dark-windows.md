@@ -4,7 +4,7 @@ title: the dark windows
 date: 2016-10-05T23:04:23-04:00
 author: joe jenett
 excerpt: |
-  <img src="../wp-content/uploads/2019/09/the_dark_windows.jpg" alt="" width="900" height="485" class="alignnone size-full wp-image-1172" />
+  <img src="../wp-content/uploads/2019/09/the_dark_windows.jpg" alt="" width="900" height="485" class="alignnone size-full wp-image-1172">
   <p>I've no shortage of screens around me, each holding worlds of information and ideas with the potential to capture moments of my own creativity. I've surely got the tools I need to make a difference in the world but they're dark at the moment waiting for my next move. One needs to look in a window to see what's on the other side.</p>
   <h2>my wonderful problem</h2>
   <p>When it's just me and my guitar, I can improvise some really cool stuff, especially the blues. The joy of creating a song spontaneously makes the words flow out of me in one-off moments of expression like a river disappearing at the horizon. But if I do something in advance intending to capture the music and words, it's a whole different story. I sit there hesitating and nothing comes out. Maybe I'm just really not that good at planning my creativity. It happens on its own and it seems I'm never quite ready to capture it. One thing precludes the other for me but fortunately, it's the act of expression that turns me on.</p>
@@ -31,7 +31,7 @@ categories:
 kind:
   - Article
 ---
-<img loading="lazy" src="../wp-content/uploads/2019/09/the_dark_windows.jpg" alt="" />
+<img loading="lazy" src="../wp-content/uploads/2019/09/the_dark_windows.jpg" alt="">
 
 I’ve no shortage of screens around me, each holding worlds of information and ideas with the potential to capture moments of my own creativity. I’ve surely got the tools I need to make a difference in the world but they’re dark at the moment waiting for my next move. One needs to look in a window to see what’s on the other side.
 

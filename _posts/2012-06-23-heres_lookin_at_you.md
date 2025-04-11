@@ -4,7 +4,7 @@ title: 'Here’s lookin’ at you'
 date: 2012-06-23T17:22:28-04:00
 author: joe jenett
 excerpt: |
-  <img src="../images/0617.jpg" alt="Here's lookin' at you" style="border:none;position:relative;float:right;margin:9px;" />
+  <img src="../images/0617.jpg" alt="Here's lookin' at you" style="border:none;position:relative;float:right;margin:9px;">
   <p>I'm sure you know how it is. When you've lived in one place for a long time and decide to move, you discover all kinds of things. There's the useless stuff you stashed away in a box somewhere and forgot about the last time you moved and you rediscover other things you wish you hadn't forgotten about. You realize how unorganized some things have become as you've accumulated more and more new things &ndash; time to clean house and get rid of the trash before you move so your new digs will be more clutter-free.
   </p>
   <p>
@@ -17,7 +17,7 @@ slug: heres_lookin_at_you
 categories:
   - personal
 ---
-<img src="../images/0617.jpg" alt="Here's lookin' at you" style="border:none;position:relative;float:right;margin:9px;" />
+<img src="../images/0617.jpg" alt="Here's lookin' at you" style="border:none;position:relative;float:right;margin:9px;">
 
 I’m sure you know how it is. When you’ve lived in one place for a long time and decide to move, you discover all kinds of things. There’s the useless stuff you stashed away in a box somewhere and forgot about the last time you moved and you rediscover other things you wish you hadn’t forgotten about. You realize how unorganized some things have become as you’ve accumulated more and more new things &ndash; time to clean house and get rid of the trash before you move so your new digs will be more clutter-free. 
 

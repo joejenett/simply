@@ -4,11 +4,11 @@ title: keeping track baby
 date: 2010-09-18T06:01:22-04:00
 author: joe jenett
 excerpt: |
-  <img src="../images/joe091810.png" height="128" width="128" style="position:relative;float:right;border:none;" alt="keeping track baby" />
+  <img src="../images/joe091810.png" height="128" width="128" style="position:relative;float:right;border:none;" alt="keeping track baby">
   <p style="padding-top:12px;font-size:160%;line-height:140%">
-  tonight, she'll tell me<br />
-  "say goodbye to your fifties"<br />
-  sweet payback will come<br />
+  tonight, she'll tell me<br>
+  "say goodbye to your fifties"<br>
+  sweet payback will come<br>
   </p>
 layout: post
 guid: https://simply.personal.jenett.org/2010/09/18/keeping-track-baby/
@@ -25,10 +25,10 @@ categories:
 kind:
   - Article
 ---
-<img loading="lazy" src="../images/joe091810.png" height="128" width="128" style="position:relative;float:right;border:none;" alt="keeping track baby" />
+<img loading="lazy" src="../images/joe091810.png" height="128" width="128" style="position:relative;float:right;border:none;" alt="keeping track baby">
 
 <p style="padding-top:12px;font-size:140%;line-height:140%">
-  tonight, she’ll tell me<br /> &#8220;say goodbye to your fifties&#8221;<br /> sweet payback will come
+  tonight, she’ll tell me<br> &#8220;say goodbye to your fifties&#8221;<br> sweet payback will come
 </p>
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_keeping_track_baby/))

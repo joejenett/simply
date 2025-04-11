@@ -23,4 +23,4 @@ categories:
 kind:
   - Article
 ---
-<img src="../wp-content/uploads/2020/12/intheshdows.png" alt="" width="550" class="alignnone size-full wp-image-1557" srcset="../wp-content/uploads/2020/12/intheshdows.png 1024w, ../wp-content/uploads/2020/12/intheshdows-300x160.png 300w, ../wp-content/uploads/2020/12/intheshdows-768x410.png 768w, ../wp-content/uploads/2020/12/intheshdows-668x357.png 668w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="../wp-content/uploads/2020/12/intheshdows.png" alt="" width="550" class="alignnone size-full wp-image-1557" srcset="../wp-content/uploads/2020/12/intheshdows.png 1024w, ../wp-content/uploads/2020/12/intheshdows-300x160.png 300w, ../wp-content/uploads/2020/12/intheshdows-768x410.png 768w, ../wp-content/uploads/2020/12/intheshdows-668x357.png 668w" sizes="(max-width: 1024px) 100vw, 1024px">

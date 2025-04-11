@@ -4,7 +4,7 @@ title: the calling, revisited
 date: 2012-05-28T09:23:23-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/the_calling_revisited.jpg" alt="the calling, revisited" style="border:none;" /></p>
+  <p><img src="../images/the_calling_revisited.jpg" alt="the calling, revisited" style="border:none;"></p>
 layout: post
 guid: https://simply.personal.jenett.org/2012/05/28/the-calling-revisited/
 permalink: /the_calling_revisited/
@@ -20,6 +20,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/the_calling_revisited.jpg" alt="the calling, revisited" style="border:none;" />
+<img src="../images/the_calling_revisited.jpg" alt="the calling, revisited" style="border:none;">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_the_calling_revisited/))

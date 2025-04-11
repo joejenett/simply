@@ -4,7 +4,7 @@ title: 'I’m sorry but I just had to laugh'
 date: 2018-12-13T11:37:24-05:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/had-to-laugh.jpg" alt="LOL" style="border:none;" /><br />&copy; 2018 The Washington Post</p>
+  <p><img src="../images/had-to-laugh.jpg" alt="LOL" style="border:none;"><br>&copy; 2018 The Washington Post</p>
   <p>
   [via <a title="The Weekly Sift" href="https://weeklysift.com/">The Weekly Sift</a>]
   </p>
@@ -26,7 +26,7 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/had-to-laugh.jpg" alt="LOL" style="border:none;" />  
+<img src="../images/had-to-laugh.jpg" alt="LOL" style="border:none;">  
 &copy; 2018 The Washington Post
 
 [via [The Weekly Sift](https://weeklysift.com/ "The Weekly Sift")]

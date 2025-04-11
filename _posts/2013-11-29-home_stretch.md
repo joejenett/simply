@@ -5,8 +5,8 @@ date: 2013-11-29T22:55:10-05:00
 author: joe jenett
 excerpt: |
   <p>
-  never do we know<br />
-  what waits around the corner<br />
+  never do we know<br>
+  what waits around the corner<br>
   make each moment count
   </p>
 layout: post

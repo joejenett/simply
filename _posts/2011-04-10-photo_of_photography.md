@@ -18,7 +18,7 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/photo_of_photography.jpg" alt="photo of photography" style="border:none;" />
+<img src="../images/photo_of_photography.jpg" alt="photo of photography" style="border:none;">
 
 <p class="smaller">
   This act of sharing was inspired by something shared by a good friend.

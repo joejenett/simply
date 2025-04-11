@@ -4,7 +4,7 @@ title: a cool september sky
 date: 2019-01-08T03:18:02-05:00
 author: joe jenett
 excerpt: |
-  <img class="alignnone size-full wp-image-386" src="../wp-content/uploads/2019/01/balloon.jpg" alt="" width="700" height="394" />
+  <img class="alignnone size-full wp-image-386" src="../wp-content/uploads/2019/01/balloon.jpg" alt="" width="700" height="394">
   (2007)
 layout: post
 guid: https://simply.personal.jenett.org/?p=389
@@ -25,5 +25,5 @@ categories:
 kind:
   - Article
 ---
-<img loading="lazy" class="alignnone size-full wp-image-386" src="../wp-content/uploads/2019/01/balloon.jpg" alt="" />  
+<img loading="lazy" class="alignnone size-full wp-image-386" src="../wp-content/uploads/2019/01/balloon.jpg" alt="">  
 (2007)

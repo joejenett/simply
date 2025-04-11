@@ -5,8 +5,8 @@ date: 2016-07-31T12:59:18-04:00
 author: joe jenett
 excerpt: |
   <p>
-  <img src="../images/beck-and-guy.jpg" alt="Jeff Beck and Buddy Guy" style="border:none;" />
-  <br />Jeff Beck and Buddy Guy, July 30, 2016
+  <img src="../images/beck-and-guy.jpg" alt="Jeff Beck and Buddy Guy" style="border:none;">
+  <br>Jeff Beck and Buddy Guy, July 30, 2016
   </p>
   <p>(<a href="https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_oh_my_what_a_show/">prior discussion</a>)</p>
 layout: post
@@ -28,7 +28,7 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/beck-and-guy.jpg" alt="Jeff Beck and Buddy Guy" style="border:none;" />  
+<img src="../images/beck-and-guy.jpg" alt="Jeff Beck and Buddy Guy" style="border:none;">  
   
 Jeff Beck and Buddy Guy, July 30, 2016 
 

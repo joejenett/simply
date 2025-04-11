@@ -4,7 +4,7 @@ title: through the years
 date: 2016-06-15T09:29:04-04:00
 author: joe jenett
 excerpt: |
-  <p><img src="../images/through_the_years.jpg" alt="through the years" style="border:none;" /></p>
+  <p><img src="../images/through_the_years.jpg" alt="through the years" style="border:none;"></p>
   <p>(<a href="https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_through_the_years/">prior discussion</a>)</p>
 layout: post
 guid: https://simply.personal.jenett.org/2016/06/15/through-the-years/
@@ -25,6 +25,6 @@ categories:
 kind:
   - Article
 ---
-<img src="../images/through_the_years.jpg" alt="through the years" style="border:none;" />
+<img src="../images/through_the_years.jpg" alt="through the years" style="border:none;">
 
 ([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_through_the_years/))

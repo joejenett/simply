@@ -4,7 +4,7 @@ title: everyone comes from somewhere
 date: 2010-08-31T12:06:37-04:00
 author: joe jenett
 excerpt: |
-  <img src="../images/joes_playtime.jpg" width="550" height="275" />
+  <img src="../images/joes_playtime.jpg" width="550" height="275">
   <p><small>(a fictional association)</small></p>
 layout: post
 guid: https://simply.personal.jenett.org/2010/08/31/everyone-comes-from-somewhere/
@@ -21,7 +21,7 @@ categories:
 kind:
   - Article
 ---
-<img loading="lazy" src="../images/joes_playtime.jpg" width="550" height="275" />
+<img loading="lazy" src="../images/joes_playtime.jpg" width="550" height="275">
 
 <small>(a fictional association)</small>
 
