@@ -53,6 +53,12 @@ body {
 .twelve {
 	margin-top:12px;
 }
+.twentyfour {
+	margin-top:24px;
+}
+.twentyfour-zero {
+	margin:24px 0;
+}
 .center {
 	text-align:center;
 }
