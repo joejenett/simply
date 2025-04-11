@@ -55,4 +55,4 @@ Your browser does not support the`audio` element.
 In the words of Mr. James Brown, <strong><em>I feel good!</em></strong><br>Thanks to the miracles of modern musical medicine.
 </p>
 
-<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a> 
