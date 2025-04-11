@@ -25,7 +25,6 @@
 }
 html {
 	font-size: 14px;
-	
 }
 body {
 	font: 400 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 'iA Writer Mono', monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -44,6 +43,23 @@ body {
 }
 .post-categories, .post-meta, .post-meta .post-categories {
 	color:var(--base-color);
+}
+.fortyeight {
+	margin-top:48px;
+}
+.sixteen {
+	margin-top:16px;
+}
+.twelve {
+	margin-top:12px;
+}
+.center {
+	text-align:center;
+}
+div.listed {
+	 margin-top:12px;
+	 padding-top:12px;
+	 border-top:1px #aaa solid;
 }
 summary {
 	font-family: 'iA Writer Mono', monospace;
@@ -891,6 +907,12 @@ blockquote.e-summary {
   margin-top: 12px;
   font-family: 'iA Writer Mono', monospace;
   font-size: 1.15rem;
+}
+#rings {
+	 text-align:center;
+	 margin-top:12px;
+	 border-top:1px solid #aaa;
+	 padding-top:18px;"
 }
 #rings a, #rings a:visited {
 	color: var(--a-sp-color);
