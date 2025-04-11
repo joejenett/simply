@@ -26,4 +26,4 @@ NeoCities is not ‘Yahoo! GeoCities’... it’s much better, thank you!
 (edited for clarity, 03/25/25)
 </small>
 </p>
-<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a> 
