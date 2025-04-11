@@ -1,20 +1,9 @@
 ---
 layout: default
 ---
-			<!--
-				div class="p-spot"
-			-->
-			<script>
-function doit() {
-  const audio = new Audio('hohoho.mp3');
-  audio.play();
-}
-</script>
 			<div class="announce" style="font-style:normal;">
-				<!--<p onclick="javascript:doit()">-->
-					<img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="100" style="position:relative;float:right;width:100px;">
+				<img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="100" style="position:relative;float:right;width:100px;">
 				<iframe id="announcer" title="i.webthings announcements" src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
-				<!--<span style="font-size:1.8em;position:relative;top:-28px;margin-bottom:0;">🎁</span></p>-->
 			</div>
 			
 			<div class="home h-feed">
@@ -49,9 +38,6 @@ function doit() {
 						{% unless forloop.last %}&nbsp;{% endunless %}
 						{% endfor %}
 					</span>
-					<!--
-					<span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
-				-->
 				</div>
 				{%- if site.show_excerpts -%}
 				{{ post.excerpt }}
@@ -79,9 +65,6 @@ function doit() {
 						{% unless forloop.last %}&nbsp;{% endunless %}
 						{% endfor %}
 					</span>
-					<!--
-					<span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
-				-->
 				</div>
 			</div>
 			{% endif %}
