@@ -63,6 +63,43 @@ summary {
 	font-style: normal;
 	font-size: 1.2rem;
 }
+.postnav {
+	display:flex;
+	font-size:.75em;
+	font-weight:400;
+	border-top:1px dashed #ccc;
+	border-bottom:1px dashed #ccc;
+	margin:18px 0;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.postnav-home {
+	display:flex;
+	font-size:.75em;
+	font-weight:400;
+	border-top:1px dashed #ccc;
+	border-bottom:1px dashed #ccc;
+	margin:-18px 0 36px 0;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.fifty {
+	width:50%;
+}
+.right {
+	text-align:right;
+}
+#respect {
+	position:relative;
+	float:right;
+	width:90px;
+}
+#announcer {
+	width:350px;
+	max-height:75px;
+	border:none;
+}
+.announce, .announce #respect {
+	color: var(--base-color);
+}
 .follow {
 	position:relative;
 	float:right;
@@ -72,15 +109,6 @@ summary {
 }
 .p-spot {
 	padding-bottom:18px;
-}
-.announce {
-	background: var(--hbg-color);
-	padding:0 6px 12px 0;
-	font-weight:400;
-	font-size:.8em;
-	font-style:italic;
-	text-align:left;
-	position: relative;
 }
 #toggler, #my-channel {
 	padding:0 18px 4px 18px;
@@ -203,14 +231,12 @@ span.hide-name.p-name {
 	font-size:.9rem;
 	font-weight:600;
 }
-#result p, #result p a, #result2 p, #result2 p a {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+#result p, #result p a, #result2 p, #result2 p a, #result0 p, #result0 p a {
 	font-family: 'iA Writer Mono', monospace;
 	font-size:.9rem;
 	font-weight:600;
 }
 #results-container {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size:.95em;
 	font-weight:600;
@@ -221,7 +247,6 @@ span.hide-name.p-name {
 	list-style:none;
 }
 #comments-intro, #comments-intro p {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	font-size:.95em;
 }
@@ -229,7 +254,6 @@ div.hcard-header a.u-url.url.fn.u-uid {
 	background-color: var(--iwt-bg-color);
 }
 .hcard-display {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	margin:60px 140px 20px 140px;
 	padding: 12px 0 0 0;
@@ -241,7 +265,6 @@ div.hcard-header a.u-url.url.fn.u-uid {
 	font-size:90%;
 }
 .hcard-display p {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 }
 .note {
@@ -253,12 +276,10 @@ div.hcard-header a.u-url.url.fn.u-uid {
 	list-style:none;
 }
 p {
-	/*font-family: 'eb_garamondregular',Georgia,Times,serif;*/
 	font-family: 'iA Writer Mono', monospace;
 	line-height:1.5;
 }
 h1, h2, h3, h4, h5, h6 {
-	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 	font-family: 'iA Writer Mono', monospace;
 }
 html,#page,.entry-content,footer.entry-meta,#nav-above a,#nav-below a,#menu-menu1 a,.entry-title,.entry-title a,.entry-header,#colophon a,#comments a,.widget a {

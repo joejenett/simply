@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-			<div class="announce" style="font-style:normal;">
-				<img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="100" style="position:relative;float:right;width:100px;">
-				<iframe id="announcer" title="i.webthings announcements" src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
+			<div class="announce">
+				<img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="90">
+				<iframe id="announcer" title="i.webthings announcements" src="https://joejenett.com/announce/announce.html"></iframe>
 			</div>
 			
 			<div class="home h-feed">
@@ -14,7 +14,7 @@ layout: default
 			{%- for post in site.posts -%}
 			{% assign count = count | plus:1 %}
 			{% if count == 1 %}
-			{%- include postnav.html -%}
+			{%- include postnav-home.html -%}
 			{% endif %}
 			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 			{% if post.title != "" %}
