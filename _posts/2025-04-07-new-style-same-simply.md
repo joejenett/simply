@@ -17,6 +17,6 @@ It’s amazing how a simple change in font can change the feel of a site. I just
 Thanks to <a href="https://cassidoo.co/">Cassidy Williams</a> for the inspiration!
 </p>
 
-<a class=" u-syndication syndication" href="https://toot.community/@jenett/114296612716872218"></a>
+<a class="u-syndication syndication" href="https://toot.community/@jenett/114296612716872218"></a>
 
 <a href="https://brid.gy/publish/mastodon"></a>
