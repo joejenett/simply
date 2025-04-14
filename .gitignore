@@ -35,3 +35,7 @@ images/simply copy.png
 .obsidian/plugins/dataview/main.js
 .obsidian/plugins/dataview/manifest.json
 .obsidian/plugins/dataview/styles.css
+simply/.obsidian/app.json
+simply/.obsidian/appearance.json
+simply/.obsidian/core-plugins.json
+simply/.obsidian/workspace.json
