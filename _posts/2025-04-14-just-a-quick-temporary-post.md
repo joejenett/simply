@@ -11,7 +11,7 @@ comments: false
 ---
 This is just a test post and it will soon be deleted.
 
-<a href="https://bulltown.joejenett.com/bulltown-updates-04-13-25/">test link</a>
+<a rel="mention-of" class="mention-of url" href="https://bulltown.joejenett.com/bulltown-updates-04-13-25/">test</a>
 
 thx!
 
