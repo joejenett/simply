@@ -16,7 +16,7 @@ layout: default
 {% if page.title != "" %}
 <article class="post h-entry hentry" style="margin-top:24px;" itemscope itemtype="http://schema.org/BlogPosting">
 <header class="post-header">
-	<h1 class="post-title p-name entry-title" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
+	<h1 class="post-title p-name entry-title" style="margin-top:18px;" itemprop="name headline"><a class="u-url" href="https://simply.joejenett.com{{ page.permalink }}">{{ page.title | escape }}</a></h1>
 	<p class="post-meta">
 		<span class="h-card">
 			<a class="url u-url u-uid uid bookmark" href="https://simply.joejenett.com{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
