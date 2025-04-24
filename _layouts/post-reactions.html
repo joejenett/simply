@@ -82,18 +82,6 @@ layout: default
 {% endif %}
 
 
-<div class="postnav">
-<div class="fifty">
-{% if page.previous.url %}
-<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
-{% endif %}
-</div>
-<div class="fifty right">
-{% if page.next.url %}
-<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
-{% endif %}
-</div>
-</div> 
 
 <script>
 	$().ready(function(){
@@ -124,7 +112,22 @@ layout: default
 <div id="resultsp" style="margin-top:-24px;">
 	{{ page.reaction }}
 </div>
-
+<div style="margin-bottom:36px;">
+{%- if page.comments.host -%}
+	{%- include fediverse_comments.html -%}
+{%- endif -%}
+<div class="postnav">
+<div class="fifty">
+{% if page.previous.url %}
+<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+{% endif %}
+</div>
+<div class="fifty right">
+{% if page.next.url %}
+<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+{% endif %}
+</div>
+</div> 
 
   
 <div style="height:48px;border-bottom:1px solid #ccc;margin-bottom:12px;"></div>

@@ -9,6 +9,10 @@ category:
 permalink: /talking-to-myself/
 slug: talking-to-myself
 summary: What a nut!
+comments:
+  host: toot.community
+  username: jenett
+  id: 114387747377491354
 ---
 A parody if you will:
 
