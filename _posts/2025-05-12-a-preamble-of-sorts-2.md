@@ -9,6 +9,10 @@ category:
 permalink: /a-preamble-of-sorts-2/
 slug: a-preamble-of-sorts-2
 summary: just a haiku
+comments:
+  host: toot.community
+  username: jenett
+  id: 114495183994397367
 ---
 in a longform life<br>so many damn things to say<br>when haiku falls short...
 
