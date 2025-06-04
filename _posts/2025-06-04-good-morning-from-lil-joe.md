@@ -8,6 +8,10 @@ category:
 permalink: /good-morning-from-lil-joe/
 slug: good-morning-from-lil-joe
 summary: I couldn't resist
+comments:
+  host: toot.community
+  username: jenett
+  id: 114624812403210286
 
 ---
 
