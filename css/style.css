@@ -478,7 +478,7 @@ div.entry-content, div.entry-content p {
 	line-height: 1.75;
 }
 .e-content, blockquote {
-	margin: 16px 18px 16px 12px;
+	margin: 16px 13px;
 	font-family: 'iA Writer Mono', monospace;
 	font-size: 1.3rem;
 	line-height: 1.5;
