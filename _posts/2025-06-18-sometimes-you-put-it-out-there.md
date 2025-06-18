@@ -8,6 +8,10 @@ category:
 permalink: /sometimes-you-put-it-out-there/
 slug: sometimes-you-put-it-out-there
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114704715493469343
 ---
 ...and sometimes you should take it back.
 
