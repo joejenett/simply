@@ -166,10 +166,27 @@ summary {
 	position:relative;
 	float:right;
 }
+.iwtbutts {
+	width:276px;
+	margin:0 auto 36px auto;
+	padding:1px 1px 1px 6px;
+	border-radius:6px;
+	line-height:1px;
+}
+.iwtbutts img {
+	margin:1px;
+	max-width:66px;
+}
+.iwtbutts img.odd {
+	transform:skewY(3deg);
+}
+.iwtbutts img.even {
+	transform:skewY(-3deg);
+}
 .iwt img {
 	margin:2px;
 }
-.iwt a:hover img {
+.iwt a:hover img, .iwtbutts a:hover img {
 	transform:scale(1.1);
 }
 .p-spot {
