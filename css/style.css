@@ -44,6 +44,9 @@ body {
 .post-categories, .post-meta, .post-meta .post-categories {
 	color:var(--base-color);
 }
+#focusfirst-webring {
+	margin:0 36px;
+}
 #load-comment {
 	border:1px solid #334a51;
 	background: #eefcff;
