@@ -41,6 +41,9 @@ body {
 	margin: auto;
 	padding: 0;
 }
+.br24 {
+	border-radius:24px;
+}
 .post-categories, .post-meta, .post-meta .post-categories {
 	color:var(--base-color);
 }
