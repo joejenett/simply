@@ -8,6 +8,11 @@ category:
 permalink: /critters-out-back/
 slug: critters-out-back
 summary: photo by Kim
+comments:
+  host: toot.community
+  username: jenett
+  id: 114836141369068697
+ 
 ---
 Photo by Kim
 
