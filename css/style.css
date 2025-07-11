@@ -41,6 +41,9 @@ body {
 	margin: auto;
 	padding: 0;
 }
+.mw100 {
+	max-width:100%;
+}
 .br24 {
 	border-radius:24px;
 }
