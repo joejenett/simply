@@ -47,6 +47,10 @@ body {
 .br24 {
 	border-radius:24px;
 }
+.br6 {
+	border-radius:6px;
+	border:1px solid #ddd;
+}
 .post-categories, .post-meta, .post-meta .post-categories {
 	color:var(--base-color);
 }
