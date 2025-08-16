@@ -28,7 +28,7 @@ I became ill a week ago today and though I was unable to function (literally), s
 
 But please, do stay tuned because this is what I love to do and I ain’t dead yet. Love ya!
 
-<h2 id="comments-title">5 thoughts on “<span>a quick note from joe</span>”		</h2>
+<h2 id="comments-title">4 thoughts on “<span>a quick note from joe</span>”		</h2>
 
 
 <ol class="commentlist">
@@ -132,8 +132,3 @@ March 19, 2020 at 7:01 am						</time></a>
 </li>
 <!-- #comment-## -->
 </ol>
-<div class="likes">
-<h3>Likes</h3>
-<ul class="mention-list linkback-like"><li class="webmention even thread-odd thread-alt depth-1 linkback-like-single u-like h-cite h-entry p-comment comment" id="comment-165">
-<span class="p-author h-card"><a class="u-url" title="Lonita liked this article on twitter.com." href="https://twitter.com/lonita"><img alt="" src="https://pbs.twimg.com/profile_images/26249702/100573.jpg" srcset="https://pbs.twimg.com/profile_images/26249702/100573.jpg 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Lonita</span></span><a class="u-url __mPS2id" href="https://twitter.com/joejenett/status/1220039406788272130#favorited-by-819004"></a>
-</li></ul></div>
