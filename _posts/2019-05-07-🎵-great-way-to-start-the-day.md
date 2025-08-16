@@ -53,6 +53,6 @@ When I heard Kim coming down this morning, I queued up three songs:
 
 Sweet!
 
-Here’s the song by Tinsley Ellis via [Southern Shelter](http://southernshelter.com/):
+Here’s the song by Tinsley Ellis via Southern Shelter (no longer online)):
 
 <audio controls><source src="../wp-content/uploads/2019/05/05-Ill-Be-Loving-You.mp3" type="audio/mp3"><source src="../wp-content/uploads/2019/05/05-Ill-Be-Loving-You.ogg" type="audio/ogg"></audio>

@@ -25,7 +25,7 @@ I see so many neat personal websites, I need to remind myself to take some time 
 </p>
 </blockquote>
 
-And then I found Lonita’s <a href="https://lonita.net/creative">long list of random creative things to do with your time.</a>
+And then I found Lonita’s <a href="https://idealog.fun/">long list of random creative things to do with your time.</a>
 
 I’m good.
 

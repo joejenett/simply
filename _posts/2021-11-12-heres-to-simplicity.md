@@ -8,7 +8,7 @@ category:
 permalink: /heres-to-simplicity/
 slug: heres-to-simplicity
 ---
-<p>To borrow a phrase from <a href="https://blogroll.org/keeping-it-simple/" title="Keeping it simple - Blogroll.org">Ray</a>, I’ve been working hard to “simplify the mission” around here too.  The first stage of my simplification project started about 6 months ago - it’s almost done.</p>
+<p>To borrow a phrase from <a title="link no longer available">Ray</a>, I’ve been working hard to “simplify the mission” around here too.  The first stage of my simplification project started about 6 months ago - it’s almost done.</p>
 
 <p>Ray was talking about his sensible simplification of <a href="https://blogroll.org/" title="Ye Olde Blogroll">Blogroll.org</a>. The change not only helped bring back the fun for him - it also improved the user experience. I like it!</p>
 

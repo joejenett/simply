@@ -32,7 +32,7 @@ and more recently:
 I do the same damn things all the time, though with some different softwares. But that doesn’t stop me from saying I just pulled a Jack. After all, it sounds better than ‘pulled a Joe’ - <em>and</em> it’s more fun! 
 </p>
 <p>
-By the way Jack, I like <a href="https://yakitrak.github.io/obs/">Obsidian CLI</a> much better than the ‘assistant’ I shared that day...
+By the way Jack, I like <a title="link no longer available" >Obsidian CLI</a> much better than the ‘assistant’ I shared that day...
 </p>
 
 
