@@ -56,7 +56,7 @@ body {
 }
 #focusfirst-webring {
 	max-width:220px;
-	text-align:center;
+	margin:0 auto;
 }
 #load-comment {
 	border:1px solid #334a51;
