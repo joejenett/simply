@@ -41,6 +41,33 @@ body {
 	margin: auto;
 	padding: 0;
 }
+#lk {
+	line-height:1em;
+}
+#lh1 {
+	display:block;
+	position:relative;
+	top:0;
+	left:0;
+}
+#lh2 {
+	display:none;
+	position:relative;
+	top:0;
+	left:0;
+}
+#lh3 {
+	display:none;
+	position:relative;
+	top:0;
+	left:0;
+}
+#lh4 {
+	display:none;
+	position:relative;
+	top:0;
+	left:0;
+}
 .mw100 {
 	max-width:100%;
 }
