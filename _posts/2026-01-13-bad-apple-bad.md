@@ -8,6 +8,10 @@ category:
 permalink: /bad-apple-bad/
 slug: bad-apple-bad
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115889718219301798
 ---
 I find it hard to believe that Apple is programmatically nagging users to update to Tahoe (despite compatibility issues) without giving users the choice to say no.
 
