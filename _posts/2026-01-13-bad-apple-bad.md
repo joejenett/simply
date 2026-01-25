@@ -17,7 +17,7 @@ I find it hard to believe that Apple is programmatically nagging users to update
 
 Some time ago, I learned the hard way that Tahoe won’t even boot on my 2020 iMac (Intel). And I can't get back the huge amount of time consumed in recovering my machine. Back then, I chose to do the update, but currently, many users with Automatic Updates turned on are learning the same lesson.
 
-Why doesn’t Apple know about these compatibility issues? And they do, why don’t they care about wasting their customers’ time?
+Why doesn’t Apple know about these compatibility issues? And if they do, why don’t they care about wasting their customers’ time?
 
 What in hell happened to them?
 
