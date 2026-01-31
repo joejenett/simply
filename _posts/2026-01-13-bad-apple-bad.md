@@ -13,6 +13,8 @@ comments:
   username: jenett
   id: 115889718219301798
 ---
+01/30/26-Update: Problem resolved. If you’ve experienced similar issues, get in touch and I'll point you to the solution I found. Thx.
+
 I find it hard to believe that Apple is programmatically nagging users to update to Tahoe (despite compatibility issues) <strong>without giving users the choice to say no</strong>.
 
 Some time ago, I learned the hard way that Tahoe won’t even boot on my 2020 iMac (Intel). And I can't get back the huge amount of time consumed in recovering my machine. Back then, I chose to do the update, but currently, many users with Automatic Updates turned on are learning the same lesson.
