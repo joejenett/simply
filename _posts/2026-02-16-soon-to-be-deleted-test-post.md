@@ -11,6 +11,6 @@ summary: forgive the interruption and don't link to this
 ---
 Yeah, I know. It's me, always testing:
 
-https://jenett.nekoweb.org/site-news-02-16-26/
+<a href="https://jenett.nekoweb.org/site-news-02-16-26/">link</a>
 
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
