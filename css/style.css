@@ -41,6 +41,9 @@ body {
 	margin: auto;
 	padding: 0;
 }
+a:hover img.zoomy  {
+	transform:scale(1.4);
+}
 #lk {
 	line-height:1em;
 }
