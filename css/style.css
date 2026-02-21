@@ -671,6 +671,9 @@ pre > code {
 	}
 }
 @media screen and (max-width: 479px) { 
+	.squeezeit {
+		font-size:.75em;
+	}
 	img#respect {
 		display:none;
 	}
@@ -687,6 +690,12 @@ pre > code {
 		margin: 60px 45px 20px 45px;
 	}
 }
+@media screen and (max-width: 430px) {
+	.squeezeit {
+		font-size:.65em;
+	}
+}
+
 @media screen and (max-width: 414px) { 
 	.hcard-display {
 		margin: 60px 35px 20px 35px;
