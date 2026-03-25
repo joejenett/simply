@@ -13,6 +13,8 @@ comments:
   username: jenett
   id: 115889718219301798
 ---
+03/25/26-update: It was nice while it lasted. Oh well...
+
 01/30/26-Update: Problem resolved. If you’ve experienced similar issues, get in touch and I'll point you to the solution I found. Thx.
 
 I find it hard to believe that Apple is programmatically nagging users to update to Tahoe (despite compatibility issues) <strong>without giving users the choice to say no</strong>.
