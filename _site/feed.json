@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "JSON Feed",
+    "description": "it’s personal and micro – simply.",
+    "favicon": "http://localhost:4000/wp-content/uploads/2020/10/cropped-j0920-f-copy-180x180.png",
+    "language": "en",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "user_comment": "This feed allows you to read the blogs from this site in any feed reader that supports the JSON Feed format.",
+    "items": 
+    [
+        
+            {
+            "id": "http://localhost:4000",
+            "url": "http://localhost:4000/maqa/",
+            "language": "en",
+            "title": "M.A.Q.A.",
+            "summary": "Joe’s new product idea",
+            "content_html": "<p class=\"center\">\n<a><img class=\"zoomy\" src=\"/images/maqabalm.jpg\" width=\"40%\" alt=\"Joe's new product announcement\" /></a><br /><span class=\"squeezeit\">Re-labeled Elmer's Washable School Glue Stick <br />Package © 2025 Newell Office Brands.</span> \n</p>\n\n<p><a aria-hidden=\"true\" tabindex=\"-1\" href=\"https://brid.gy/publish/mastodon\"></a></p>\n",
+            "date_published": "2026-02-21T07:31:53-05:00",
+            "image": "",
+            "banner_image": "",
+            "tags": []
+            }
+        
+    ]
+}
