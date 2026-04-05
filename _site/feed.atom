@@ -3,13 +3,32 @@
   <title type="text" xml:lang="en">simply.</title>
   <link type="application/atom+xml" href="https://simply.joejenett.com/feed.atom" rel="self"/>
   <link type="text/html" href="https://simply.joejenett.com/" rel="alternate"/>
-  <updated>2026-03-31T10:20:16-04:00</updated>
+  <updated>2026-04-05T13:50:53-04:00</updated>
   <id>https://simply.joejenett.com/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2024 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title></title>
+    <link href="https://simply.joejenett.com/4058/"/>
+    <updated>2026-04-05T13:06:41-04:00</updated>
+    <id>https://simply.joejenett.com/4058/</id>
+    <content type="html">&lt;p&gt;
+I linked to a &lt;a href=&quot;https://www.cliamp.stream/&quot;&gt;terminal music player&lt;/a&gt; over at the &lt;em&gt;hub&lt;/em&gt; this morning, which I’ve been playing with since then. I say &lt;strong&gt;Wow!&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+It’s got an excellent equalizer and visualizer. You can play any radio stream or pick one from &lt;a href=&quot;https://www.radio-browser.info/&quot;&gt;Radio Browser&lt;/a&gt;, which I’m familiar with from using &lt;a href=&quot;https://www.home-assistant.io/&quot;&gt; Home Assistant&lt;/a&gt;. Or play something from your own music library. I discovered a new-to-me Blues stream searching Radio Browser via the player. I like that.
+&lt;/p&gt;
+&lt;p&gt;
+Things like this make me appreciate how I spend my time... and appreciate some people I’m blessed to know. Thanks again &lt;a href=&quot;https://pinboard.in/u:mikael/&quot;&gt;mikael&lt;/a&gt;!
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>M.A.Q.A.</title>
@@ -142,17 +161,6 @@ for knowing darkness&lt;/p&gt;
 
 &lt;p&gt;Cheers,&lt;br /&gt;
 joe&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>good morning from Li’l Joe!</title>
-    <link href="https://simply.joejenett.com/good-morning-from-lil-joe/"/>
-    <updated>2025-06-04T07:00:49-04:00</updated>
-    <id>https://simply.joejenett.com/good-morning-from-lil-joe/</id>
-    <content type="html">&lt;p&gt;&lt;img title=&quot;I could’t resist&quot; src=&quot;/images/liljoe.png&quot; alt=&quot;Li’l Joe&quot; style=&quot;max-width:100%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
