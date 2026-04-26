@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-05-4058.md",
+                "file": "_posts/2026-04-26-art-cleanup-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-05-4058"
+              "title": "2026-04-26-art-cleanup-1"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -180,12 +180,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "292d11a250ba7fdd",
+  "active": "84796f2cbf943566",
   "lastOpenFiles": [
+    "images/oa1.png",
+    "_posts/2026-04-05-4058.md",
+    "_posts/2026-04-26-art-cleanup-1.md",
     "_site/4058/index.html",
     "_site/4058",
     "_posts/2025-09-11-4057.md",
-    "_posts/2020-03-12-1985.md",
-    "_posts/2026-04-05-4058.md"
+    "_posts/2020-03-12-1985.md"
   ]
 }
