@@ -9,6 +9,10 @@ category:
 permalink: /art-cleanup-2-and-3/
 slug: art-cleanup-2-and-3
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116476593046818648
 ---
 <p>
 <img src="/images/oa2.png" alt="" width="60%">
