@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  a little web fun is all i need
-date:   2023-01-10 08:39:56 -0400
+layout: post-reactions-c
+title: a little web fun is all i need
+date: 2023-01-10 08:39:56 -0400
 author: joe jenett
 category:
-  -  personal
-  -  ideas
-  -  haiku
-  -  fun
+  - personal
+  - ideas
+  - haiku
+  - fun
 permalink: /a-little-web-fun-is-all-i-need/
 slug: a-little-web-fun-is-all-i-need
 summary: a tale of how ideas evolve

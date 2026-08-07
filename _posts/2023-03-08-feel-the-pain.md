@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  feel the pain
-date:   2023-03-08 11:54:04 -0400
+layout: post-reactions-c
+title: feel the pain
+date: 2023-03-08 11:54:04 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /feel-the-pain/
 slug: feel-the-pain
-summary: 
+summary:
 comments: false
 ---
 ## inspiration from way back

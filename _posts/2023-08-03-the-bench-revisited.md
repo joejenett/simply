@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  The Bench (revisited)
-date:   2023-08-03 20:16:58 -0400
+layout: post-reactions-c
+title: The Bench (revisited)
+date: 2023-08-03 20:16:58 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /the-bench-revisited/
 slug: the-bench-revisited
-summary: 
+summary:
 comments: false
 ---
 <p><a href="/the_bench/">The Bench</a> <small>(May 19, 2010)</small>:</p>

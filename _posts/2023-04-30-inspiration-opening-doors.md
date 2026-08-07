@@ -1,14 +1,14 @@
 ---
-layout: post
-title:  inspiration opening doors
-date:   2023-04-30 11:37:12 -0400
+layout: post-reactions-c
+title: inspiration opening doors
+date: 2023-04-30 11:37:12 -0400
 author: joe jenett
 category:
-  -  personal
-  -  inspiration
+  - personal
+  - inspiration
 permalink: /inspiration-opening-doors/
 slug: inspiration-opening-doors
-summary: 
+summary:
 comments: false
 ---
 <p>Driven. Life is driven by experience; struggles; joy; ideas around us. The wealth of ideas on the web is its true power in my mind.</p>

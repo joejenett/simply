@@ -1,14 +1,14 @@
 ---
-layout: post
-title:  simplicitease
-date:   2023-06-04 08:47:04 -0400
+layout: post-reactions-c
+title: simplicitease
+date: 2023-06-04 08:47:04 -0400
 author: joe jenett
 category:
-  -  personal
-  -  ideas
+  - personal
+  - ideas
 permalink: /simplicitease/
 slug: simplicitease
-summary: 
+summary:
 comments: false
 ---
 you gotta get down low<br>

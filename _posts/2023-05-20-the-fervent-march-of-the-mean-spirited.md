@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  the fervent march of the mean-spirited
-date:   2023-05-20 11:21:35 -0400
+layout: post-reactions-c
+title: the fervent march of the mean-spirited
+date: 2023-05-20 11:21:35 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /the-fervent-march-of-the-mean-spirited/
 slug: the-fervent-march-of-the-mean-spirited
-summary: 
+summary:
 comments: false
 ---
 <p>

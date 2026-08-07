@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  on the ups and downs of change
-date:   2023-06-26 15:25:38 -0400r
+layout: post-reactions-c
+title: on the ups and downs of change
+date: 2023-06-26 15:25:38 -0400r
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /on-the-ups-and-downs-of-change/
 slug: on-the-ups-and-downs-of-change
-summary: 
+summary:
 comments: false
 ---
 <p>I planted a <a href="https://ideas.joejenett.com/#new%20direction">seed</a> recently about a recent <a href="https://dwt-archives.joejenett.com/announcement/"><em>game changer</em> </a> in my life - making the difficult decision to retire <em>the dailywebthing</em>. After doing <em>the daily thing</em> on the web for over 20 years, it was time for a change. 

@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  ya know, I never told you my middle name is ‘ray’
-date:   2023-04-29 08:19:41 -0400
+layout: post-reactions-c
+title: ya know, I never told you my middle name is ‘ray’
+date: 2023-04-29 08:19:41 -0400
 author: joe jenett
 category:
-  -  micro
+  - micro
 permalink: /ya-know-I-never-told-my-middle-name-is-ray/
 slug: ya-know-I-never-told-my-middle-name-is-ray
-summary: 
+summary:
 comments: false
 ---
 <p>Speaking of <a href="https://blogroll.org/">Ray</a>, we communicated recently about links and things and in his last email he shared something he thought was ‘way cool.’ He was right!</p>

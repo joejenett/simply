@@ -1,14 +1,14 @@
 ---
-layout: post
-title:  
-date:   2023-07-12 08:30:50 -0400
+layout: post-reactions-c
+title:
+date: 2023-07-12 08:30:50 -0400
 author: joe jenett
 category:
-  -  personal
-  -  haiku
+  - personal
+  - haiku
 permalink: /another-new-day/
 slug: another-new-day
-summary: 
+summary:
 comments: false
 ---
 

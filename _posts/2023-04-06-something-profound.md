@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  something profound imo
-date:   2023-04-06 16:48:51 -0400
+layout: post-reactions-c
+title: something profound imo
+date: 2023-04-06 16:48:51 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /something-profound/
 slug: something-profound
-summary: 
+summary:
 comments: false
 ---
 <p>I’m a little touched by this - the words are dancing ’round in my brain:
