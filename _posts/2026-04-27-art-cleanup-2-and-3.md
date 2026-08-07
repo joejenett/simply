@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: art cleanup (2 and 3)
 date: 2026-04-27T08:00:40 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116476593046818648
+  id: 116476593046818660
 ---
 <p>
 <img src="/images/oa2.png" alt="" width="60%">

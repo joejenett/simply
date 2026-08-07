@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  I know I said ‘final’ so...
-date:   2024-08-11 17:09:49 -0400
+layout: post-reactions-c
+title: I know I said ‘final’ so...
+date: 2024-08-11 17:09:49 -0400
 author: joe jenett
 category:
-  -  personal
-  -  desktops
+  - personal
+  - desktops
 permalink: /i-know-i-said-final/
 slug: i-know-i-said-final
 summary: oops, I did it again

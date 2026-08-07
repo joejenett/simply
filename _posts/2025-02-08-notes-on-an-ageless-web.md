@@ -1,14 +1,14 @@
 ---
-layout: post-reactions
-title:  notes on an ageless web
-date:   2025-02-08 10:01:47 -0400
+layout: post-reactions-c
+title: notes on an ageless web
+date: 2025-02-08 10:01:47 -0400
 author: joe jenett
 category:
-  -  personal
-  -  web
+  - personal
+  - web
 permalink: /notes-on-an-ageless-web/
 slug: notes-on-an-ageless-web
-summary: 
+summary:
 comments: false
 ---
 <p style="font-size:.95rem;">

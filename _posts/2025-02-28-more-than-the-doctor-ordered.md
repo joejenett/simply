@@ -1,11 +1,11 @@
 ---
-layout: post-reactions
-title:  more than the doctor ordered
-date:   2025-02-28 10:19:31 -0400
+layout: post-reactions-c
+title: more than the doctor ordered
+date: 2025-02-28 10:19:31 -0400
 author: joe jenett
 category:
-  -  personal
-  -  music
+  - personal
+  - music
 permalink: /more-than-the-doctor-ordered/
 slug: more-than-the-doctor-ordered
 summary: Thanks Clive, David, and Robert

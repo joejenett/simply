@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: bad Apple...bad!
 date: 2026-01-13T15:02:39 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115889718219301798
+  id: 115889718219301800
 ---
 03/25/26-Update: It was nice while it lasted. Oh well...
 

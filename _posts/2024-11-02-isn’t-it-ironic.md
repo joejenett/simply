@@ -1,13 +1,13 @@
 ---
-layout: post
-title: isn’t it ironic... 
-date:   2024-11-02 10:10:39 -0400
+layout: post-reactions-c
+title: isn’t it ironic...
+date: 2024-11-02 10:10:39 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /isn’t-it-ironic/
 slug: isn’t-it-ironic
-summary: 
+summary:
 comments: true
 ---
 

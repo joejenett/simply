@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  new style, same simply.
-date:   2025-04-07 07:38:09 -0400
+layout: post-reactions-c
+title: new style, same simply.
+date: 2025-04-07 07:38:09 -0400
 author: joe jenett
 category:
-  -  site
+  - site
 permalink: /new-style-same-simply/
 slug: new-style-same-simply
-summary: 
+summary:
 comments: false
 ---
 <p>

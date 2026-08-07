@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: critters out back
 date: 2025-07-11T14:46:25 -0400
 author: joe jenett
@@ -11,8 +11,7 @@ summary: photo by Kim
 comments:
   host: toot.community
   username: jenett
-  id: 114836141369068697
- 
+  id: 114836141369068700
 ---
 Photo by Kim
 

@@ -1,11 +1,11 @@
 ---
-layout: post-reactions
-title:  an old thought and the new web
-date:   2025-03-23 08:18:07 -0400
+layout: post-reactions-c
+title: an old thought and the new web
+date: 2025-03-23 08:18:07 -0400
 author: joe jenett
 category:
-  -  personal
-  -  web
+  - personal
+  - web
 permalink: /an-old-thought-and-the-new-web/
 slug: an-old-thought-and-the-new-web
 summary: a place you can call your own

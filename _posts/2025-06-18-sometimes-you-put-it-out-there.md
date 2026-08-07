@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: sometimes you put it out there...
 date: 2025-06-18T09:10:59 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114704715493469343
+  id: 114704715493469340
 ---
 ...and sometimes you should take it back.
 

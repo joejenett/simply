@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  some things are hard
-date:   2024-09-05 12:34:10 -0400
+layout: post-reactions-c
+title: some things are hard
+date: 2024-09-05 12:34:10 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /some-things-are-hard/
 slug: some-things-are-hard
-summary: 
+summary:
 comments: true
 ---
 I’ve often said *life is good* to express my gratitude for being alive. I’ve been kinda lucky (but not always). 

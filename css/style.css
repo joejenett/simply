@@ -138,6 +138,9 @@ a:hover img.zoomy  {
 	border-bottom:1px solid #ddd;
 	margin-bottom:48px;
 }
+.onerem {
+	font-size:1rem;
+}
 .ninerem {
 	font-size:.9rem;
 }

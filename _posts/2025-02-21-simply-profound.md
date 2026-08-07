@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  simply.profound
-date:   2025-02-21 18:15:19 -0400
+layout: post-reactions-c
+title: simply.profound
+date: 2025-02-21 18:15:19 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /simply-profound/
 slug: simply-profound
-summary: 
+summary:
 comments: false
 ---
 <blockquote class="quoteback" data-title="Brad Enslen’s Blog - Feb 20, 2025" data-author="//Brad Enslen" data-avatar="https://micro.blog/bradenslen/avatar.jpg" cite="https://ramblinggit.com/2025/02/20/its-like-weve-all-been.html">

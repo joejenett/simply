@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  alive and kicking
-date:   2024-07-31 14:03:05 -0400
+layout: post-reactions-c
+title: alive and kicking
+date: 2024-07-31 14:03:05 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /alive-and-kicking/
 slug: alive-and-kicking
-summary: 
+summary:
 comments: false
 ---
 Thanks to the miracles of modern medicine and therapeutic botanicals, I’m grateful to report this old guy is doing just fine. Seems there’s still time for my [_bowie moment_](https://simply.joejenett.com/bowie/). 

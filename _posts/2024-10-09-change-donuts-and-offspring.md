@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  change, donuts, and offspring
-date:   2024-10-09 12:33:45 -0400
+layout: post-reactions-c
+title: change, donuts, and offspring
+date: 2024-10-09 12:33:45 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /change-donuts-and-offspring/
 slug: change-donuts-and-offspring
 summary: a year and a half

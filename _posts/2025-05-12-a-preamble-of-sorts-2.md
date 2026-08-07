@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a preamble of sorts-2
 date: 2025-05-12T09:39:27 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: just a haiku
 comments:
   host: toot.community
   username: jenett
-  id: 114495183994397367
+  id: 114495183994397360
 ---
 in a longform life<br>so many damn things to say<br>when haiku falls short...
 

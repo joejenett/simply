@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: talking to myself
 date: 2025-04-23T09:56:34 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: What a nut!
 comments:
   host: toot.community
   username: jenett
-  id: 114387747377491354
+  id: 114387747377491360
 ---
 A parody if you will:
 
