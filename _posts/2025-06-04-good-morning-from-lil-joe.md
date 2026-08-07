@@ -14,6 +14,6 @@ comments:
   id: 114624812403210290
 ---
 
-<img title="I could’t resist" src="/images/liljoe.png" alt="Li’l Joe" style="max-width:100%;">
+<img title="I could’t resist" src="/images/liljoe.jpg" alt="Li’l Joe" style="max-width:100%;">
 
 <a href="https://brid.gy/publish/mastodon"></a>
