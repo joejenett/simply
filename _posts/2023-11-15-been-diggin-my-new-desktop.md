@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: been diggin’ my new desktop...
 date: 2023-11-15 21:09:01 -0400
 author: joe jenett

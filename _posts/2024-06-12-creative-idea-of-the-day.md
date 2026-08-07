@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Lonita’s Creative Idea of the Day
-date:   2024-06-12 14:26:53 -0400
+layout: post-reactions-c
+title: Lonita’s Creative Idea of the Day
+date: 2024-06-12 14:26:53 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /creative-idea-of-the-day/
 slug: creative-idea-of-the-day
 summary: I needed that, thank you!

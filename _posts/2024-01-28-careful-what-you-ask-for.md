@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: careful what you ask for
 date: 2024-01-28 21:07:54 -0400
 author: joe jenett

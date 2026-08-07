@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  Some guy named Clive...
-date:   2024-02-22 15:31:29 -0400
+layout: post-reactions-c
+title: Some guy named Clive...
+date: 2024-02-22 15:31:29 -0400
 author: joe jenett
 category:
-  -  
+  - 
 permalink: /some-guy-named-clive/
 slug: some-guy-named-clive
-summary: 
+summary:
 comments: false
 ---
 ...who I’m lucky to say I’ve known a long time. We go way back on the web. Let me introduce you to Clive Murray - this guy can play!

@@ -1,14 +1,14 @@
 ---
-layout: post
-title:  joe’s desktop design therapy - the final product *
-date:   2024-04-27 14:52:43 -0400
+layout: post-reactions-c
+title: joe’s desktop design therapy - the final product *
+date: 2024-04-27 14:52:43 -0400
 author: joe jenett
 category:
   - personal
   - desktops
 permalink: /joes-desktop-design-therapy-the-final-product/
 slug: joes-desktop-design-therapy-the-final-product
-summary: 
+summary:
 comments: false
 ---
 <p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;font-weight:bold;">

@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  can you say m-a-d-m-a-n ?
-date:   2023-08-24 21:12:31 -0400
+layout: post-reactions-c
+title: can you say m-a-d-m-a-n ?
+date: 2023-08-24 21:12:31 -0400
 author: joe jenett
 category:
-  -  giggles
+  - giggles
 permalink: /can-you-say-madman/
 slug: can-you-say-madman
-summary: 
+summary:
 comments: false
 ---
 <p>

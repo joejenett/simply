@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  inspiredly written in the hope of helping them through
-date:   2024-05-02 10:28:02 -0400
+layout: post-reactions-c
+title: inspiredly written in the hope of helping them through
+date: 2024-05-02 10:28:02 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /in-the-hope-of-helping/
 slug: in-the-hope-of-helping
-summary: 
+summary:
 comments: false
 ---
 <a href="https://ideas.joejenett.com/#time">the seed</a>:

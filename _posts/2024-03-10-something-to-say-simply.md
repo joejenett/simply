@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  something to say... simply.
-date:   2024-03-10 12:56:45 -0400
+layout: post-reactions-c
+title: something to say... simply.
+date: 2024-03-10 12:56:45 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /something-to-say-simply/
 slug: something-to-say-simply
 summary: just sayin’

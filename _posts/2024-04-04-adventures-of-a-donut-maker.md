@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  adventures of a donut maker
-date:   2024-04-04 08:49:56 -0400
+layout: post-reactions-c
+title: adventures of a donut maker
+date: 2024-04-04 08:49:56 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /adventures-of-a-donut-maker/
 slug: adventures-of-a-donut-maker
 summary: gotta make the donuts

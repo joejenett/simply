@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Schnoozy kitty, meet the zonked Mr. Mojo
-date:   2023-10-09 21:29:36 -0400
+layout: post-reactions-c
+title: Schnoozy kitty, meet the zonked Mr. Mojo
+date: 2023-10-09 21:29:36 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /schnoozy-kitty-meet-the-zonked-mr-mojo/
 slug: schnoozy-kitty-meet-the-zonked-mr-mojo
 summary: the shnooze brought back a few nice memories

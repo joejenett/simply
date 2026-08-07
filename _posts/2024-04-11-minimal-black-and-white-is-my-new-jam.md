@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  minimal black and white is my new jam
-date:   2024-04-11 08:59:20 -0400
+layout: post-reactions-c
+title: minimal black and white is my new jam
+date: 2024-04-11 08:59:20 -0400
 author: joe jenett
 category:
   - personal

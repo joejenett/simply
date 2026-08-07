@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  whataya mean - pulled a Jack?
-date:   2024-05-28 08:52:06 -0400
+layout: post-reactions-c
+title: whataya mean - pulled a Jack?
+date: 2024-05-28 08:52:06 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /whataya-mean-pulled-a-jack/
 slug: whataya-mean-pulled-a-jack
 summary: just keeping Jack posted

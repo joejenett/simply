@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  trying to hide...
-date:   2024-06-08 11:56:46 -0400
+layout: post-reactions-c
+title: trying to hide...
+date: 2024-06-08 11:56:46 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /trying-to-hide/
 slug: trying-to-hide
 summary: from the brainstormer

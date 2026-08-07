@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  love waitin’ for ya, take one
-date:   2023-08-29 10:59:37 -0400
+layout: post-reactions-c
+title: love waitin’ for ya, take one
+date: 2023-08-29 10:59:37 -0400
 author: joe jenett
 category:
-  -  personal
-  -  music
+  - personal
+  - music
 permalink: /love-waitin-for-ya-take-one/
 slug: love-waitin-for-ya-take-one
 summary: a little GarageBand creation (rough draft)

@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  gratefully inspired
-date:   2024-05-11 08:42:39 -0400
+layout: post-reactions-c
+title: gratefully inspired
+date: 2024-05-11 08:42:39 -0400
 author: joe jenett
 category:
-  -  personal
+  - personal
 permalink: /gratefully-inspired/
 slug: gratefully-inspired
 summary: little things that matter
