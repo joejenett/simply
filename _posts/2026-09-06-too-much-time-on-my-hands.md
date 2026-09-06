@@ -9,6 +9,10 @@ category:
 permalink: /too-much-time-on-my-hands/
 slug: too-much-time-on-my-hands
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117224427687469189
 ---
 _(09/06/26, 7:04 AM: written in the throes of an extended internet outage)_  
 
