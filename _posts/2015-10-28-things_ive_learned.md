@@ -37,5 +37,3 @@ My good friend Anne once ended a blog post with the question, “Anything you’
   * Gun lobbyists are dangerous to all of us as well.
 
 Then again, what do I know?
-
-([prior discussion](https://disqus.com/home/discussion/jenettsimplypersonal/jenettsimplypersonal_things_ive_learned/))
